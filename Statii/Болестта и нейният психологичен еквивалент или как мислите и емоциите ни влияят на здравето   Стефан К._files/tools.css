@@ -1,0 +1,263 @@
+* { 
+    margin: 0 0 0 0;
+    padding: 0 0 0 0;
+}
+
+html {
+  color: #000000;
+  font-family: Arial,Helvetica,sans-serif;
+  font-size: 13px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: normal;
+  background-color: #ffffff;
+}
+
+body {
+  background-color: #ffffff;
+}
+
+div {
+  display: inline-block; /* hasLayout = true */
+}
+div {
+  display: block; /* restore proper behavior */
+  overflow: hidden;
+  /*width: auto;*/ /* 100% by default */
+}
+
+table {
+  display: table;
+  width: auto; /* shrinked to content by default */
+  table-layout: auto;
+  border-collapse: collapse;
+  border-spacing: 1px;
+  empty-cells: hide;
+  caption-side: top;
+}
+
+ul {
+  list-style-type: disc;
+  list-style-position: inside;
+}
+
+ol {
+  list-style-type: decimal;
+  list-style-position: inside;
+}
+
+h1 {
+  /*font-size: 200%;*/
+  font-size: 140%;
+  line-height: 118%;
+}
+
+h2 {
+  font-size: 140%;
+  line-height: 118%;
+}
+
+h3 {
+  font-size: 120%;
+  line-height: 112%;
+}
+
+a {
+  cursor: pointer;
+  color: #326dd3;
+  text-decoration: none;
+  background-color: transparent;
+}
+a:hover {
+  text-decoration: underline;
+  color: #ff6600;
+}
+
+img {
+  vertical-align: baseline;
+  border: 0px;
+}
+
+hr {
+  height: 1px;
+  margin: 10px 0 10px 0;
+  border: 0px;
+  color: #d0d0d0;
+  background-color: #d0d0d0;
+}
+
+form {
+  display: block;
+  width: auto;
+}
+
+pre {
+  font-family: Arial,Helvetica,sans-serif;
+  font-size: 13px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: normal;
+}
+
+ .svejo_button_orange { /* MARKED OK */
+        width: 60px;
+        height: 70px;
+        float: left;
+        color: #000000;
+        text-align: center;
+        background-image: url('/images/misc/svejo_button_orange.gif');
+        background-repeat: no-repeat;
+        background-position: center top;
+    }
+    
+    .svejo_button_orange_pressed { /* MARKED OK */
+        width: 60px;
+        height: 70px;
+        float: left;
+        color: #666666;
+        text-align: center;
+        background-image: url('/images/misc/svejo_button_orange_pressed.gif');
+        background-repeat: no-repeat;
+        background-position: center top;
+    }
+    
+    .svejo_button_green { /* MARKED OK */
+        width: 60px;
+        height: 70px;
+        float: left;
+        color: #000000;
+        text-align: center;
+        background-image: url('/images/misc/svejo_button_green.gif');
+        background-repeat: no-repeat;
+        background-position: center top;
+    }
+    
+    .svejo_button_green_pressed { /* MARKED OK */
+        width: 60px;
+        height: 70px;
+        float: left;
+        color: #666666;
+        text-align: center;
+        background-image: url('/images/misc/svejo_button_green_pressed.gif');
+        background-repeat: no-repeat;
+        background-position: center top;
+    }
+    
+    .svejo_button_orange_compact { /* MARKED OK */
+        width: 100px;
+        height: 30px;
+        float: left;
+        color: #000000;
+        text-align: center;
+        background-image: url('/images/misc/svejo_button_orange_compact.gif');
+        background-repeat: no-repeat;
+        background-position: center top;
+    }
+    
+    .svejo_button_orange_pressed_compact { /* MARKED OK */
+        width: 100px;
+        height: 30px;
+        float: left;
+        color: #666666;
+        text-align: center;
+        background-image: url('/images/misc/svejo_button_orange_pressed_compact.gif');
+        background-repeat: no-repeat;
+        background-position: center top;
+    }
+    
+    .svejo_button_green_compact { /* MARKED OK */
+        width: 100px;
+        height: 30px;
+        float: left;
+        color: #000000;
+        text-align: center;
+        background-image: url('/images/misc/svejo_button_green_compact.gif');
+        background-repeat: no-repeat;
+        background-position: center top;
+    }
+    
+    .svejo_button_green_pressed_compact { /* MARKED OK */
+        width: 100px;
+        height: 30px;
+        float: left;
+        color: #666666;
+        text-align: center;
+        background-image: url('/images/misc/svejo_button_green_pressed_compact.gif');
+        background-repeat: no-repeat;
+        background-position: center top;
+    }
+    
+        a.svejo_btn { /* MARKED OK */
+            font-size: 11px;
+            color: #000000;
+            font-weight: bold;
+            text-align: center;
+        }
+    
+        a.svejo_btn_pressed { /* MARKED OK */
+            font-size: 11px;
+            color: #666666;
+            font-weight: bold;
+            text-align: center;
+        }
+    
+        .svejo_button_count { /* MARKED OK */
+            height: 50px;
+        }
+        
+        .svejo_button_count_compact { /* MARKED OK */
+            height: 26px;
+            width: 35px;
+            float: left;
+        }
+        
+        .svejo_button_count a { /* MARKED OK */
+            display: block;
+            margin-left: 5px;
+            margin-right: 5px;
+            padding-top: 6px;
+            height: 40px; /* as big as the background image - 10px from padding-top */
+            width: 50px;
+            font-size: 18px;
+            font-weight: bold;
+            text-decoration: none;
+            text-align: center;
+        }
+        
+        .svejo_button_count_compact a { /* MARKED OK */
+            display: block;
+            padding-top: 5px;
+            padding-left: 4px;
+            height: 21px; /* as big as the background image - 5px from padding-top */
+            width: 33px;
+            font-size: 18px;
+            font-weight: bold;
+            text-decoration: none;
+            text-align: center;
+        }
+        
+        .svejo_button_votes { /* MARKED OK */
+            display: block;
+            margin-top: 6px;
+            font-size: 12px;
+            font-weight: normal;
+            text-align: center;
+            color: #FFFFFF;
+        }
+        
+        .svejo_button_action { /* MARKED OK */
+            font-size: 11px;
+            text-align: center;
+        }
+        
+        .svejo_button_action_compact { /* MARKED OK */
+            width: 63px;
+            height: 17px;
+            float: right;
+            padding-top: 5px;
+            padding-bottom: 4px;
+            font-size: 11px;
+            text-align: center;
+        }

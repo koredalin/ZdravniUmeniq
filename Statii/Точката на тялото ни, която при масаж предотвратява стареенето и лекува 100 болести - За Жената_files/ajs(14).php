@@ -1,0 +1,10 @@
+var OX_524f4559 = '';
+OX_524f4559 += "<"+"script type=\'text/javascript\'>\n";
+OX_524f4559 += "/* easyads.bg textAd rotator name: Pik.bg, TextAds, 970x90 Bottom, size: 970x90, url: pik.bg */\n";
+OX_524f4559 += "(function(dc, scr, loc){\n";
+OX_524f4559 += "var d=new Date();var s=\'script\';var et=d.getTimezoneOffset()+d.getTime();var rf=escape(dc.referrer);var cb=Math.round(Math.random()*21474836);\n";
+OX_524f4559 += "var surl=(loc.protocol==\'https:\'?\'https://media.easyads.bg/textads.php?rid=5829&\':\'http://media.easyads.bg/textads.php?rid=5829&\');\n";
+OX_524f4559 += "dc.write(\'<"+"\'+s+\' src=\'+surl+\'scr=\'+scr.width+\'x\'+scr.height+\'&et=\'+et+\'&cb=\'+cb+\'&rf=\'+rf+\'&md5checksum=6kk1p9TBfBnYoMEtJXmPb0cw-AHIFIwd&eaclick=><"+"/\'+s+\'>\');\n";
+OX_524f4559 += "}(document, screen, location));\n";
+OX_524f4559 += "<"+"/script><"+"div id=\'beacon_89b39abcbe\' style=\'position: absolute; left: 0px; top: 0px; visibility: hidden;\'><"+"img src=\'http://ads.pik.bg/www/delivery/lg.php?bannerid=169&amp;campaignid=59&amp;zoneid=44&amp;loc=1&amp;referer=http%3A%2F%2Fpik.bg%2F%3Futm_source%3Dkartite%26utm_medium%3Dcpm%26utm_term%3Ddirect%26utm_campaign%3Dtraffic&amp;cb=89b39abcbe\' width=\'0\' height=\'0\' alt=\'\' style=\'width: 0px; height: 0px;\' /><"+"/div>\n";
+document.write(OX_524f4559);

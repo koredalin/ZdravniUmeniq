@@ -1,0 +1,12 @@
+document.write("<style type=\"text/css\">");
+document.write(".txt {font-family: Verdana, Arial, Helvetica, sans-serif\;font-size: 11px\;color: #000000\;text-decoration: none\; line-height:120%}");
+document.write(".txt A:link {color: #000000; text-decoration: underline}");
+document.write(".txt A:visited {color: #000000; text-decoration: underline}");
+document.write(".txt A:hover {color: #000000; text-decoration: none}");
+document.write(".txt08 {font-family: Verdana, Arial, Helvetica, sans-serif\;font-size: 9px\;color: #006699\;text-decoration: underline\;}");
+document.write("</style>");
+document.write("<table  border=\"0\" cellspacing=\"3\" cellpadding=\"0\" style=\"border: 1px dotted #CCCCCC\;\" class=\"txt08\">");
+document.write("<tr><td><a href=\"http://downloads.dir.bg/go.php?act=2&bid=4&sid=0\">USD</a></td><td width=\"35\"></td><td align=\"right\"><a href=\"http://downloads.dir.bg/go.php?act=2&bid=4&sid=0\">1.42439</a></td></tr>");
+document.write("<tr><td><a href=\"http://downloads.dir.bg/go.php?act=3&bid=4&sid=0\">GBP</a></td><td></td><td align=\"right\"><a href=\"http://downloads.dir.bg/go.php?act=3&bid=4&sid=0\">2.37560</a></td></tr>");
+document.write("<tr><td><a href=\"http://downloads.dir.bg/go.php?act=4&bid=4&sid=0\">EUR</a></td><td></td><td align=\"right\"><a href=\"http://downloads.dir.bg/go.php?act=4&bid=4&sid=0\">1.95583</a></td></tr>");
+document.write("</table>");

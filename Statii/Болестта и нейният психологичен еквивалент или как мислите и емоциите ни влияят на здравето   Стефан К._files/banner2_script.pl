@@ -1,0 +1,1 @@
+document.write("<a href='http://vremeto.v.bg/' target='_blank'><img src='http://vremeto.v.bg/graph/banner2.pl?lang=_eng&st_id=8&st_id=7&st_id=15&st_id=18&st_id=2&st_id=3&st_id=20&security_code=4241b1017effbe2ca99bc4be92a41c98' border='0'></a>");

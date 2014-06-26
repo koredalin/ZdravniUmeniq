@@ -1,0 +1,10 @@
+var OX_7d293dde = '';
+OX_7d293dde += "<"+"script type=\'text/javascript\'>\n";
+OX_7d293dde += "/* easyads.bg displayAd rotator name: zajenata 300 600, size: 300x600, url: zajenata.bg */\n";
+OX_7d293dde += "(function(dc, scr, loc){\n";
+OX_7d293dde += "var d=new Date();var s=\'script\';var et=d.getTimezoneOffset()+d.getTime();var rf=escape(dc.referrer);var cb=Math.round(Math.random()*21474836);\n";
+OX_7d293dde += "var surl=(loc.protocol==\'https:\'?\'https://media.easyads.bg/displayads.php?rid=5725&\':\'http://media.easyads.bg/displayads.php?rid=5725&\');\n";
+OX_7d293dde += "dc.write(\'<"+"\'+s+\' src=\'+surl+\'scr=\'+scr.width+\'x\'+scr.height+\'&et=\'+et+\'&cb=\'+cb+\'&rf=\'+rf+\'&md5checksum=EjHZSLz5RTLBzaoG8t-Miptr-oqNFoGc&eaclick=><"+"/\'+s+\'>\');\n";
+OX_7d293dde += "}(document, screen, location));\n";
+OX_7d293dde += "<"+"/script><"+"div id=\'beacon_21b48361c3\' style=\'position: absolute; left: 0px; top: 0px; visibility: hidden;\'><"+"img src=\'http://pagead.topobiavi.com/www/delivery/lg.php?bannerid=888&amp;campaignid=2&amp;zoneid=86&amp;loc=1&amp;referer=http%3A%2F%2Fwww.zajenata.bg%2F%25D1%2582%25D0%25BE%25D1%2587%25D0%25BA%25D0%25B0%25D1%2582%25D0%25B0-%25D0%25BD%25D0%25B0-%25D1%2582%25D1%258F%25D0%25BB%25D0%25BE%25D1%2582%25D0%25BE-%25D0%25BD%25D0%25B8-%25D0%25BA%25D0%25BE%25D1%258F%25D1%2582%25D0%25BE-%25D0%25BF%25D1%2580%25D0%25B8-%25D0%25BC%25D0%25B0%25D1%2581%25D0%25B0%25D0%25B6-%25D0%25BF%25D1%2580%25D0%25B5%25D0%25B4%25D0%25BE%25D1%2582%25D0%25B2%25D1%2580%25D0%25B0%25D1%2582%25D1%258F%25D0%25B2%25D0%25B0-%25D1%2581%25D1%2582%25D0%25B0%25D1%2580%25D0%25B5%25D0%25B5%25D0%25BD%25D0%25B5%25D1%2582%25D0%25BE-%25D0%25B8-%25D0%25BB%25D0%25B5%25D0%25BA%25D1%2583%25D0%25B2%25D0%25B0-100-%25D0%25B1%25D0%25BE%25D0%25BB%25D0%25B5%25D1%2581%25D1%2582%25D0%25B8-news14042.html&amp;cb=21b48361c3\' width=\'0\' height=\'0\' alt=\'\' style=\'width: 0px; height: 0px;\' /><"+"/div>\n";
+document.write(OX_7d293dde);

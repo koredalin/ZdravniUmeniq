@@ -1,0 +1,2000 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns:fb="http://ogp.me/ns/fb#">
+    <head>
+        <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+        <title>Информационна агенция ПИК</title>
+
+        <meta name="description" content="Информационна агенция ПИК" />
+        <meta name="keywords" content="Информационна, агенция, Informacionna, agenciq" />
+
+                
+                                                        
+        <!-- <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />  -->
+        <meta name="viewport" content="user-scalable=no, initial-scale=1.0, maximum-scale=1.0, width=device-width">
+        <link rel="stylesheet" type="text/css" href="/css/style_n2.css?80" />
+        <link href="/css/media-queries.css" rel="stylesheet" type="text/css" />
+      <!--  <link rel="stylesheet" type="text/css" href="/css/reset.css" />  -->
+        <link rel="stylesheet" type="text/css" href="/css/left_column2.css" />
+        <link rel="stylesheet" type="text/css" href="/css/right_column.css" />
+        <link rel="stylesheet" type="text/css" href="/css/ico.css" />
+        <script src="/js/jquery-1.9.1.js"></script>
+        <script src="/js/responsive_navigation.js" type="text/javascript"></script>
+        <script src="/js/responsive_contentt3.js?2000" type="text/javascript"></script>
+        <!--[if lt IE 9]>
+            <script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
+        <![endif]-->
+        <script src="/js/functions2.js" type="text/javascript"></script>
+
+        <link rel="stylesheet" href="/css/jquery-ui.css" />
+        <script src="/js/jquery-ui.js"></script>
+          <script src="http://pik.bg/prettyPhoto/js/jquery.prettyPhoto.js"></script>
+        <link rel="stylesheet" type="text/css" src="http://pik.bg/prettyPhoto/css/prettyPhoto.css"></script>
+                <link rel="SHORTCUT ICON" href="http://i.pik.bg/img/favicon.png" />
+        
+            <!-- Start Alexa Certify Javascript -->
+            <script type="text/javascript">
+            _atrk_opts = { atrk_acct:"apryj1a8gN00oO", domain:"pik.bg",dynamic: true};
+            (function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+            </script>
+            <noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=apryj1a8gN00oO" style="display:none" height="1" width="1" alt="" /></noscript>
+            <!-- End Alexa Certify Javascript -->
+        
+    </head>
+
+    <body style="background: url('http://ads.pik.bg/www/images/46c294ad3c73915930e3444e341bf135.png') no-repeat top fixed;" id="main_brand">
+
+    <div class="left w100 abs_top_backgr_wrap">
+        <div class="PageCentered" style="margin-top:0px;background:none;">
+            <a class="hover_it" href="http://pik.bg/" style="font-size: 13px; color:#fff;text-decoration:underline;" title="Инфомационна агенция ПИК" target="_blank">Pik.bg</a>
+            <a class="hover_it" href="http://lakomnik.bg/" style="font-size: 13px;color:#fff;margin-left:10px;" title="Lakomnik.bg" target="_blank">Lakomnik.bg</a>
+            <a class="hover_it" href="http://izbori.pik.bg/" style="font-size: 13px;color:#fff;margin-left:10px;" title="Избори ПИК" target="_blank">izbori.pik.bg</a>
+            <a class="hover_it" href="http://www.milleniumbg.eu/bg/" style="font-size: 13px;color:#fff;margin-left:10px;" title="Milleniumbg.eu" target="_blank">Milleniumbg.eu</a>
+        </div>
+    </div>
+    
+    <div id="fb-root"></div>
+        
+
+    <script type="text/javascript">
+    
+    window.fbAsyncInit = function() {
+        FB.init({
+            appId      : '735760233136132', // App ID
+            status     : true, // check login status
+            cookie     : true, // enable cookies to allow the server to access the session
+            xfbml      : true  // parse XFBML
+        });
+        // Additional initialization code here
+    }; 
+    
+    </script>      
+    
+    <script>(function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s); js.id = id;
+      js.src = "//connect.facebook.net/bg_BG/all.js";
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
+    </script>
+    
+    <script type="text/javascript">
+    
+    function FBLogin() {        
+        FB.login(function(response) {
+            if (response.authResponse) {
+                window.top.location = 'http://pik.bg/fb.php?resp=';
+            } else {
+            }
+        }, {'scope':'email,user_birthday,user_hometown'});
+    }
+    
+    </script>
+    
+          <a class="brand" id="brand" target="_blank" href="http://ads.pik.bg/www/delivery/ck.php?oaparams=2__bannerid=98__zoneid=26__cb=a52aa43d72__oadest=http%3A%2F%2Flakomnik.bg%2F"></a>
+      <div  id='beacon_a52aa43d72' style='position: absolute; left: 0px; top: 0px; visibility: hidden;'><img src='http://ads.pik.bg/www/delivery/lg.php?bannerid=98&amp;campaignid=28&amp;zoneid=26&amp;loc=http%3A%2F%2Fpik.bg%2Fw%2Ficons%2Fday%2F.png&amp;cb=a52aa43d72' width='0' height='0' alt='' style='width: 0px; height: 0px;' /></div>
+    
+    
+                    <div id="ajax_bomba"></div>
+                    
+                     <script>
+                        $( document ).ready(function() {
+                             $.get( "http://pik.bg/ajaxtabs/get_bomba", function( data ) {
+                               $( "#ajax_bomba" ).html( data );
+                             });
+                        });
+                     </script>
+                    
+                                             
+        <div id="wrapper" style="margin-top:22px;">
+
+                                    <div id="header" class="left relative">
+                
+                    <div id="black_bar_new" class="left">
+                        <div id="news">
+                            <a style="text-decoration:none;color:#fff;" title="НОВИНИТЕ ДНЕС" href="http://pik.bg/novini-za-14-06-2014.html">НОВИНИТЕ ДНЕС: <span style="font-family:Georgia; font-weight:bold; font-size:14px;">136</span></a>
+                            | <a style="text-decoration:none;color:#fff;" title="НОВИНИТЕ ВЧЕРА" href="http://pik.bg/novini-za-13-06-2014.html">НОВИНИТЕ ВЧЕРА: <span style="font-family:Georgia; font-weight:bold; font-size:14px;">315</span></a>
+                        </div>
+                        <div id="date" style="margin: 7px 0 0 7%;" class="h320">14 Юни 2014, събота, <strong>17:10</strong></div>
+                        <div id="become_reporter_wraper" class="left new_login_style" >
+                            <a class="became_rep" onclick="ToggleDiv('become_reporter_content');" href="javascript:void(0);" class="left ">
+                                                           </a>
+
+                            <div id="become_reporter_content" class="login_fix h320 become_reporter_dropdown_wrap" style="display:none;">
+                                                                <a class="left w100 link_become_reporter" href="http://pik.bg/users/login_app">Вход</a>
+                                <a class="left w100 link_become_reporter" href="http://pik.bg/users/register">Регистрация</a>
+                                                                <a class="left w100 link_become_reporter" href="http://pik.bg/static/index/14">Как да участвам</a>
+                                                                <a class="left w100 link_become_reporter" href="http://pik.bg/users/login_app">Изпрати новина</a>
+                                <a class="left w100 link_become_reporter" href="http://pik.bg/users/login_app">Направи снимка и спечели</a>
+                                                            </div>
+                         </div>
+                                                <!-- <div id="entry"><a href="#" class="left"><div class="left h320">Вход</div><div class="left white_arrow_down login320"></div></a><div class="left h768 h320" style="margin:0 3px;">|</div><a href="#" class="left"><div class="left h320" style="margin:0 0 0 3px;">Регистрация</div><div class="left white_arrow_down register320"></div></a></div>  -->
+                        
+                    </div>
+                                <div id="header_content" class="left">
+
+                    <div id="weather">
+                                                    <div id="weather_32964" class="left place pointer dinamic_hide_weather" onclick="ShowWeather();" style="display:none;">
+                                <div class="left">Русе</div>
+                                <div class="left black_arrow_down"></div>
+                                <div class="left weather_cont">
+                                    <a title="Времето в Русе" href="http://pik.bg/vremeto-v-rousse.html"><img class="left image" src="http://pik.bg/w/icons/day/partlycloudy.png" alt="" /></a>
+                                    <div class="left temp">26 C</div>
+                                </div>
+                            </div>
+                                                    <div id="weather_32959" class="left place pointer dinamic_hide_weather" onclick="ShowWeather();" style="display:none;">
+                                <div class="left"></div>
+                                <div class="left black_arrow_down"></div>
+                                <div class="left weather_cont">
+                                    <a title="Времето в " href="http://pik.bg/vremeto-v-varna.html"><img class="left image" src="http://pik.bg/w/icons/day/.png" alt="" /></a>
+                                    <div class="left temp">0 C</div>
+                                </div>
+                            </div>
+                                                    <div id="weather_32960" class="left place pointer dinamic_hide_weather" onclick="ShowWeather();" style="display:none;">
+                                <div class="left"></div>
+                                <div class="left black_arrow_down"></div>
+                                <div class="left weather_cont">
+                                    <a title="Времето в " href="http://pik.bg/vremeto-v-burgas.html"><img class="left image" src="http://pik.bg/w/icons/day/.png" alt="" /></a>
+                                    <div class="left temp">0 C</div>
+                                </div>
+                            </div>
+                                                    <div id="weather_32962" class="left place pointer dinamic_hide_weather" onclick="ShowWeather();" style="display:none;">
+                                <div class="left">Благоевград</div>
+                                <div class="left black_arrow_down"></div>
+                                <div class="left weather_cont">
+                                    <a title="Времето в Благоевград" href="http://pik.bg/vremeto-v-blagoev.html"><img class="left image" src="http://pik.bg/w/icons/day/partlycloudy.png" alt="" /></a>
+                                    <div class="left temp">25 C</div>
+                                </div>
+                            </div>
+                                                    <div id="weather_32963" class="left place pointer dinamic_hide_weather" onclick="ShowWeather();" style="display:none;">
+                                <div class="left">Враца</div>
+                                <div class="left black_arrow_down"></div>
+                                <div class="left weather_cont">
+                                    <a title="Времето в Враца" href="http://pik.bg/vremeto-v-vratsa.html"><img class="left image" src="http://pik.bg/w/icons/day/partlycloudy.png" alt="" /></a>
+                                    <div class="left temp">23 C</div>
+                                </div>
+                            </div>
+                                                    <div id="weather_32965" class="left place pointer dinamic_hide_weather" onclick="ShowWeather();" style="display:none;">
+                                <div class="left">Стара Загора</div>
+                                <div class="left black_arrow_down"></div>
+                                <div class="left weather_cont">
+                                    <a title="Времето в Стара Загора" href="http://pik.bg/vremeto-v-sz.html"><img class="left image" src="http://pik.bg/w/icons/day/tstorms.png" alt="" /></a>
+                                    <div class="left temp">21 C</div>
+                                </div>
+                            </div>
+                                                    <div id="weather_32961" class="left place pointer dinamic_hide_weather" onclick="ShowWeather();" style="display:none;">
+                                <div class="left">Велико Търново</div>
+                                <div class="left black_arrow_down"></div>
+                                <div class="left weather_cont">
+                                    <a title="Времето в Велико Търново" href="http://pik.bg/vremeto-v-vt.html"><img class="left image" src="http://pik.bg/w/icons/day/rain.png" alt="" /></a>
+                                    <div class="left temp">20 C</div>
+                                </div>
+                            </div>
+                                                    <div id="weather_32957" class="left place pointer dinamic_hide_weather" onclick="ShowWeather();" style="display:block;">
+                                <div class="left">София</div>
+                                <div class="left black_arrow_down"></div>
+                                <div class="left weather_cont">
+                                    <a title="Времето в София" href="http://pik.bg/vremeto-v-sofia.html"><img class="left image" src="http://pik.bg/w/icons/day/partlycloudy.png" alt="" /></a>
+                                    <div class="left temp">23 C</div>
+                                </div>
+                            </div>
+                                                    <div id="weather_32958" class="left place pointer dinamic_hide_weather" onclick="ShowWeather();" style="display:none;">
+                                <div class="left"></div>
+                                <div class="left black_arrow_down"></div>
+                                <div class="left weather_cont">
+                                    <a title="Времето в " href="http://pik.bg/vremeto-v-plovdiv.html"><img class="left image" src="http://pik.bg/w/icons/day/.png" alt="" /></a>
+                                    <div class="left temp">0 C</div>
+                                </div>
+                            </div>
+                                                <div id="wearher_ajax" class="wearher_ajax">
+                                                        <a href="javascript:void(0);" onclick="ChangeWeatherNew('32964', 'rousse');" title="Русе">Русе</a>
+                                                        <a href="javascript:void(0);" onclick="ChangeWeatherNew('32959', 'varna');" title=""></a>
+                                                        <a href="javascript:void(0);" onclick="ChangeWeatherNew('32960', 'burgas');" title=""></a>
+                                                        <a href="javascript:void(0);" onclick="ChangeWeatherNew('32962', 'blagoev');" title="Благоевград">Благоевград</a>
+                                                        <a href="javascript:void(0);" onclick="ChangeWeatherNew('32963', 'vratsa');" title="Враца">Враца</a>
+                                                        <a href="javascript:void(0);" onclick="ChangeWeatherNew('32965', 'sz');" title="Стара Загора">Стара Загора</a>
+                                                        <a href="javascript:void(0);" onclick="ChangeWeatherNew('32961', 'vt');" title="Велико Търново">Велико Търново</a>
+                                                        <a href="javascript:void(0);" onclick="ChangeWeatherNew('32957', 'sofia');" title="София">София</a>
+                                                        <a href="javascript:void(0);" onclick="ChangeWeatherNew('32958', 'plovdiv');" title=""></a>
+                                                    </div>
+                                            </div>
+                    <div id="logo" style="cursor:pointer;">
+                                                <a title="Новини от ПИК Информационна Агенция" href="http://pik.bg/">
+                                                       <img alt="Новини от ПИК Информационна Агенция" src="http://i.pik.bg/img/logo.png" />
+                                                                               </a>
+                                            </div>
+
+
+
+                                        
+                  <div class="fb_header">
+                    <iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2FInformacionnaAgenciaPik&amp;send=false&amp;layout=button_count&amp;width=200&amp;show_faces=false&amp;font&amp;colorscheme=light&amp;action=like&amp;height=21&locale=bg_BG" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:200px; height:21px;" allowTransparency="true"></iframe>
+                  </div>
+
+                <div id="search">
+                    <form method="post" action="/news/search_r/">
+                        <input style="text-indent: 5px;" type="text" class="search" name="search" onblur="if($(this).val()=='') $(this).val('Търсене...');" onclick="if($(this).val()=='Търсене...') $(this).val('');" value="Търсене..." />
+                        <input type="submit" class="submit" value='' />
+                    </form>
+                </div>
+
+                </div>
+                <div id="navigation" class="left">
+                    <div class="w100 left topnav">
+                     <a href="http://pik.bg/" title="Начало" class="anchor h320 left ">Начало</a>
+                     <a href="http://pik.bg/" title="" class="home hide anchor left"></a>
+                       
+                                                                     <a title="БЪЛГАРИЯ ДНЕС" href="http://pik.bg/българия-днес-cat2.html" class=" anchor left">БЪЛГАРИЯ ДНЕС</a>
+                                                                     
+                                                <a title="ЛАКОМНИК" style="color: #FFFFFF; background: #F27D0B;" href="http://lakomnik.bg" target="_blank" class="anchor left for-more320">ЛАКОМНИК</a>
+                                              
+                                                                     <a title="ГАЛЕРИЯ ШОУ" href="http://pik.bg/галерия-шоу-cat39.html" class=" anchor left for-more320">ГАЛЕРИЯ ШОУ</a>
+                                                                     
+                                                                     <a title="СПОРТЪТ ДНЕС" href="http://pik.bg/спортът-днес-cat26.html" class=" anchor left for-more320 for-more">СПОРТЪТ ДНЕС</a>
+                                                                     
+                                                                     <a title="РЕТРО" href="http://pik.bg/ретро-cat49.html" class=" anchor left for-more320 for-more">РЕТРО</a>
+                                                                     
+                                               <a title="Шарен свят" href="http://pik.bg/интересно-cat64.html" class="for-more-widescreen  anchor left for-more320 for-more">Шарен свят</a>                        
+                                              
+                                                                     <a title="СВЕТЪТ ДНЕС" href="http://pik.bg/светът-днес-cat17.html" class=" anchor left for-more320 for-more for-more-widescreen">СВЕТЪТ ДНЕС</a>
+                                                                     
+                                                                     <a title="ТЕМА" href="http://pik.bg/тема-cat104.html" class=" anchor left for-more320 for-more for-more-widescreen">ТЕМА</a>
+                                                                     
+                                                                     <a title="Технологии" href="http://pik.bg/технологии-cat98.html" class=" anchor left for-more320 for-more for-more-widescreen">Технологии</a>
+                                                                     
+                                                                     <a title="Аз, читателя" href="http://pik.bg/аз-читателя-cat101.html" class=" anchor left for-more320 for-more for-more-widescreen">Аз, читателя</a>
+                                                                                            <a title="БОМБА" href="http://pik.bg/%D0%B1%D0%BE%D0%BC%D0%B1%D0%B0-cat100.html" class="invisible2 anchor left for-more320 for-more">БОМБА</a>
+                       <div class="more invisible2 right relative" style="display:block;">
+                            <div class="head left">
+                                <div class="left h320">още</div>
+                                <div class="left top_more"><img alt="още" src="http://i.pik.bg/img/top_more.png" /></div>
+                            </div>
+                            <div class="main left absolute"></div>
+                       </div>
+                                           </div>
+                    <div class="w100 left submenu relative">
+                                                   	                       <a href="http://pik.bg/животът-днес-cat3.html"  title="Животът днес" class=" anchor for-more320    left">Животът днес</a>
+	                                                                          	                       <a href="http://pik.bg/инциденти-cat4.html"  title="Инциденти" class=" anchor for-more320    left">Инциденти</a>
+	                                                                          	                       <a href="http://pik.bg/крими-cat5.html"  title="Крими" class=" anchor for-more320    left">Крими</a>
+	                                                                          	                       <a href="http://pik.bg/политика-cat6.html"  title="Политика" class=" anchor for-more320    left">Политика</a>
+	                                                                            
+	                       <a href="http://pik.bg/интервю-cat7.html" title="Интервю" class=" anchor for-more320    left ">Интервю</a>
+	                                                                            
+	                       <a href="http://pik.bg/икономика-cat9.html" title="Икономика" class=" anchor for-more320    left ">Икономика</a>
+	                                                                            
+	                       <a href="http://pik.bg/здраве-cat10.html" title="Здраве" class=" anchor for-more320 for-more    left ">Здраве</a>
+	                                                                            
+	                       <a href="http://pik.bg/образование-cat11.html" title="Образование" class=" anchor for-more320 for-more    left ">Образование</a>
+	                                                                            
+	                       <a href="http://pik.bg/региони-cat12.html" title="Региони" class=" anchor for-more320 for-more    left ">Региони</a>
+	                                                                            
+	                       <a href="http://pik.bg/темида-cat13.html" title="Темида" class=" anchor for-more320 for-more    left ">Темида</a>
+	                                                                            
+	                       <a href="http://pik.bg/култура-cat15.html" title="КУЛТУРА" class="for-more-widescreen for-more-n for-more320-n  left ">КУЛТУРА</a>
+	                                                                     <div class="sub_more invisible absolute">
+                            <div class="head left">
+                                <div class="left">още</div>
+                                <div class="left sub_more-img"><img alt="още" src="http://i.pik.bg/img/sub_more.png" /></div>
+                            </div>
+                            <div class="main left absolute"></div>
+                       </div>
+                    </div>
+                </div>
+            </div>
+            <div id="content" class="left">
+
+                <div id="content_top" class="left">
+                                        
+                    
+
+             
+                   
+                                         <div style="float: left;width: 100%;background: #666666;">
+                       
+                        <script type='text/javascript'><!--//<![CDATA[
+                           var m3_u = (location.protocol=='https:'?'https://ads.pik.bg/www/delivery/ajs.php':'http://ads.pik.bg/www/delivery/ajs.php');
+                           var m3_r = Math.floor(Math.random()*99999999999);
+                           if (!document.MAX_used) document.MAX_used = ',';
+                           document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+                           document.write ("?zoneid=38");
+                           document.write ('&amp;cb=' + m3_r);
+                           if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+                           document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+                           document.write ("&amp;loc=" + escape(window.location));
+                           if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+                           if (document.context) document.write ("&context=" + escape(document.context));
+                           if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+                           document.write ("'><\/scr"+"ipt>");
+                        //]]>--></script><noscript><a href='http://ads.pik.bg/www/delivery/ck.php?n=a19bf9df&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://ads.pik.bg/www/delivery/avw.php?zoneid=38&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a19bf9df' border='0' alt='' /></a></noscript>
+                       
+                     </div>
+                                 
+
+                              <div class="invisible relative left w100 s630" style="margin-top: 2%;">
+
+                            <div class="left text">Само в ПИК:</div>
+
+                            <div class="left button_left" onclick="PikTopMoveSmall_v2(0);" style="cursor:pointer;"></div>
+                            <div class="left small-right button_right" onclick="PikTopMoveSmall_v2(1);" style="cursor:pointer;"></div>
+
+                            <div class="left absolute reposition_absolute">
+                            <div class="left pik_top_v2_small" id="pik_top_parent_small_1" >
+                               
+
+
+                                       <div id="pik_top_1" class="left  pik_top" style="display: block; width: 100%;">
+
+                                        <div class="link w100" style="padding: 5px; margin-left: 5px; float: left; border: none; width:100%; text-decoration:none">
+
+                                                                                           <img alt="Войната Пеевски - Василев се ожесточава! Бивш антимафиот и спецпрокурор активират медии в полза на банкера!" class="left hide_image" style="width: 100px;margin-right: 2%;" src="http://i.pik.bg/news/191/140_9276b5da52d65348a90530b320183ce7.jpg" />
+                                            
+                                            <a style=" width: 53%;  line-height: 13px;  font-size:12px;" title="Войната Пеевски - Василев се ожесточава! Бивш антимафиот и спецпрокурор активират медии в полза на банкера!" href="http://pik.bg/войната-пеевски---василев-се-ожесточава-бивш-антимафиот-и-спецпрокурор-активират-медии-в-п-news191127.html">
+                                                » Войната Пеевски - Василев се ожесточава! Бивш антимафиот...
+                                            </a>
+                                        </div>
+
+                                        </div>
+
+                                                                                    </div>
+                                            <div class="left pik_top_v2_small" id="pik_top_parent_small_2" style="display: none;" >
+                                        
+                                
+
+
+                                       <div id="pik_top_2" class="left  pik_top" style="display: block; width: 100%;">
+
+                                        <div class="link w100" style="padding: 5px; margin-left: 5px; float: left; border: none; width:100%; text-decoration:none">
+
+                                                                                           <img alt="САМО В ПИК! Смъртта на Валя е Белнейски - 2! Гаджето й Валентин напада насред Бургас таксиджията, който я кара последната нощ!" class="left hide_image" style="width: 100px;margin-right: 2%;" src="http://i.pik.bg/news/191/140_1417dbafe9e6c778efc7345555bc2aae.jpg" />
+                                            
+                                            <a style=" width: 53%;  line-height: 13px;  font-size:12px;" title="САМО В ПИК! Смъртта на Валя е Белнейски - 2! Гаджето й Валентин напада насред Бургас таксиджията, който я кара последната нощ!" href="http://pik.bg/само-в-пик-смъртта-на-валя-е-белнейски---2-гаджето-й-валентин-напада-насред-бургас-таксидж-news191104.html">
+                                                » САМО В ПИК! Смъртта на Валя е Белнейски - 2! Гаджето й...
+                                            </a>
+                                        </div>
+
+                                        </div>
+
+                                                                                    </div>
+                                            <div class="left pik_top_v2_small" id="pik_top_parent_small_3" style="display: none;" >
+                                        
+                                
+
+
+                                       <div id="pik_top_3" class="left  pik_top" style="display: block; width: 100%;">
+
+                                        <div class="link w100" style="padding: 5px; margin-left: 5px; float: left; border: none; width:100%; text-decoration:none">
+
+                                                                                           <img alt="Първо в ПИК! Докараха в съда арестуваните за мократа поръчка срещу Делян Пеевски! (снимки)" class="left hide_image" style="width: 100px;margin-right: 2%;" src="http://i.pik.bg/news/191/140_a921f133f76de813cb55811a88fe3c76.jpg" />
+                                            
+                                            <a style=" width: 53%;  line-height: 13px;  font-size:12px;" title="Първо в ПИК! Докараха в съда арестуваните за мократа поръчка срещу Делян Пеевски! (снимки)" href="http://pik.bg/първо-в-пик-докараха-в-съда-арестуваните-за-мократа-поръчка-срещу-делян-пеевски-снимки-news191078.html">
+                                                » Първо в ПИК! Докараха в съда арестуваните за мократа...
+                                            </a>
+                                        </div>
+
+                                        </div>
+
+                                                                                    </div>
+                                            <div class="left pik_top_v2_small" id="pik_top_parent_small_4" style="display: none;" >
+                                        
+                                
+
+
+                                       <div id="pik_top_4" class="left  pik_top" style="display: block; width: 100%;">
+
+                                        <div class="link w100" style="padding: 5px; margin-left: 5px; float: left; border: none; width:100%; text-decoration:none">
+
+                                                                                           <img alt="ИЗВЪНРЕДНО и само в ПИК: Обвиниха тримата арестувани за мократа поръчка срещу Делян Пеевски!" class="left hide_image" style="width: 100px;margin-right: 2%;" src="http://i.pik.bg/news/190/140_184d4acba3cace203f397f2cd8db14f8.jpg" />
+                                            
+                                            <a style=" width: 53%;  line-height: 13px;  font-size:12px;" title="ИЗВЪНРЕДНО и само в ПИК: Обвиниха тримата арестувани за мократа поръчка срещу Делян Пеевски!" href="http://pik.bg/извънредно-и-само-в-пик-обвиниха-тримата-арестувани-за-мократа-поръчка-срещу-делян-пеевски-news190904.html">
+                                                » ИЗВЪНРЕДНО и само в ПИК: Обвиниха тримата арестувани за...
+                                            </a>
+                                        </div>
+
+                                        </div>
+
+                                                                                    </div>
+                                            <div class="left pik_top_v2_small" id="pik_top_parent_small_5" style="display: none;" >
+                                        
+                                
+
+
+                                       <div id="pik_top_5" class="left  pik_top" style="display: block; width: 100%;">
+
+                                        <div class="link w100" style="padding: 5px; margin-left: 5px; float: left; border: none; width:100%; text-decoration:none">
+
+                                                                                           <img alt="Борисов пред ПИК от САЩ: Премиер? Нямам такива амбиции! Притеснен съм, че България в момента е объркана, дестабилизирана и незнаеща какво прави държава!" class="left hide_image" style="width: 100px;margin-right: 2%;" src="http://i.pik.bg/news/190/140_4444400333b28ec028467739a392bec4.jpg" />
+                                            
+                                            <a style=" width: 53%;  line-height: 13px;  font-size:12px;" title="Борисов пред ПИК от САЩ: Премиер? Нямам такива амбиции! Притеснен съм, че България в момента е объркана, дестабилизирана и незнаеща какво прави държава!" href="http://pik.bg/борисов-пред-пик-от-сащ-премиер-нямам-такива-амбиции-притеснен-съм-че-българия-в-момента-е-news190833.html">
+                                                » Борисов пред ПИК от САЩ: Премиер? Нямам такива амбиции!...
+                                            </a>
+                                        </div>
+
+                                        </div>
+
+                                                                                    </div>
+                                            <div class="left pik_top_v2_small" id="pik_top_parent_small_6" style="display: none;" >
+                                        
+                                
+
+
+                                       <div id="pik_top_6" class="left  pik_top" style="display: block; width: 100%;">
+
+                                        <div class="link w100" style="padding: 5px; margin-left: 5px; float: left; border: none; width:100%; text-decoration:none">
+
+                                                                                           <img alt="Извънредно в ПИК! Въоръжени барети тарашат личните кабинети на Цветан Василев в КТБ! (обновена)" class="left hide_image" style="width: 100px;margin-right: 2%;" src="http://i.pik.bg/news/190/140_c91392df53592db07e22f32b2f68800c.jpg" />
+                                            
+                                            <a style=" width: 53%;  line-height: 13px;  font-size:12px;" title="Извънредно в ПИК! Въоръжени барети тарашат личните кабинети на Цветан Василев в КТБ! (обновена)" href="http://pik.bg/извънредно-в-пик-въоръжени-барети-тарашат-личните-кабинети-на-цветан-василев-в-ктб-обновен-news190805.html">
+                                                » Извънредно в ПИК! Въоръжени барети тарашат личните...
+                                            </a>
+                                        </div>
+
+                                        </div>
+
+                                                                                    </div>
+                                            <div class="left pik_top_v2_small" id="pik_top_parent_small_7" style="display: none;" >
+                                        
+                                
+
+
+                                       <div id="pik_top_7" class="left  pik_top" style="display: block; width: 100%;">
+
+                                        <div class="link w100" style="padding: 5px; margin-left: 5px; float: left; border: none; width:100%; text-decoration:none">
+
+                                                                                           <img alt="Волен Сидеров пред  ПИК: Бареков преговаря с БСП, ДПС и ГЕРБ! Разтворил си е краката като манастирска порта по Великден пред партийните лидери!" class="left hide_image" style="width: 100px;margin-right: 2%;" src="http://i.pik.bg/news/190/140_1a2814cb2f4d84b3206b218fcaaef493.jpg" />
+                                            
+                                            <a style=" width: 53%;  line-height: 13px;  font-size:12px;" title="Волен Сидеров пред  ПИК: Бареков преговаря с БСП, ДПС и ГЕРБ! Разтворил си е краката като манастирска порта по Великден пред партийните лидери!" href="http://pik.bg/волен-сидеров-пред--пик-бареков-преговаря-с-бсп-дпс-и-герб-разтворил-си-е-краката-като-ман-news190799.html">
+                                                » Волен Сидеров пред  ПИК: Бареков преговаря с БСП, ДПС и...
+                                            </a>
+                                        </div>
+
+                                        </div>
+
+                                                                                    </div>
+                                            <div class="left pik_top_v2_small" id="pik_top_parent_small_8" style="display: none;" >
+                                        
+                                
+
+
+                                       <div id="pik_top_8" class="left  pik_top" style="display: block; width: 100%;">
+
+                                        <div class="link w100" style="padding: 5px; margin-left: 5px; float: left; border: none; width:100%; text-decoration:none">
+
+                                                                                           <img alt="Само в ПИК! Сензационна развръзка по разследването срещу Цветан Василев! Арестуваха трима от бандата за подготовката на убийството на Пеевски!" class="left hide_image" style="width: 100px;margin-right: 2%;" src="http://i.pik.bg/news/190/140_f3316798c3a49aa53374a73f790b383f.jpg" />
+                                            
+                                            <a style=" width: 53%;  line-height: 13px;  font-size:12px;" title="Само в ПИК! Сензационна развръзка по разследването срещу Цветан Василев! Арестуваха трима от бандата за подготовката на убийството на Пеевски!" href="http://pik.bg/само-в-пик-сензационна-развръзка-по-разследването-срещу-цветан-василев-арестуваха-трима-от-news190766.html">
+                                                » Само в ПИК! Сензационна развръзка по разследването срещу...
+                                            </a>
+                                        </div>
+
+                                        </div>
+
+                                                                                    </div>
+                                            <div class="left pik_top_v2_small" id="pik_top_parent_small_9" style="display: none;" >
+                                        
+                                
+
+
+                                       <div id="pik_top_9" class="left  pik_top" style="display: block; width: 100%;">
+
+                                        <div class="link w100" style="padding: 5px; margin-left: 5px; float: left; border: none; width:100%; text-decoration:none">
+
+                                                                                           <img alt="ЕТО Я БОМБАТА на ПИК! Разследват Цветан Василев, че е поръчал убийството на Пеевски! 
+Свидетел разкрил плана за мократа поръчка, 4-ма в заговора!" class="left hide_image" style="width: 100px;margin-right: 2%;" src="http://i.pik.bg/news/190/140_3650bcca6df01bf3940e68361b0e6cbb.jpg" />
+                                            
+                                            <a style=" width: 53%;  line-height: 13px;  font-size:12px;" title="ЕТО Я БОМБАТА на ПИК! Разследват Цветан Василев, че е поръчал убийството на Пеевски! 
+Свидетел разкрил плана за мократа поръчка, 4-ма в заговора!" href="http://pik.bg/ето-я-бомбата-на-пик-разследват-цветан-василев-че-е-поръчал-убийството-на-пеевски--news190750.html">
+                                                » ЕТО Я БОМБАТА на ПИК! Разследват Цветан Василев, че е...
+                                            </a>
+                                        </div>
+
+                                        </div>
+
+                                                                                    </div>
+                                            <div class="left pik_top_v2_small" id="pik_top_parent_small_10" style="display: none;" >
+                                        
+                                
+
+
+                                       <div id="pik_top_10" class="left  pik_top" style="display: block; width: 100%;">
+
+                                        <div class="link w100" style="padding: 5px; margin-left: 5px; float: left; border: none; width:100%; text-decoration:none">
+
+                                                                                           <img alt="Само в ПИК! Изплуват сензационни подробности за красавицата Валя от Бургас! Вижте шокиращото поведение на гаджето й Валентин преди смъртта й! Защо се скри брат й, кой е загадъчният мъж от Пловдив..." class="left hide_image" style="width: 100px;margin-right: 2%;" src="http://i.pik.bg/news/190/140_78b7fc3e7ff25632c97b036723e5e121.jpg" />
+                                            
+                                            <a style=" width: 53%;  line-height: 13px;  font-size:12px;" title="Само в ПИК! Изплуват сензационни подробности за красавицата Валя от Бургас! Вижте шокиращото поведение на гаджето й Валентин преди смъртта й! Защо се скри брат й, кой е загадъчният мъж от Пловдив..." href="http://pik.bg/само-в-пик-изплуват-сензационни-подробности-за-красавицата-валя-от-бургас-вижте-шокиращото-news190620.html">
+                                                » Само в ПИК! Изплуват сензационни подробности за...
+                                            </a>
+                                        </div>
+
+                                        </div>
+
+                                                                                    </div>
+                                            <div class="left pik_top_v2_small" id="pik_top_parent_small_11" style="display: none;" >
+                                        
+                                
+
+
+                                       <div id="pik_top_11" class="left  pik_top" style="display: block; width: 100%;">
+
+                                        <div class="link w100" style="padding: 5px; margin-left: 5px; float: left; border: none; width:100%; text-decoration:none">
+
+                                                                                           <img alt="Борисов сензационно пред ПИК от Вашингтон: Унищожават се важни документи в енергетиката! Евродепутатът Станишев замита следите си! (обновена)" class="left hide_image" style="width: 100px;margin-right: 2%;" src="http://i.pik.bg/news/190/140_d5a632437d87d672880d952666e0b57e.jpg" />
+                                            
+                                            <a style=" width: 53%;  line-height: 13px;  font-size:12px;" title="Борисов сензационно пред ПИК от Вашингтон: Унищожават се важни документи в енергетиката! Евродепутатът Станишев замита следите си! (обновена)" href="http://pik.bg/борисов-сензационно-пред-пик-от-вашингтон-унищожават-се-важни-документи-в-енергетиката-евр-news190541.html">
+                                                » Борисов сензационно пред ПИК от Вашингтон: Унищожават се...
+                                            </a>
+                                        </div>
+
+                                        </div>
+
+                                                                                    </div>
+                                            <div class="left pik_top_v2_small" id="pik_top_parent_small_12" style="display: none;" >
+                                        
+                                
+
+
+                                       <div id="pik_top_12" class="left  pik_top" style="display: block; width: 100%;">
+
+                                        <div class="link w100" style="padding: 5px; margin-left: 5px; float: left; border: none; width:100%; text-decoration:none">
+
+                                                                                           <img alt="Eксклузивно в ПИК! Сергей Станишев тихомълком се е регистрирал като евродепутат! Курумбашев е на тръни, защото може да бъде прецакан! (снимка)" class="left hide_image" style="width: 100px;margin-right: 2%;" src="http://i.pik.bg/news/190/140_3522fc7497899aa8a28803121bab30d2.jpg" />
+                                            
+                                            <a style=" width: 53%;  line-height: 13px;  font-size:12px;" title="Eксклузивно в ПИК! Сергей Станишев тихомълком се е регистрирал като евродепутат! Курумбашев е на тръни, защото може да бъде прецакан! (снимка)" href="http://pik.bg/eксклузивно-в-пик-сергей-станишев-тихомълком-се-е-регистрирал-като-евродепутат-курумбашев--news190468.html">
+                                                » Eксклузивно в ПИК! Сергей Станишев тихомълком се е...
+                                            </a>
+                                        </div>
+
+                                        </div>
+
+                                                                                    </div>
+                                            <div class="left pik_top_v2_small" id="pik_top_parent_small_13" style="display: none;" >
+                                        
+                                                                </div>
+                               </div>
+
+                        </div>
+
+
+
+
+
+
+
+
+                              <div class="left w100 h630 widescreen_news mt10" style="margin-top: 2%;">
+
+                            <div class="left text">Само в ПИК:</div>
+
+                            <div class="left button_left" onclick="PikTopMove_v2(0);" style="cursor:pointer;"></div>
+                            <div class="left button_right" onclick="PikTopMove_v2(1);" style="cursor:pointer;"></div>
+
+                            <div class="left w100 swipe_container">
+                            <div class="left pik_top_v2" id="pik_top_parent_1" >
+                                                              
+
+                                       <div id="pik_top_1" class="left  pik_top" style="display: block; width: 245px;">
+
+                                        <div class="link w100" style="padding: 5px; margin-left: 5px; float: left; border: none;">
+
+                                                                                           <img alt="Войната Пеевски - Василев се ожесточава! Бивш антимафиот и спецпрокурор активират медии в полза на банкера!" class="left" style="width: 100px;margin-right: 2%;" src="http://i.pik.bg/news/191/140_9276b5da52d65348a90530b320183ce7.jpg" />
+                                            
+                                            <a style=" width: 53%;  line-height: 13px;  font-size:12px;" title="Войната Пеевски - Василев се ожесточава! Бивш антимафиот и спецпрокурор активират медии в полза на банкера!" href="http://pik.bg/войната-пеевски---василев-се-ожесточава-бивш-антимафиот-и-спецпрокурор-активират-медии-в-п-news191127.html">
+                                                » Войната Пеевски - Василев се ожесточава! Бивш антимафиот...
+                                            </a>
+                                        </div>
+
+                                        </div>
+
+                                         
+                                
+
+                                       <div id="pik_top_2" class="left  pik_top" style="display: block; width: 245px;">
+
+                                        <div class="link w100" style="padding: 5px; margin-left: 5px; float: left; border: none;">
+
+                                                                                           <img alt="САМО В ПИК! Смъртта на Валя е Белнейски - 2! Гаджето й Валентин напада насред Бургас таксиджията, който я кара последната нощ!" class="left" style="width: 100px;margin-right: 2%;" src="http://i.pik.bg/news/191/140_1417dbafe9e6c778efc7345555bc2aae.jpg" />
+                                            
+                                            <a style=" width: 53%;  line-height: 13px;  font-size:12px;" title="САМО В ПИК! Смъртта на Валя е Белнейски - 2! Гаджето й Валентин напада насред Бургас таксиджията, който я кара последната нощ!" href="http://pik.bg/само-в-пик-смъртта-на-валя-е-белнейски---2-гаджето-й-валентин-напада-насред-бургас-таксидж-news191104.html">
+                                                » САМО В ПИК! Смъртта на Валя е Белнейски - 2! Гаджето й...
+                                            </a>
+                                        </div>
+
+                                        </div>
+
+                                         
+                                
+
+                                       <div id="pik_top_3" class="left  pik_top" style="display: block; width: 245px;">
+
+                                        <div class="link w100" style="padding: 5px; margin-left: 5px; float: left; border: none;">
+
+                                                                                           <img alt="Първо в ПИК! Докараха в съда арестуваните за мократа поръчка срещу Делян Пеевски! (снимки)" class="left" style="width: 100px;margin-right: 2%;" src="http://i.pik.bg/news/191/140_a921f133f76de813cb55811a88fe3c76.jpg" />
+                                            
+                                            <a style=" width: 53%;  line-height: 13px;  font-size:12px;" title="Първо в ПИК! Докараха в съда арестуваните за мократа поръчка срещу Делян Пеевски! (снимки)" href="http://pik.bg/първо-в-пик-докараха-в-съда-арестуваните-за-мократа-поръчка-срещу-делян-пеевски-снимки-news191078.html">
+                                                » Първо в ПИК! Докараха в съда арестуваните за мократа...
+                                            </a>
+                                        </div>
+
+                                        </div>
+
+                                         
+                                
+
+                                       <div id="pik_top_4" class="left  pik_top" style="display: block; width: 245px;">
+
+                                        <div class="link w100" style="padding: 5px; margin-left: 5px; float: left; border: none;">
+
+                                                                                           <img alt="ИЗВЪНРЕДНО и само в ПИК: Обвиниха тримата арестувани за мократа поръчка срещу Делян Пеевски!" class="left" style="width: 100px;margin-right: 2%;" src="http://i.pik.bg/news/190/140_184d4acba3cace203f397f2cd8db14f8.jpg" />
+                                            
+                                            <a style=" width: 53%;  line-height: 13px;  font-size:12px;" title="ИЗВЪНРЕДНО и само в ПИК: Обвиниха тримата арестувани за мократа поръчка срещу Делян Пеевски!" href="http://pik.bg/извънредно-и-само-в-пик-обвиниха-тримата-арестувани-за-мократа-поръчка-срещу-делян-пеевски-news190904.html">
+                                                » ИЗВЪНРЕДНО и само в ПИК: Обвиниха тримата арестувани за...
+                                            </a>
+                                        </div>
+
+                                        </div>
+
+                                                                                                                                 </div>
+                                            <div class="left pik_top_v2" id="pik_top_parent_2" style="display: none;" >
+                                        
+                                
+
+                                       <div id="pik_top_5" class="left  pik_top" style="display: block; width: 245px;">
+
+                                        <div class="link w100" style="padding: 5px; margin-left: 5px; float: left; border: none;">
+
+                                                                                           <img alt="Борисов пред ПИК от САЩ: Премиер? Нямам такива амбиции! Притеснен съм, че България в момента е объркана, дестабилизирана и незнаеща какво прави държава!" class="left" style="width: 100px;margin-right: 2%;" src="http://i.pik.bg/news/190/140_4444400333b28ec028467739a392bec4.jpg" />
+                                            
+                                            <a style=" width: 53%;  line-height: 13px;  font-size:12px;" title="Борисов пред ПИК от САЩ: Премиер? Нямам такива амбиции! Притеснен съм, че България в момента е объркана, дестабилизирана и незнаеща какво прави държава!" href="http://pik.bg/борисов-пред-пик-от-сащ-премиер-нямам-такива-амбиции-притеснен-съм-че-българия-в-момента-е-news190833.html">
+                                                » Борисов пред ПИК от САЩ: Премиер? Нямам такива амбиции!...
+                                            </a>
+                                        </div>
+
+                                        </div>
+
+                                         
+                                
+
+                                       <div id="pik_top_6" class="left  pik_top" style="display: block; width: 245px;">
+
+                                        <div class="link w100" style="padding: 5px; margin-left: 5px; float: left; border: none;">
+
+                                                                                           <img alt="Извънредно в ПИК! Въоръжени барети тарашат личните кабинети на Цветан Василев в КТБ! (обновена)" class="left" style="width: 100px;margin-right: 2%;" src="http://i.pik.bg/news/190/140_c91392df53592db07e22f32b2f68800c.jpg" />
+                                            
+                                            <a style=" width: 53%;  line-height: 13px;  font-size:12px;" title="Извънредно в ПИК! Въоръжени барети тарашат личните кабинети на Цветан Василев в КТБ! (обновена)" href="http://pik.bg/извънредно-в-пик-въоръжени-барети-тарашат-личните-кабинети-на-цветан-василев-в-ктб-обновен-news190805.html">
+                                                » Извънредно в ПИК! Въоръжени барети тарашат личните...
+                                            </a>
+                                        </div>
+
+                                        </div>
+
+                                         
+                                
+
+                                       <div id="pik_top_7" class="left  pik_top" style="display: block; width: 245px;">
+
+                                        <div class="link w100" style="padding: 5px; margin-left: 5px; float: left; border: none;">
+
+                                                                                           <img alt="Волен Сидеров пред  ПИК: Бареков преговаря с БСП, ДПС и ГЕРБ! Разтворил си е краката като манастирска порта по Великден пред партийните лидери!" class="left" style="width: 100px;margin-right: 2%;" src="http://i.pik.bg/news/190/140_1a2814cb2f4d84b3206b218fcaaef493.jpg" />
+                                            
+                                            <a style=" width: 53%;  line-height: 13px;  font-size:12px;" title="Волен Сидеров пред  ПИК: Бареков преговаря с БСП, ДПС и ГЕРБ! Разтворил си е краката като манастирска порта по Великден пред партийните лидери!" href="http://pik.bg/волен-сидеров-пред--пик-бареков-преговаря-с-бсп-дпс-и-герб-разтворил-си-е-краката-като-ман-news190799.html">
+                                                » Волен Сидеров пред  ПИК: Бареков преговаря с БСП, ДПС и...
+                                            </a>
+                                        </div>
+
+                                        </div>
+
+                                         
+                                
+
+                                       <div id="pik_top_8" class="left  pik_top" style="display: block; width: 245px;">
+
+                                        <div class="link w100" style="padding: 5px; margin-left: 5px; float: left; border: none;">
+
+                                                                                           <img alt="Само в ПИК! Сензационна развръзка по разследването срещу Цветан Василев! Арестуваха трима от бандата за подготовката на убийството на Пеевски!" class="left" style="width: 100px;margin-right: 2%;" src="http://i.pik.bg/news/190/140_f3316798c3a49aa53374a73f790b383f.jpg" />
+                                            
+                                            <a style=" width: 53%;  line-height: 13px;  font-size:12px;" title="Само в ПИК! Сензационна развръзка по разследването срещу Цветан Василев! Арестуваха трима от бандата за подготовката на убийството на Пеевски!" href="http://pik.bg/само-в-пик-сензационна-развръзка-по-разследването-срещу-цветан-василев-арестуваха-трима-от-news190766.html">
+                                                » Само в ПИК! Сензационна развръзка по разследването срещу...
+                                            </a>
+                                        </div>
+
+                                        </div>
+
+                                                                                                                                 </div>
+                                            <div class="left pik_top_v2" id="pik_top_parent_3" style="display: none;" >
+                                        
+                                
+
+                                       <div id="pik_top_9" class="left  pik_top" style="display: block; width: 245px;">
+
+                                        <div class="link w100" style="padding: 5px; margin-left: 5px; float: left; border: none;">
+
+                                                                                           <img alt="ЕТО Я БОМБАТА на ПИК! Разследват Цветан Василев, че е поръчал убийството на Пеевски! 
+Свидетел разкрил плана за мократа поръчка, 4-ма в заговора!" class="left" style="width: 100px;margin-right: 2%;" src="http://i.pik.bg/news/190/140_3650bcca6df01bf3940e68361b0e6cbb.jpg" />
+                                            
+                                            <a style=" width: 53%;  line-height: 13px;  font-size:12px;" title="ЕТО Я БОМБАТА на ПИК! Разследват Цветан Василев, че е поръчал убийството на Пеевски! 
+Свидетел разкрил плана за мократа поръчка, 4-ма в заговора!" href="http://pik.bg/ето-я-бомбата-на-пик-разследват-цветан-василев-че-е-поръчал-убийството-на-пеевски--news190750.html">
+                                                » ЕТО Я БОМБАТА на ПИК! Разследват Цветан Василев, че е...
+                                            </a>
+                                        </div>
+
+                                        </div>
+
+                                         
+                                
+
+                                       <div id="pik_top_10" class="left  pik_top" style="display: block; width: 245px;">
+
+                                        <div class="link w100" style="padding: 5px; margin-left: 5px; float: left; border: none;">
+
+                                                                                           <img alt="Само в ПИК! Изплуват сензационни подробности за красавицата Валя от Бургас! Вижте шокиращото поведение на гаджето й Валентин преди смъртта й! Защо се скри брат й, кой е загадъчният мъж от Пловдив..." class="left" style="width: 100px;margin-right: 2%;" src="http://i.pik.bg/news/190/140_78b7fc3e7ff25632c97b036723e5e121.jpg" />
+                                            
+                                            <a style=" width: 53%;  line-height: 13px;  font-size:12px;" title="Само в ПИК! Изплуват сензационни подробности за красавицата Валя от Бургас! Вижте шокиращото поведение на гаджето й Валентин преди смъртта й! Защо се скри брат й, кой е загадъчният мъж от Пловдив..." href="http://pik.bg/само-в-пик-изплуват-сензационни-подробности-за-красавицата-валя-от-бургас-вижте-шокиращото-news190620.html">
+                                                » Само в ПИК! Изплуват сензационни подробности за...
+                                            </a>
+                                        </div>
+
+                                        </div>
+
+                                         
+                                
+
+                                       <div id="pik_top_11" class="left  pik_top" style="display: block; width: 245px;">
+
+                                        <div class="link w100" style="padding: 5px; margin-left: 5px; float: left; border: none;">
+
+                                                                                           <img alt="Борисов сензационно пред ПИК от Вашингтон: Унищожават се важни документи в енергетиката! Евродепутатът Станишев замита следите си! (обновена)" class="left" style="width: 100px;margin-right: 2%;" src="http://i.pik.bg/news/190/140_d5a632437d87d672880d952666e0b57e.jpg" />
+                                            
+                                            <a style=" width: 53%;  line-height: 13px;  font-size:12px;" title="Борисов сензационно пред ПИК от Вашингтон: Унищожават се важни документи в енергетиката! Евродепутатът Станишев замита следите си! (обновена)" href="http://pik.bg/борисов-сензационно-пред-пик-от-вашингтон-унищожават-се-важни-документи-в-енергетиката-евр-news190541.html">
+                                                » Борисов сензационно пред ПИК от Вашингтон: Унищожават се...
+                                            </a>
+                                        </div>
+
+                                        </div>
+
+                                         
+                                
+
+                                       <div id="pik_top_12" class="left  pik_top" style="display: block; width: 245px;">
+
+                                        <div class="link w100" style="padding: 5px; margin-left: 5px; float: left; border: none;">
+
+                                                                                           <img alt="Eксклузивно в ПИК! Сергей Станишев тихомълком се е регистрирал като евродепутат! Курумбашев е на тръни, защото може да бъде прецакан! (снимка)" class="left" style="width: 100px;margin-right: 2%;" src="http://i.pik.bg/news/190/140_3522fc7497899aa8a28803121bab30d2.jpg" />
+                                            
+                                            <a style=" width: 53%;  line-height: 13px;  font-size:12px;" title="Eксклузивно в ПИК! Сергей Станишев тихомълком се е регистрирал като евродепутат! Курумбашев е на тръни, защото може да бъде прецакан! (снимка)" href="http://pik.bg/eксклузивно-в-пик-сергей-станишев-тихомълком-се-е-регистрирал-като-евродепутат-курумбашев--news190468.html">
+                                                » Eксклузивно в ПИК! Сергей Станишев тихомълком се е...
+                                            </a>
+                                        </div>
+
+                                        </div>
+
+                                         
+                                                                </div>
+                               </div>
+
+                        </div>
+
+
+
+
+                      
+                           </div>
+
+                <div id="content_main" class="left">
+
+                    <div id="left_column" class="left">
+                      <div id="content" class="left">
+                       <div class="left w100">
+    <p style="color: #DE2F2F;font-size: 26px;" >Грешка 404! Страницата не е намерена</p>
+</div>
+
+<div class="left w100">Страницата, която се опитвате да отворите не е намерена. </div>
+                      </div>
+                    </div>
+                    <div id="right_column">
+                        <div class="left banner_r " onclick="location.href='#';" style="cursor:pointer;margin-top:0px;">
+                                                        
+                                                         							                                    
+                                <script type='text/javascript'><!--//<![CDATA[
+                                   var m3_u = (location.protocol=='https:'?'https://ads.pik.bg/www/delivery/ajs.php':'http://ads.pik.bg/www/delivery/ajs.php');
+                                   var m3_r = Math.floor(Math.random()*99999999999);
+                                   if (!document.MAX_used) document.MAX_used = ',';
+                                   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+                                   document.write ("?zoneid=22");
+                                   document.write ('&amp;cb=' + m3_r);
+                                   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+                                   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+                                   document.write ("&amp;loc=" + escape(window.location));
+                                   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+                                   if (document.context) document.write ("&context=" + escape(document.context));
+                                   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+                                   document.write ("'><\/scr"+"ipt>");
+                                //]]>--></script><noscript><a href='http://ads.pik.bg/www/delivery/ck.php?n=a17c985c&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://ads.pik.bg/www/delivery/avw.php?zoneid=22&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a17c985c' border='0' alt='' /></a></noscript>
+                                
+                                
+                                                                                                                        
+                                                   </div>
+
+                        <div class="left item last_added">
+                            <div class="left title_heading">
+                               <div class="left most">
+                                    <div class="left nav">
+                                        <div class="left button upper_news_tab invisible"  lang="last_news"  style="border-top-left-radius:2px; border-bottom-left-radius:2px;cursor: pointer;">Последни новини</div>
+                                        <div class="left button_active "  style="border-top-right-radius:2px; border-bottom-right-radius:2px;cursor: pointer;">Последни новини</div>
+
+                                        <div class="left button upper_news_tab " lang="most_important" style="border-top-left-radius:2px; border-bottom-left-radius:2px;cursor: pointer;">Най-важното</div>
+                                        <div class="left button_active invisible "  style="border-top-right-radius:2px; border-bottom-right-radius:2px;cursor: pointer;">Най-важното</div>
+                                    </div>
+                                </div>
+
+                            </div>
+                            <div class="left content upper_news_slide" id="last_news">
+                                                            <div class="left item">
+                                    <div class="left info ">
+                                        <img alt="календар" class="left" src="http://i.pik.bg/img/date_grey.png" />
+                                        <div class="left" style="margin:2px 0 0 4px;">16:59</div>
+                                    </div>
+                                    <a href="http://pik.bg/мъж-нападна-с-брадва-охраната-в-столичен-кауфланд-news191167.html" title="Мъж нападна с брадва охраната в столичен Кауфланд" class="">» Мъж нападна с брадва охраната в столичен Кауфланд</a>
+                                </div>
+                                                            <div class="left item">
+                                    <div class="left info ">
+                                        <img alt="календар" class="left" src="http://i.pik.bg/img/date_grey.png" />
+                                        <div class="left" style="margin:2px 0 0 4px;">16:55</div>
+                                    </div>
+                                    <a href="http://pik.bg/браво-гришо-разпиля-третият-в-света-отива-на-финал-в-лондон-news191165.html" title="Браво! Гришо разпиля третият в света, отива на финал в Лондон!" class="">» Браво! Гришо разпиля третият в света, отива на финал в Лондон!</a>
+                                </div>
+                                                            <div class="left item">
+                                    <div class="left info ">
+                                        <img alt="календар" class="left" src="http://i.pik.bg/img/date_grey.png" />
+                                        <div class="left" style="margin:2px 0 0 4px;">16:42</div>
+                                    </div>
+                                    <a href="http://pik.bg/първо-в-пик-двама-от-арестуваните-за-мократа-поръчка-срещу-пеевски-са-в-болница-обновена-и-news191162.html" title="Първо в ПИК! Двама от арестуваните за мократа поръчка срещу Пеевски са в болница! (обновена и снимки)" class="">» Първо в ПИК! Двама от арестуваните за мократа поръчка срещу Пеевски са в болница! (обновена и снимки)</a>
+                                </div>
+                                                            <div class="left item">
+                                    <div class="left info ">
+                                        <img alt="календар" class="left" src="http://i.pik.bg/img/date_grey.png" />
+                                        <div class="left" style="margin:2px 0 0 4px;">16:37</div>
+                                    </div>
+                                    <a href="http://pik.bg/афганистан-гласува-за-президент-въпреки-заплахите-news191163.html" title="Афганистан гласува за президент, въпреки заплахите" class="">» Афганистан гласува за президент, въпреки заплахите</a>
+                                </div>
+                                                            <div class="left item">
+                                    <div class="left info ">
+                                        <img alt="календар" class="left" src="http://i.pik.bg/img/date_grey.png" />
+                                        <div class="left" style="margin:2px 0 0 4px;">16:35</div>
+                                    </div>
+                                    <a href="http://pik.bg/тарикатлък-вип-строител-взема-багер-на-лизинг-ползва-го-6-години-но-не-плаща-news191161.html" title="Тарикатлък! ВИП-строител взема багер на лизинг, ползва го 6 години, но не плаща
+" class="">» Тарикатлък! ВИП-строител взема багер на лизинг, ползва го 6 години, но не плаща
+</a>
+                                </div>
+                                                            <div class="left item">
+                                    <div class="left info ">
+                                        <img alt="календар" class="left" src="http://i.pik.bg/img/date_grey.png" />
+                                        <div class="left" style="margin:2px 0 0 4px;">16:27</div>
+                                    </div>
+                                    <a href="http://pik.bg/година-след-откриването---михаил-миков-на-дунав-мост-2-news191160.html" title="Година след откриването - Михаил Миков на Дунав мост 2" class="">» Година след откриването - Михаил Миков на Дунав мост 2</a>
+                                </div>
+                                                            <div class="left item">
+                                    <div class="left info ">
+                                        <img alt="календар" class="left" src="http://i.pik.bg/img/date_grey.png" />
+                                        <div class="left" style="margin:2px 0 0 4px;">16:25</div>
+                                    </div>
+                                    <a href="http://pik.bg/бареков-проговори-пред-пик-за-отношенията-си-с-цветан-василев-и-делян-пеевски-обновена-news191158.html" title="Бареков проговори пред ПИК за отношенията си с Цветан Василев и Делян Пеевски! (обновена)" class="">» Бареков проговори пред ПИК за отношенията си с Цветан Василев и Делян Пеевски! (обновена)</a>
+                                </div>
+                                                            <div class="left item">
+                                    <div class="left info ">
+                                        <img alt="календар" class="left" src="http://i.pik.bg/img/date_grey.png" />
+                                        <div class="left" style="margin:2px 0 0 4px;">16:14</div>
+                                    </div>
+                                    <a href="http://pik.bg/деми-мур-замества-сара-джесика-паркър-в-нова-комедия-news191157.html" title="Деми Мур замества Сара Джесика Паркър в нова комедия" class="">» Деми Мур замества Сара Джесика Паркър в нова комедия</a>
+                                </div>
+                                                            <div class="left item">
+                                    <div class="left info ">
+                                        <img alt="календар" class="left" src="http://i.pik.bg/img/date_grey.png" />
+                                        <div class="left" style="margin:2px 0 0 4px;">16:08</div>
+                                    </div>
+                                    <a href="http://pik.bg/дрю-баримор-показа-новородената-си-дъщеря-снимка-news191156.html" title="Дрю Баримор показа новородената си дъщеря (снимка)" class="">» Дрю Баримор показа новородената си дъщеря (снимка)</a>
+                                </div>
+                                                            <div class="left item">
+                                    <div class="left info ">
+                                        <img alt="календар" class="left" src="http://i.pik.bg/img/date_grey.png" />
+                                        <div class="left" style="margin:2px 0 0 4px;">16:07</div>
+                                    </div>
+                                    <a href="http://pik.bg/бедствие-потоп-отнася-хотел-в-златни-пясъци-настаняват-гостите-в-друг-той-също-рухва-снимк-news191154.html" title="Бедствие! Потоп отнася хотел в Златни пясъци! Настаняват гостите в друг, той също рухва (снимки)" class="">» Бедствие! Потоп отнася хотел в Златни пясъци! Настаняват гостите в друг, той също рухва (снимки)</a>
+                                </div>
+                                                        </div>
+                            <div class="left content upper_news_slide invisible" id="most_important">
+                                                            <div class="left item">
+                                                                        <a style="width: 100%;"  title="Ужас! Нов случай на масово натравяне на деца - храна прати седем в болница" href="http://pik.bg/ужас-нов-случай-на-масово-натравяне-на-деца---храна-прати-седем-в-болница-news191066.html" class="">» Ужас! Нов случай на масово натравяне на деца - храна прати седем в болница</a>
+                                </div>
+                                                            <div class="left item">
+                                                                        <a style="width: 100%;"  title="Вече е факт! &quot;Стандарт енд пуърс&quot; понижи кредитния рейтинг на България (обновена)" href="http://pik.bg/вече-е-факт-&quotстандарт-енд-пуърс&quot-понижи-кредитния-рейтинг-на-българия-обновена-news190969.html" class="">» Вече е факт! "Стандарт енд пуърс" понижи кредитния рейтинг на България (обновена)</a>
+                                </div>
+                                                            <div class="left item">
+                                                                        <a style="width: 100%;"  title="Скандално! Изродът, заклал момчето в &quot;Горубляне&quot;, имал две самоличности в България" href="http://pik.bg/скандално-изродът-заклал-момчето-в-&quotгорубляне&quot-имал-две-самоличности-в-българия-news190512.html" class="">» Скандално! Изродът, заклал момчето в "Горубляне", имал две самоличности в България</a>
+                                </div>
+                                                            <div class="left item">
+                                                                        <a style="width: 100%;"  title="Мерцедес посече бетонен стълб в Хасковско, шофьорът бере душа (снимки)" href="http://pik.bg/мерцедес-посече-бетонен-стълб-в-хасковско-шофьорът-бере-душа-снимки-news190509.html" class="">» Мерцедес посече бетонен стълб в Хасковско, шофьорът бере душа (снимки)</a>
+                                </div>
+                                                            <div class="left item">
+                                                                        <a style="width: 100%;"  title="Кадиев се чуди дали да напусне БСП, пита съидейници през Фейсбук, май готви своя партия" href="http://pik.bg/кадиев-се-чуди-дали-да-напусне-бсп-пита-съидейници-през-фейсбук-май-готви-своя-партия-news190423.html" class="">» Кадиев се чуди дали да напусне БСП, пита съидейници през Фейсбук, май готви своя партия</a>
+                                </div>
+                                                            <div class="left item">
+                                                                        <a style="width: 100%;"  title="Първо в ПИК! Бареков вече официално е част от консерваторите" href="http://pik.bg/първо-в-пик-бареков-вече-официално-е-част-от-консерваторите-news190433.html" class="">» Първо в ПИК! Бареков вече официално е част от консерваторите</a>
+                                </div>
+                                                            <div class="left item">
+                                                                        <a style="width: 100%;"  title="Заседанието на парламента се провали! Ще предизвика ли Сидеров преждевременен разпад на властта? " href="http://pik.bg/заседанието-на-парламента-се-провали-ще-предизвика-ли-сидеров-преждевременен-разпад-на-вла-news190385.html" class="">» Заседанието на парламента се провали! Ще предизвика ли Сидеров преждевременен разпад на властта? </a>
+                                </div>
+                                                            <div class="left item">
+                                                                        <a style="width: 100%;"  title="Взеха главата на шеф от &quot;Бобов дол&quot; - набедиха го, че е изпял Ковачки за контролирания вот" href="http://pik.bg/взеха-главата-на-шеф-от-&quotбобов-дол&quot---набедиха-го-че-е-изпял-ковачки-за-контролира-news190242.html" class="">» Взеха главата на шеф от "Бобов дол" - набедиха го, че е изпял Ковачки за контролирания вот</a>
+                                </div>
+                                                            <div class="left item">
+                                                                        <a style="width: 100%;"  title="Опърничавият бесепар Георги Кадиев се предаде – напуска парламента и политиката!" href="http://pik.bg/опърничавият-бесепар-георги-кадиев-се-предаде-–-напуска-парламента-и-политиката-news189947.html" class="">» Опърничавият бесепар Георги Кадиев се предаде – напуска парламента и политиката!</a>
+                                </div>
+                                                            <div class="left item">
+                                                                        <a style="width: 100%;"  title="Индустриалците призоваха ГЕРБ да оттегли вота на недоверие" href="http://pik.bg/индустриалците-призоваха-герб-да-оттегли-вота-на-недоверие-news189713.html" class="">» Индустриалците призоваха ГЕРБ да оттегли вота на недоверие</a>
+                                </div>
+                                                        </div>
+
+                        </div>
+                    
+                            
+                           <div style="float: left;width: 100%;margin-top:10px; ">
+                                                           
+                                   
+                                        <script type='text/javascript'><!--//<![CDATA[
+                                           var m3_u = (location.protocol=='https:'?'https://ads.pik.bg/www/delivery/ajs.php':'http://ads.pik.bg/www/delivery/ajs.php');
+                                           var m3_r = Math.floor(Math.random()*99999999999);
+                                           if (!document.MAX_used) document.MAX_used = ',';
+                                           document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+                                           document.write ("?zoneid=39");
+                                           document.write ('&amp;cb=' + m3_r);
+                                           if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+                                           document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+                                           document.write ("&amp;loc=" + escape(window.location));
+                                           if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+                                           if (document.context) document.write ("&context=" + escape(document.context));
+                                           if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+                                           document.write ("'><\/scr"+"ipt>");
+                                        //]]>--></script><noscript><a href='http://ads.pik.bg/www/delivery/ck.php?n=a5db34c4&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://ads.pik.bg/www/delivery/avw.php?zoneid=39&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a5db34c4' border='0' alt='' /></a></noscript>
+                                   
+                                                                                     </div>
+
+                                                <div class="subject_box">
+                             <a href="http://pik.bg/тема-cat104.html" class="top_title decor_none">Тема</a>
+                             <div class="clear"></div>
+                             <a style="margin-left:3%;margin-top:10px;width:94%;" title="Бареков пред ПИК: Сидеров се държи като изоставена любовница на Станишев в една разпаднала се връзка! (обновена)" class="left" href="http://pik.bg/бареков-пред-пик-сидеров-се-държи-като-изоставена-любовница-на-станишев-в-една-разпаднала--news190756.html">
+                                <img src="http://i.pik.bg/news/190/440_4bc86f7020a1beaed744ee4e86ff1615.jpg"  alt="Бареков пред ПИК: Сидеров се държи като изоставена любовница на Станишев в една разпаднала се връзка! (обновена)" />
+                             </a>
+                             <a href="http://pik.bg/бареков-пред-пик-сидеров-се-държи-като-изоставена-любовница-на-станишев-в-една-разпаднала--news190756.html" title="Бареков пред ПИК: Сидеров се държи като изоставена любовница на Станишев в една разпаднала се връзка! (обновена)" class="text decor_none">Бареков пред ПИК: Сидеров се държи като изоставена любовница на Станишев в една разпаднала се връзка! (обновена)</a>
+                        </div>
+                        
+                        <div class="left most">
+                            <div class="left nav">
+                                <div class="left button news_tab invisible"  lang="most_read"  style="border-top-left-radius:2px; border-bottom-left-radius:2px;cursor: pointer;">Най-четени</div>
+                                <div class="left button_active "  style="border-top-right-radius:2px; border-bottom-right-radius:2px;cursor: pointer;">Най-четени</div>
+
+                                <div class="left button news_tab " lang="most_commented" style="border-top-left-radius:2px; border-bottom-left-radius:2px;cursor: pointer;">Най-коментирани</div>
+                                <div class="left button_active invisible "  style="border-top-right-radius:2px; border-bottom-right-radius:2px;cursor: pointer;">Най-коментирани</div>
+                            </div>
+
+                            <div id="most_read" class="left content news_slide">
+                                                                <div class="left item">
+                                <a class="" title="Само в ПИК! Изплуват сензационни подробности за красавицата Валя от Бургас! Вижте шокиращото поведение на гаджето й Валентин преди смъртта й! Защо се скри брат й, кой е загадъчният мъж от Пловдив..." href="http://pik.bg/само-в-пик-изплуват-сензационни-подробности-за-красавицата-валя-от-бургас-вижте-шокиращото-news190620.html">
+                                                                    <img alt="Само в ПИК! Изплуват сензационни подробности за красавицата Валя от Бургас! Вижте шокиращото поведение на гаджето й Валентин преди смъртта й! Защо се скри брат й, кой е загадъчният мъж от Пловдив..." class="left" style="width: 70px;" src="http://i.pik.bg/news/190/140_78b7fc3e7ff25632c97b036723e5e121.jpg" />
+                                                                </a>
+                                <div style="float: right;width: 220px;">
+                                    <a class=""  title="Само в ПИК! Изплуват сензационни подробности за красавицата Валя от Бургас! Вижте шокиращото поведение на гаджето й Валентин преди смъртта й! Защо се скри брат й, кой е загадъчният мъж от Пловдив..." href="http://pik.bg/само-в-пик-изплуват-сензационни-подробности-за-красавицата-валя-от-бургас-вижте-шокиращото-news190620.html">
+                                        » Само в ПИК! Изплуват сензационни подробности за красавицата Валя от Бургас! Вижте шокиращото поведение на гаджето й Валентин преди смъртта й! Защо се скри брат й, кой е загадъчният мъж от Пловдив...
+                                        <span class="info">
+                                            <img alt="прочитания" src="http://i.pik.bg/img/view_grey.png" />
+                                            <span>293460</span>
+                                        </span>
+                                    </a>
+                                 </div>
+                                </div>
+                                                                <div class="left item">
+                                <a class="" title="Мъжете в Испания се пекат по кесийки, вместо бански" href="http://pik.bg/мъжете-в-испания-се-пекат-по-кесийки-вместо-бански-news190893.html">
+                                                                    <img alt="Мъжете в Испания се пекат по кесийки, вместо бански" class="left" style="width: 70px;" src="http://i.pik.bg/news/190/140_b040bff7c7fb6b52d7e9e95b97bf0def.jpg" />
+                                                                </a>
+                                <div style="float: right;width: 220px;">
+                                    <a class=""  title="Мъжете в Испания се пекат по кесийки, вместо бански" href="http://pik.bg/мъжете-в-испания-се-пекат-по-кесийки-вместо-бански-news190893.html">
+                                        » Мъжете в Испания се пекат по кесийки, вместо бански
+                                        <span class="info">
+                                            <img alt="прочитания" src="http://i.pik.bg/img/view_grey.png" />
+                                            <span>231886</span>
+                                        </span>
+                                    </a>
+                                 </div>
+                                </div>
+                                                                <div class="left item">
+                                <a class="" title="Трагедия! Внезапно издъхна собственикът на култовата дискотека &quot;Найт флайт&quot;, паднал от скали в Анталия (обновена + снимка)" href="http://pik.bg/трагедия-внезапно-издъхна-собственикът-на-култовата-дискотека-&quotнайт-флайт&quot-паднал--news190224.html">
+                                                                    <img alt="Трагедия! Внезапно издъхна собственикът на култовата дискотека &quot;Найт флайт&quot;, паднал от скали в Анталия (обновена + снимка)" class="left" style="width: 70px;" src="http://i.pik.bg/news/190/140_5effee3a6a9155a3d8e284b4b95a91e8.jpg" />
+                                                                </a>
+                                <div style="float: right;width: 220px;">
+                                    <a class=""  title="Трагедия! Внезапно издъхна собственикът на култовата дискотека &quot;Найт флайт&quot;, паднал от скали в Анталия (обновена + снимка)" href="http://pik.bg/трагедия-внезапно-издъхна-собственикът-на-култовата-дискотека-&quotнайт-флайт&quot-паднал--news190224.html">
+                                        » Трагедия! Внезапно издъхна собственикът на култовата дискотека "Найт флайт", паднал от скали в Анталия (обновена + снимка)
+                                        <span class="info">
+                                            <img alt="прочитания" src="http://i.pik.bg/img/view_grey.png" />
+                                            <span>229705</span>
+                                        </span>
+                                    </a>
+                                 </div>
+                                </div>
+                                                                <div class="left item">
+                                <a class="" title="Емилия шокира - показа зърно във &quot;Фейсбук&quot;! (снимка)" href="http://pik.bg/емилия-шокира---показа-зърно-във-&quotфейсбук&quot-снимка-news190427.html">
+                                                                    <img alt="Емилия шокира - показа зърно във &quot;Фейсбук&quot;! (снимка)" class="left" style="width: 70px;" src="http://i.pik.bg/news/190/140_d02ae6955d38ac1f2812bdb04eb36925.jpg" />
+                                                                </a>
+                                <div style="float: right;width: 220px;">
+                                    <a class=""  title="Емилия шокира - показа зърно във &quot;Фейсбук&quot;! (снимка)" href="http://pik.bg/емилия-шокира---показа-зърно-във-&quotфейсбук&quot-снимка-news190427.html">
+                                        » Емилия шокира - показа зърно във "Фейсбук"! (снимка)
+                                        <span class="info">
+                                            <img alt="прочитания" src="http://i.pik.bg/img/view_grey.png" />
+                                            <span>167336</span>
+                                        </span>
+                                    </a>
+                                 </div>
+                                </div>
+                                                                <div class="left item">
+                                <a class="" title="Ексклузивно в ПИК! Столичната полиция захапа Моника Станишева за аферата &quot;Хохегер&quot;!" href="http://pik.bg/ексклузивно-в-пик-столичната-полиция-захапа-моника-станишева-за-аферата-&quotхохегер&quot-news190196.html">
+                                                                    <img alt="Ексклузивно в ПИК! Столичната полиция захапа Моника Станишева за аферата &quot;Хохегер&quot;!" class="left" style="width: 70px;" src="http://i.pik.bg/news/190/140_fc6b4182c65bcb7d82d5392c75eb2219.jpg" />
+                                                                </a>
+                                <div style="float: right;width: 220px;">
+                                    <a class=""  title="Ексклузивно в ПИК! Столичната полиция захапа Моника Станишева за аферата &quot;Хохегер&quot;!" href="http://pik.bg/ексклузивно-в-пик-столичната-полиция-захапа-моника-станишева-за-аферата-&quotхохегер&quot-news190196.html">
+                                        » Ексклузивно в ПИК! Столичната полиция захапа Моника Станишева за аферата "Хохегер"!
+                                        <span class="info">
+                                            <img alt="прочитания" src="http://i.pik.bg/img/view_grey.png" />
+                                            <span>134408</span>
+                                        </span>
+                                    </a>
+                                 </div>
+                                </div>
+                                                                <div class="left item">
+                                <a class="" title="Касапница! 17 души загинаха при катастрофа" href="http://pik.bg/касапница-17-души-загинаха-при-катастрофа-news190284.html">
+                                                                    <img alt="Касапница! 17 души загинаха при катастрофа" class="left" style="width: 70px;" src="http://i.pik.bg/news/190/140_16967df9b33d28612e5cde40f147f112.jpg" />
+                                                                </a>
+                                <div style="float: right;width: 220px;">
+                                    <a class=""  title="Касапница! 17 души загинаха при катастрофа" href="http://pik.bg/касапница-17-души-загинаха-при-катастрофа-news190284.html">
+                                        » Касапница! 17 души загинаха при катастрофа
+                                        <span class="info">
+                                            <img alt="прочитания" src="http://i.pik.bg/img/view_grey.png" />
+                                            <span>131458</span>
+                                        </span>
+                                    </a>
+                                 </div>
+                                </div>
+                                                                <a class="right_most_blink"  title="Виж всички най-четени" href="http://pik.bg/най-четени.html">» Виж всички най-четени</a>
+                            </div><!-- End Slide most read -->
+
+                            <div id="most_commented" class="left content news_slide invisible">
+                                                                <div class="left item">
+                                <a class="" title="ЕТО Я БОМБАТА на ПИК! Разследват Цветан Василев, че е поръчал убийството на Пеевски! 
+Свидетел разкрил плана за мократа поръчка, 4-ма в заговора!" href="http://pik.bg/ето-я-бомбата-на-пик-разследват-цветан-василев-че-е-поръчал-убийството-на-пеевски--news190750.html">
+                                                                    <img alt="ЕТО Я БОМБАТА на ПИК! Разследват Цветан Василев, че е поръчал убийството на Пеевски! 
+Свидетел разкрил плана за мократа поръчка, 4-ма в заговора!" class="left" style="width: 70px;" src="http://i.pik.bg/news/190/140_3650bcca6df01bf3940e68361b0e6cbb.jpg" />
+                                                                </a>
+                                <div style="float: right;width: 220px;">
+                                    <a class="" title="ЕТО Я БОМБАТА на ПИК! Разследват Цветан Василев, че е поръчал убийството на Пеевски! 
+Свидетел разкрил плана за мократа поръчка, 4-ма в заговора!" href="http://pik.bg/ето-я-бомбата-на-пик-разследват-цветан-василев-че-е-поръчал-убийството-на-пеевски--news190750.html">
+                                      » ЕТО Я БОМБАТА на ПИК! Разследват Цветан Василев, че е поръчал убийството на Пеевски! 
+Свидетел разкрил плана за мократа поръчка, 4-ма в заговора!
+                                      <span class="info">
+                                        <img alt="коментари" src="http://i.pik.bg/img/comment_grey.png" />
+                                        <span>95</span>
+                                      </span>
+                                    </a>
+                                 </div>
+                                </div>
+                                                                <div class="left item">
+                                <a class="" title="Извънредно в ПИК! Въоръжени барети тарашат личните кабинети на Цветан Василев в КТБ! (обновена)" href="http://pik.bg/извънредно-в-пик-въоръжени-барети-тарашат-личните-кабинети-на-цветан-василев-в-ктб-обновен-news190805.html">
+                                                                    <img alt="Извънредно в ПИК! Въоръжени барети тарашат личните кабинети на Цветан Василев в КТБ! (обновена)" class="left" style="width: 70px;" src="http://i.pik.bg/news/190/140_c91392df53592db07e22f32b2f68800c.jpg" />
+                                                                </a>
+                                <div style="float: right;width: 220px;">
+                                    <a class="" title="Извънредно в ПИК! Въоръжени барети тарашат личните кабинети на Цветан Василев в КТБ! (обновена)" href="http://pik.bg/извънредно-в-пик-въоръжени-барети-тарашат-личните-кабинети-на-цветан-василев-в-ктб-обновен-news190805.html">
+                                      » Извънредно в ПИК! Въоръжени барети тарашат личните кабинети на Цветан Василев в КТБ! (обновена)
+                                      <span class="info">
+                                        <img alt="коментари" src="http://i.pik.bg/img/comment_grey.png" />
+                                        <span>85</span>
+                                      </span>
+                                    </a>
+                                 </div>
+                                </div>
+                                                                <div class="left item">
+                                <a class="" title="Волен Сидеров пред  ПИК: Бареков преговаря с БСП, ДПС и ГЕРБ! Разтворил си е краката като манастирска порта по Великден пред партийните лидери!" href="http://pik.bg/волен-сидеров-пред--пик-бареков-преговаря-с-бсп-дпс-и-герб-разтворил-си-е-краката-като-ман-news190799.html">
+                                                                    <img alt="Волен Сидеров пред  ПИК: Бареков преговаря с БСП, ДПС и ГЕРБ! Разтворил си е краката като манастирска порта по Великден пред партийните лидери!" class="left" style="width: 70px;" src="http://i.pik.bg/news/190/140_1a2814cb2f4d84b3206b218fcaaef493.jpg" />
+                                                                </a>
+                                <div style="float: right;width: 220px;">
+                                    <a class="" title="Волен Сидеров пред  ПИК: Бареков преговаря с БСП, ДПС и ГЕРБ! Разтворил си е краката като манастирска порта по Великден пред партийните лидери!" href="http://pik.bg/волен-сидеров-пред--пик-бареков-преговаря-с-бсп-дпс-и-герб-разтворил-си-е-краката-като-ман-news190799.html">
+                                      » Волен Сидеров пред  ПИК: Бареков преговаря с БСП, ДПС и ГЕРБ! Разтворил си е краката като манастирска порта по Великден пред партийните лидери!
+                                      <span class="info">
+                                        <img alt="коментари" src="http://i.pik.bg/img/comment_grey.png" />
+                                        <span>82</span>
+                                      </span>
+                                    </a>
+                                 </div>
+                                </div>
+                                                                <div class="left item">
+                                <a class="" title="Само в ПИК! Сензационна развръзка по разследването срещу Цветан Василев! Арестуваха трима от бандата за подготовката на убийството на Пеевски!" href="http://pik.bg/само-в-пик-сензационна-развръзка-по-разследването-срещу-цветан-василев-арестуваха-трима-от-news190766.html">
+                                                                    <img alt="Само в ПИК! Сензационна развръзка по разследването срещу Цветан Василев! Арестуваха трима от бандата за подготовката на убийството на Пеевски!" class="left" style="width: 70px;" src="http://i.pik.bg/news/190/140_f3316798c3a49aa53374a73f790b383f.jpg" />
+                                                                </a>
+                                <div style="float: right;width: 220px;">
+                                    <a class="" title="Само в ПИК! Сензационна развръзка по разследването срещу Цветан Василев! Арестуваха трима от бандата за подготовката на убийството на Пеевски!" href="http://pik.bg/само-в-пик-сензационна-развръзка-по-разследването-срещу-цветан-василев-арестуваха-трима-от-news190766.html">
+                                      » Само в ПИК! Сензационна развръзка по разследването срещу Цветан Василев! Арестуваха трима от бандата за подготовката на убийството на Пеевски!
+                                      <span class="info">
+                                        <img alt="коментари" src="http://i.pik.bg/img/comment_grey.png" />
+                                        <span>71</span>
+                                      </span>
+                                    </a>
+                                 </div>
+                                </div>
+                                                                <div class="left item">
+                                <a class="" title="Бареков: Ще направя социалните реформи с парите на фирмите на ГЕРБ и ДПС" href="http://pik.bg/бареков-ще-направя-социалните-реформи-с-парите-на-фирмите-на-герб-и-дпс-news191134.html">
+                                                                    <img alt="Бареков: Ще направя социалните реформи с парите на фирмите на ГЕРБ и ДПС" class="left" style="width: 70px;" src="http://i.pik.bg/news/191/140_67f0bc242d26726cf591d8bcc25325db.jpg" />
+                                                                </a>
+                                <div style="float: right;width: 220px;">
+                                    <a class="" title="Бареков: Ще направя социалните реформи с парите на фирмите на ГЕРБ и ДПС" href="http://pik.bg/бареков-ще-направя-социалните-реформи-с-парите-на-фирмите-на-герб-и-дпс-news191134.html">
+                                      » Бареков: Ще направя социалните реформи с парите на фирмите на ГЕРБ и ДПС
+                                      <span class="info">
+                                        <img alt="коментари" src="http://i.pik.bg/img/comment_grey.png" />
+                                        <span>70</span>
+                                      </span>
+                                    </a>
+                                 </div>
+                                </div>
+                                                                <div class="left item">
+                                <a class="" title="Бареков пред ПИК: Сидеров се държи като изоставена любовница на Станишев в една разпаднала се връзка! (обновена)" href="http://pik.bg/бареков-пред-пик-сидеров-се-държи-като-изоставена-любовница-на-станишев-в-една-разпаднала--news190756.html">
+                                                                    <img alt="Бареков пред ПИК: Сидеров се държи като изоставена любовница на Станишев в една разпаднала се връзка! (обновена)" class="left" style="width: 70px;" src="http://i.pik.bg/news/190/140_4bc86f7020a1beaed744ee4e86ff1615.jpg" />
+                                                                </a>
+                                <div style="float: right;width: 220px;">
+                                    <a class="" title="Бареков пред ПИК: Сидеров се държи като изоставена любовница на Станишев в една разпаднала се връзка! (обновена)" href="http://pik.bg/бареков-пред-пик-сидеров-се-държи-като-изоставена-любовница-на-станишев-в-една-разпаднала--news190756.html">
+                                      » Бареков пред ПИК: Сидеров се държи като изоставена любовница на Станишев в една разпаднала се връзка! (обновена)
+                                      <span class="info">
+                                        <img alt="коментари" src="http://i.pik.bg/img/comment_grey.png" />
+                                        <span>65</span>
+                                      </span>
+                                    </a>
+                                 </div>
+                                </div>
+                                                                <a class="right_most_blink" title="Виж всички най-коментирани" href="http://pik.bg/най-коментирани.html">» Виж всички най-коментирани</a>
+                            </div><!-- End Slide most commented -->
+
+                        </div>
+
+                        <div class="left banner_r h320" style="margin:20px 0 0 0;"onclick="location.href='#';" style="cursor:pointer;">
+                            
+                            <script type='text/javascript'><!--//<![CDATA[
+                               var m3_u = (location.protocol=='https:'?'https://ads.pik.bg/www/delivery/ajs.php':'http://ads.pik.bg/www/delivery/ajs.php');
+                               var m3_r = Math.floor(Math.random()*99999999999);
+                               if (!document.MAX_used) document.MAX_used = ',';
+                               document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+                               document.write ("?zoneid=23");
+                               document.write ('&amp;cb=' + m3_r);
+                               if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+                               document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+                               document.write ("&amp;loc=" + escape(window.location));
+                               if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+                               if (document.context) document.write ("&context=" + escape(document.context));
+                               if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+                               document.write ("'><\/scr"+"ipt>");
+                            //]]>--></script><noscript><a href='http://ads.pik.bg/www/delivery/ck.php?n=a344a3c4&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://ads.pik.bg/www/delivery/avw.php?zoneid=23&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a344a3c4' border='0' alt='' /></a></noscript>
+
+                            
+                        </div>
+
+                                                <div class="left item users_right_news">
+                            <div class="left title_heading">
+                                <div class="left title" style="cursor:pointer;"><a title="Аз, читателя" href="http://pik.bg/аз-читателя-cat101.html">Аз, читателя</a></div>
+                                <div class="left" style="margin:3% 0 0 3px;"><img alt="стрелка" src="http://i.pik.bg/img/grey_arrows.png" /></div>
+                            </div>
+                            <div class="left content">
+                                <div class="left img"><a title="ПИК-репортер: Змии и плъхове плъзнаха из елитния Американски колеж в София! Никой не вика ХЕИ и Гражданска защита! " href="http://pik.bg/пик-репортер-змии-и-плъхове-плъзнаха-из-елитния-американски-колеж-в-софия-никой-не-вика-хе-news189717.html"><img alt="ПИК-репортер: Змии и плъхове плъзнаха из елитния Американски колеж в София! Никой не вика ХЕИ и Гражданска защита! " style="max-width:300px;" src="http://i.pik.bg/news/189/440_74ac434648e92886d4b2e1494a495782.jpg" /></a></div>
+                                <div class="left title" style="cursor:pointer; background: #000; margin: 0; padding: 5px; width: 97%;"><a class="white_hov" style="color: #fff;" title="ПИК-репортер: Змии и плъхове плъзнаха из елитния Американски колеж в София! Никой не вика ХЕИ и Гражданска защита! " href="http://pik.bg/пик-репортер-змии-и-плъхове-плъзнаха-из-елитния-американски-колеж-в-софия-никой-не-вика-хе-news189717.html">ПИК-репортер: Змии и плъхове плъзнаха из елитния Американски колеж в София! Никой не вика ХЕИ и Гражданска защита! </a></div>
+                                <div class="left title" style="cursor:pointer;"><a title="Бедни ми, бедни народе, защо ти бе тая скъпа цифровизация?!" href="http://pik.bg/бедни-ми-бедни-народе-защо-ти-бе-тая-скъпа-цифровизация-news187029.html">Бедни ми, бедни народе, защо ти бе тая скъпа цифровизация?!</a></div>
+                                <div class="left title" style="cursor:pointer;"><a title="ПИК-репортер: Полиция паркира в тревните площи на бул. &quot;България&quot;. Това нормално ли е?" href="http://pik.bg/пик-репортер-полиция-паркира-в-тревните-площи-на-бул-&quotбългария&quot-това-нормално-ли-е-news186310.html">ПИК-репортер: Полиция паркира в тревните площи на бул. "България". Това нормално ли е?</a></div>
+                                <div class="left title" style="cursor:pointer;"><a title="Среднощен екшън във Варна: Джигит с &quot;Мерцедес&quot; помете три коли и избяга (снимки)" href="http://pik.bg/среднощен-екшън-във-варна-джигит-с-&quotмерцедес&quot-помете-три-коли-и-избяга-снимки-news178197.html">Среднощен екшън във Варна: Джигит с "Мерцедес" помете три коли и избяга (снимки)</a></div>
+                                                            </div>
+                        </div>
+                                                
+                        <div class="left item poll">
+                            <div class="left title_heading">
+                                <div class="left title" onclick="location.href='#';" title="Анкета" style="cursor:pointer;">Анкета</div>
+                                <div class="left" style="margin:3% 0 0 3px;"><img alt="стрелка" src="http://i.pik.bg/img/grey_arrows.png" /></div>
+                            </div>
+                            <div class="left content">
+                                <div class="left question">Трябва ли Сергей Станишев да си подаде оставката като председател на БСП?</div>
+                                                                <form method="post" action="/poll/vote/57">
+                                                                                                            <div class="left answer">
+                                            <label>
+                                                <input class="left radio" name="answer" type="radio" value="332" />
+                                                <div class="left text">Да</div>
+                                            </label>
+                                        </div>
+                                                                                                                                                <div class="left answer">
+                                            <label>
+                                                <input class="left radio" name="answer" type="radio" value="333" />
+                                                <div class="left text">Не</div>
+                                            </label>
+                                        </div>
+                                                                                                                                                <div class="left answer">
+                                            <label>
+                                                <input class="left radio" name="answer" type="radio" value="334" />
+                                                <div class="left text">Твърдо не, той трябва да управлява партията поне още 20 години</div>
+                                            </label>
+                                        </div>
+                                                                                                                                                <div class="left answer">
+                                            <label>
+                                                <input class="left radio" name="answer" type="radio" value="335" />
+                                                <div class="left text">Той не е виновен за загубата на БСП</div>
+                                            </label>
+                                        </div>
+                                                                                                    <input type="submit" class="left vote" value="Гласувай" />
+                                </form>
+                                                            </div>
+                        </div>
+
+                        <div class="left item live_score">
+                            <div class="left title_heading">
+
+                                <a href="http://www.livescore.in/" class="left title" title="Live Score" target="_blank" style="text-decoration:none;" title="Live Score">Live Score</a>
+                                <div class="left" style="margin:3% 0 0 3px;"><img alt="стрелка" src="http://i.pik.bg/img/grey_arrows.png" /></div>
+                            </div>
+                            <div class="left nav">
+                                <div class="left live_score_tab button p6 invisible" lang="rating" onclick="javascript:void(0)" style="cursor:pointer;" style="border-top-left-radius:2px; border-bottom-left-radius:2px;">Класиране</div>
+                                <div class="left button_active p6" lang="rating" onclick="javascript:void(0)" style="border-top-right-radius:2px; border-bottom-right-radius:2px;">Класиране</div>
+                                <a style="text-decoration:none;" href="http://pik.bg/main/livescore" title="Мачове на живо">
+                                    <div class="left live_score_tab button " lang="live" onclick="javascript:void(0)" style="cursor:pointer;" style="border-top-right-radius:2px; border-bottom-right-radius:2px;">Мачове на живо</div>
+                                </a>
+                                <div class="left  button_active invisible " lang="live" onclick="javascript:void(0)" style="cursor:pointer;" style="border-top-right-radius:2px; border-bottom-right-radius:2px;">Мачове на живо</div>
+                            </div>
+                            <div id="rating" class="left content live_score_slide" style=" margin-top: 10px;"  >
+                                <div class="left top" style="display: none;">
+                                    <div class="left left_column relative groups">
+                                        <div class="left name" style="cursor:pointer;">
+                                            <div class="left flag"></div>
+                                            <div class="left name_content" id="scroller"><img class="left mr5" style="margin-left:4px;" src="http://i.pik.bg/img/bgflag.gif" alt="" /> А група</div>
+                                            <input id="rval" type="hidden" value="" />
+                                        </div>
+                                        <div class="left sub_button pointer scroller2" ></div>
+                                        <div class="absolute sub_name" style="display:none;">
+                                            <div onclick="ShowRanklistTab(1);" class='left w100 sub_cats'><img style="margin-left:4px;" class="left mr5" src="http://i.pik.bg/img/bgflag.gif" alt="А група" /> А група</div>
+                                            <div onclick="ShowRanklistTab(2);" class='left w100 sub_cats'><img style="margin-left:4px;" class="left mr5" src="http://i.pik.bg/img/spain.gif" alt="Примера дивисион" />Примера дивисион</div>
+                                            <div onclick="ShowRanklistTab(3);" class='left w100 sub_cats'><img style="margin-left:4px;" class="left mr5" src="http://i.pik.bg/img/england.gif" alt="Премиър лийг" />Премиър лийг</div>
+                                            <div onclick="ShowRanklistTab(4);" class='left w100 sub_cats'><img style="margin-left:4px;" class="left mr5" src="http://i.pik.bg/img/italy.gif" alt="Серия А" />Серия А</div>
+                                            <div onclick="ShowRanklistTab(5);" class='left w100 sub_cats'><img style="margin-left:4px;" class="left mr5" src="http://i.pik.bg/img/germany.gif" alt="Бундеслига" />Бундеслига</div>
+                                            <div onclick="ShowRanklistTab(6);" class='left w100 sub_cats'><img style="margin-left:4px;" class="left mr5" src="http://i.pik.bg/img/france.gif" alt="Лига 1" />Лига 1</div>
+                                        </div>
+                                    </div>
+                                    <div class="left mid_column">Срещи</div>
+                                    <div class="left right_column">Точки</div>
+                                </div>
+                                <div class="left main" style="display: none;" >
+                                    <div class='ranklist-display-class' style='display:none;' id='ranklist_show_0'></div><div class='ranklist-display-class' style='display:block;' id='ranklist_show_1'>
+            <div class="left single ">
+               <div class="left left_column"><strong>1. Лудогорец</strong></div>
+               <div class="left mid_column"><strong>12</strong></div>
+               <div class="left right_column"><strong>26</strong></div>
+            </div>
+        
+            <div class="left single score_back">
+               <div class="left left_column"><strong>2. ЦСКА</strong></div>
+               <div class="left mid_column"><strong>12</strong></div>
+               <div class="left right_column"><strong>21</strong></div>
+            </div>
+        
+            <div class="left single ">
+               <div class="left left_column"><strong>3. Ботев (Пловдив)</strong></div>
+               <div class="left mid_column"><strong>12</strong></div>
+               <div class="left right_column"><strong>19</strong></div>
+            </div>
+        
+            <div class="left single score_back">
+               <div class="left left_column"><strong>4. Левски</strong></div>
+               <div class="left mid_column"><strong>12</strong></div>
+               <div class="left right_column"><strong>18</strong></div>
+            </div>
+        
+            <div class="left single ">
+               <div class="left left_column"><strong>5. Литекс</strong></div>
+               <div class="left mid_column"><strong>12</strong></div>
+               <div class="left right_column"><strong>15</strong></div>
+            </div>
+        
+            <div class="left single score_back">
+               <div class="left left_column"><strong>6. Черно море</strong></div>
+               <div class="left mid_column"><strong>12</strong></div>
+               <div class="left right_column"><strong>11</strong></div>
+            </div>
+        
+            <div class="left single ">
+               <div class="left left_column"><strong>7. Локомотив (Пловдив)</strong></div>
+               <div class="left mid_column"><strong>12</strong></div>
+               <div class="left right_column"><strong>5</strong></div>
+            </div>
+        </div><div class='ranklist-display-class' style='display:none;' id='ranklist_show_2'>
+            <div class="left single ">
+               <div class="left left_column"><strong>1. Атлетико Мадрид</strong></div>
+               <div class="left mid_column"><strong>38</strong></div>
+               <div class="left right_column"><strong>90</strong></div>
+            </div>
+        
+            <div class="left single score_back">
+               <div class="left left_column"><strong>2. Барселона</strong></div>
+               <div class="left mid_column"><strong>38</strong></div>
+               <div class="left right_column"><strong>87</strong></div>
+            </div>
+        </div><div class='ranklist-display-class' style='display:none;' id='ranklist_show_3'>
+            <div class="left single ">
+               <div class="left left_column"><strong>1. Манчестър Сити</strong></div>
+               <div class="left mid_column"><strong>38</strong></div>
+               <div class="left right_column"><strong>86</strong></div>
+            </div>
+        
+            <div class="left single score_back">
+               <div class="left left_column"><strong>2. Ливърпул</strong></div>
+               <div class="left mid_column"><strong>38</strong></div>
+               <div class="left right_column"><strong>84</strong></div>
+            </div>
+        </div><div class='ranklist-display-class' style='display:none;' id='ranklist_show_4'>
+            <div class="left single ">
+               <div class="left left_column"><strong>1. Ювентус</strong></div>
+               <div class="left mid_column"><strong>38</strong></div>
+               <div class="left right_column"><strong>102</strong></div>
+            </div>
+        
+            <div class="left single score_back">
+               <div class="left left_column"><strong>2. Рома</strong></div>
+               <div class="left mid_column"><strong>38</strong></div>
+               <div class="left right_column"><strong>85</strong></div>
+            </div>
+        
+            <div class="left single ">
+               <div class="left left_column"><strong>3. Наполи</strong></div>
+               <div class="left mid_column"><strong>38</strong></div>
+               <div class="left right_column"><strong>78</strong></div>
+            </div>
+        
+            <div class="left single score_back">
+               <div class="left left_column"><strong>4. Фиорентина</strong></div>
+               <div class="left mid_column"><strong>38</strong></div>
+               <div class="left right_column"><strong>65</strong></div>
+            </div>
+        
+            <div class="left single ">
+               <div class="left left_column"><strong>5. Интер</strong></div>
+               <div class="left mid_column"><strong>38</strong></div>
+               <div class="left right_column"><strong>60</strong></div>
+            </div>
+        
+            <div class="left single score_back">
+               <div class="left left_column"><strong>6. Парма</strong></div>
+               <div class="left mid_column"><strong>38</strong></div>
+               <div class="left right_column"><strong>58</strong></div>
+            </div>
+        
+            <div class="left single ">
+               <div class="left left_column"><strong>7. Торино</strong></div>
+               <div class="left mid_column"><strong>38</strong></div>
+               <div class="left right_column"><strong>57</strong></div>
+            </div>
+        
+            <div class="left single score_back">
+               <div class="left left_column"><strong>8. Милан</strong></div>
+               <div class="left mid_column"><strong>38</strong></div>
+               <div class="left right_column"><strong>57</strong></div>
+            </div>
+        
+            <div class="left single ">
+               <div class="left left_column"><strong>9. Лацио</strong></div>
+               <div class="left mid_column"><strong>38</strong></div>
+               <div class="left right_column"><strong>56</strong></div>
+            </div>
+        
+            <div class="left single score_back">
+               <div class="left left_column"><strong>10. Верона</strong></div>
+               <div class="left mid_column"><strong>38</strong></div>
+               <div class="left right_column"><strong>54</strong></div>
+            </div>
+        
+            <div class="left single ">
+               <div class="left left_column"><strong>11. Аталанта</strong></div>
+               <div class="left mid_column"><strong>38</strong></div>
+               <div class="left right_column"><strong>50</strong></div>
+            </div>
+        
+            <div class="left single score_back">
+               <div class="left left_column"><strong>12. Сампдория</strong></div>
+               <div class="left mid_column"><strong>38</strong></div>
+               <div class="left right_column"><strong>45</strong></div>
+            </div>
+        
+            <div class="left single ">
+               <div class="left left_column"><strong>13. Дженоа</strong></div>
+               <div class="left mid_column"><strong>38</strong></div>
+               <div class="left right_column"><strong>44</strong></div>
+            </div>
+        
+            <div class="left single score_back">
+               <div class="left left_column"><strong>14. Удинезе</strong></div>
+               <div class="left mid_column"><strong>38</strong></div>
+               <div class="left right_column"><strong>44</strong></div>
+            </div>
+        
+            <div class="left single ">
+               <div class="left left_column"><strong>15. Каляри</strong></div>
+               <div class="left mid_column"><strong>38</strong></div>
+               <div class="left right_column"><strong>39</strong></div>
+            </div>
+        
+            <div class="left single score_back">
+               <div class="left left_column"><strong>16. Киево</strong></div>
+               <div class="left mid_column"><strong>38</strong></div>
+               <div class="left right_column"><strong>36</strong></div>
+            </div>
+        
+            <div class="left single ">
+               <div class="left left_column"><strong>17. Сасуоло</strong></div>
+               <div class="left mid_column"><strong>38</strong></div>
+               <div class="left right_column"><strong>34</strong></div>
+            </div>
+        
+            <div class="left single score_back">
+               <div class="left left_column"><strong>18. Катания</strong></div>
+               <div class="left mid_column"><strong>38</strong></div>
+               <div class="left right_column"><strong>32</strong></div>
+            </div>
+        
+            <div class="left single ">
+               <div class="left left_column"><strong>19. Болоня</strong></div>
+               <div class="left mid_column"><strong>38</strong></div>
+               <div class="left right_column"><strong>29</strong></div>
+            </div>
+        
+            <div class="left single score_back">
+               <div class="left left_column"><strong>20. Ливорно</strong></div>
+               <div class="left mid_column"><strong>38</strong></div>
+               <div class="left right_column"><strong>25</strong></div>
+            </div>
+        </div><div class='ranklist-display-class' style='display:none;' id='ranklist_show_5'>
+            <div class="left single ">
+               <div class="left left_column"><strong>1. Байерн (Мюнхен)</strong></div>
+               <div class="left mid_column"><strong>34</strong></div>
+               <div class="left right_column"><strong>90</strong></div>
+            </div>
+        
+            <div class="left single score_back">
+               <div class="left left_column"><strong>2. Борусия (Дортмунд)</strong></div>
+               <div class="left mid_column"><strong>34</strong></div>
+               <div class="left right_column"><strong>71</strong></div>
+            </div>
+        </div><div class='ranklist-display-class' style='display:none;' id='ranklist_show_6'>
+            <div class="left single ">
+               <div class="left left_column"><strong>1. Пари Сен Жермен</strong></div>
+               <div class="left mid_column"><strong>38</strong></div>
+               <div class="left right_column"><strong>89</strong></div>
+            </div>
+        
+            <div class="left single score_back">
+               <div class="left left_column"><strong>2. Монако</strong></div>
+               <div class="left mid_column"><strong>38</strong></div>
+               <div class="left right_column"><strong>80</strong></div>
+            </div>
+        
+            <div class="left single ">
+               <div class="left left_column"><strong>3. Лил</strong></div>
+               <div class="left mid_column"><strong>38</strong></div>
+               <div class="left right_column"><strong>71</strong></div>
+            </div>
+        
+            <div class="left single score_back">
+               <div class="left left_column"><strong>4. Сент Етиен</strong></div>
+               <div class="left mid_column"><strong>38</strong></div>
+               <div class="left right_column"><strong>69</strong></div>
+            </div>
+        
+            <div class="left single ">
+               <div class="left left_column"><strong>5. Лион</strong></div>
+               <div class="left mid_column"><strong>38</strong></div>
+               <div class="left right_column"><strong>61</strong></div>
+            </div>
+        
+            <div class="left single score_back">
+               <div class="left left_column"><strong>6. Олимпик Марсилия</strong></div>
+               <div class="left mid_column"><strong>38</strong></div>
+               <div class="left right_column"><strong>60</strong></div>
+            </div>
+        
+            <div class="left single ">
+               <div class="left left_column"><strong>7. Бордо</strong></div>
+               <div class="left mid_column"><strong>38</strong></div>
+               <div class="left right_column"><strong>53</strong></div>
+            </div>
+        
+            <div class="left single score_back">
+               <div class="left left_column"><strong>8. Лориен</strong></div>
+               <div class="left mid_column"><strong>38</strong></div>
+               <div class="left right_column"><strong>49</strong></div>
+            </div>
+        
+            <div class="left single ">
+               <div class="left left_column"><strong>9. Тулуза</strong></div>
+               <div class="left mid_column"><strong>38</strong></div>
+               <div class="left right_column"><strong>49</strong></div>
+            </div>
+        
+            <div class="left single score_back">
+               <div class="left left_column"><strong>10. Бастия</strong></div>
+               <div class="left mid_column"><strong>38</strong></div>
+               <div class="left right_column"><strong>49</strong></div>
+            </div>
+        
+            <div class="left single ">
+               <div class="left left_column"><strong>11. Реймс</strong></div>
+               <div class="left mid_column"><strong>38</strong></div>
+               <div class="left right_column"><strong>48</strong></div>
+            </div>
+        
+            <div class="left single score_back">
+               <div class="left left_column"><strong>12. Рен</strong></div>
+               <div class="left mid_column"><strong>38</strong></div>
+               <div class="left right_column"><strong>46</strong></div>
+            </div>
+        
+            <div class="left single ">
+               <div class="left left_column"><strong>13. Нант</strong></div>
+               <div class="left mid_column"><strong>38</strong></div>
+               <div class="left right_column"><strong>46</strong></div>
+            </div>
+        
+            <div class="left single score_back">
+               <div class="left left_column"><strong>14. Евиан</strong></div>
+               <div class="left mid_column"><strong>38</strong></div>
+               <div class="left right_column"><strong>44</strong></div>
+            </div>
+        
+            <div class="left single ">
+               <div class="left left_column"><strong>15. Монпелие</strong></div>
+               <div class="left mid_column"><strong>38</strong></div>
+               <div class="left right_column"><strong>42</strong></div>
+            </div>
+        
+            <div class="left single score_back">
+               <div class="left left_column"><strong>16. Гинган</strong></div>
+               <div class="left mid_column"><strong>38</strong></div>
+               <div class="left right_column"><strong>42</strong></div>
+            </div>
+        
+            <div class="left single ">
+               <div class="left left_column"><strong>17. Ница</strong></div>
+               <div class="left mid_column"><strong>38</strong></div>
+               <div class="left right_column"><strong>42</strong></div>
+            </div>
+        
+            <div class="left single score_back">
+               <div class="left left_column"><strong>18. Сошо</strong></div>
+               <div class="left mid_column"><strong>38</strong></div>
+               <div class="left right_column"><strong>40</strong></div>
+            </div>
+        
+            <div class="left single ">
+               <div class="left left_column"><strong>19. Валансиен</strong></div>
+               <div class="left mid_column"><strong>38</strong></div>
+               <div class="left right_column"><strong>29</strong></div>
+            </div>
+        
+            <div class="left single score_back">
+               <div class="left left_column"><strong>20. Аячо</strong></div>
+               <div class="left mid_column"><strong>38</strong></div>
+               <div class="left right_column"><strong>23</strong></div>
+            </div>
+        </div>                                </div>
+                            </div>
+                            <div id="live" class="left content live_score_slide invisible">
+                                                            <div class="left main">
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="left item retro">
+                            <div class="left title_heading">
+                                <div class="left title" style="cursor:pointer;"><a title="Ретро" href="http://pik.bg/ретро-cat49.html">Ретро</a></div>
+                                <div class="left" style="margin:3% 0 0 3px;"><img alt="стрелка" src="http://i.pik.bg/img/grey_arrows.png" /></div>
+                            </div>
+                            <div class="left content">
+                                <div class="left img"><a title="Роклите с кройка на риза са най-актуални през лятото" href="http://pik.bg/роклите-с-кройка-на-риза-са-най-актуални-през-лятото-news187411.html"><img style="max-width:300px;" alt="Роклите с кройка на риза са най-актуални през лятото" src="http://i.pik.bg/news/187/440_906cb8cf4a4529e09c16cbf7c331eafe.jpg" /></a></div>
+                                <div class="left title w100" style="cursor:pointer; background: #000; margin: 0; padding: 5px; width: 97%;"><a class="white_hov" style="color: #fff;" title="Роклите с кройка на риза са най-актуални през лятото" href="http://pik.bg/роклите-с-кройка-на-риза-са-най-актуални-през-лятото-news187411.html">Роклите с кройка на риза са най-актуални през лятото</a></div>
+                                <div class="left title w100" style="cursor:pointer;"><a title="Момчил Неков – грешка, ама вярна" href="http://pik.bg/момчил-неков-–-грешка-ама-вярна-news187407.html">Момчил Неков – грешка, ама вярна</a></div>
+                                <div class="left title w100" style="cursor:pointer;"><a title="Мая Манолова да оглави БСП " href="http://pik.bg/мая-манолова-да-оглави-бсп-news187406.html">Мая Манолова да оглави БСП </a></div>
+                                <div class="left title w100" style="cursor:pointer;"><a title="Продават ни отровни храни – възмутително" href="http://pik.bg/продават-ни-отровни-храни-–-възмутително-news187409.html">Продават ни отровни храни – възмутително</a></div>
+                                <div class="left title w100" style="cursor:pointer;"><a title="Избираш крадци и предатели?
+Не си жертва, а съучастник" href="http://pik.bg/избираш-крадци-и-предатели
+не-си-жертва-а-съучастник-news187401.html">Избираш крадци и предатели?
+Не си жертва, а съучастник</a></div>
+                                <div class="left title w100" style="cursor:pointer;"><a title="Инфарктът може да дойде и от безсъние" href="http://pik.bg/инфарктът-може-да-дойде-и-от-безсъние-news187427.html">Инфарктът може да дойде и от безсъние</a></div>
+                                <div class="left title w100" style="cursor:pointer;"><a title="Минус 5 кг с вкусна и евтина бобова диета" href="http://pik.bg/минус-5-кг-с-вкусна-и-евтина-бобова-диета-news187410.html">Минус 5 кг с вкусна и евтина бобова диета</a></div>
+                                <div class="left title w100" style="cursor:pointer;"><a title="Фибрите понижават риска от диабет" href="http://pik.bg/фибрите-понижават-риска-от-диабет-news187433.html">Фибрите понижават риска от диабет</a></div>
+                            </div>
+                        </div>
+
+                        <div class="left item greed">
+                            <div class="left title_heading">
+                                <div class="left title" style="cursor:pointer;"><a title="Лакомник" href="http://pik.bg/лакомник-cat65.html">Лакомник</a></div>
+                                <div class="left" style="margin:3% 0 0 3px;"><img alt="стрелка" src="http://i.pik.bg/img/grey_arrows.png" /></div>
+                            </div>
+                            <div class="left content">
+                                <div class="left img">
+                                    <a title="Кифлички със сирене" href="http://pik.bg/кифлички-със-сирене-news54685.html">
+                                                                                    <img alt="Кифлички със сирене" style="max-width:300px;" src="http://i.pik.bg/news/54/440_509bdd8d9ab75ac6aad21f53702340b2.jpg" />
+                                                                            </a>
+                                </div>
+                                <div class="left title w100" style="cursor:pointer; background: #000; margin: 0; padding: 5px; width: 97%;"><a class="white_hov" style="color: #fff;" title="Кифлички със сирене" href="http://pik.bg/кифлички-със-сирене-news54685.html">Кифлички със сирене</a></div>
+                                <div class="left title w100" style="cursor:pointer;"><a title="Сладкиш с портокали &quot;3 лева&quot;" href="http://pik.bg/сладкиш-с-портокали-&quot3-лева&quot-news190738.html">Сладкиш с портокали "3 лева"</a></div>
+                                <div class="left title w100" style="cursor:pointer;"><a title="Руски банички" href="http://pik.bg/руски-банички-news190383.html">Руски банички</a></div>
+                                <div class="left title w100" style="cursor:pointer;"><a title="Ментов сладолед " href="http://pik.bg/ментов-сладолед-news189964.html">Ментов сладолед </a></div>
+                                <div class="left title w100" style="cursor:pointer;"><a title="Понички " href="http://pik.bg/понички-news189569.html">Понички </a></div>
+                                <div class="left title w100" style="cursor:pointer;"><a title="Пиле в палачинка" href="http://pik.bg/пиле-в-палачинка-news189126.html">Пиле в палачинка</a></div>
+                                <div class="left title w100" style="cursor:pointer;"><a title="Тутманик" href="http://pik.bg/тутманик-news188461.html">Тутманик</a></div>
+                                <div class="left title w100" style="cursor:pointer;"><a title="Кейк с череши" href="http://pik.bg/кейк-с-череши-news188457.html">Кейк с череши</a></div>
+
+                            </div>
+                        </div>
+
+                        
+
+                        <div class="left item greed">
+                            <div class="left title_heading">
+                                <div class="left title" style="cursor:pointer;"><a title="Култура" href="http://pik.bg/култура-cat15.html">Култура</a></div>
+                                <div class="left" style="margin:3% 0 0 3px;"><img alt="стрелка" src="http://i.pik.bg/img/grey_arrows.png" /></div>
+                            </div>
+                            <div class="left content">
+                                <div class="left img"><a title="Артистите в ужас - финансова криза затваря театри наесен!" href="http://pik.bg/артистите-в-ужас---финансова-криза-затваря-театри-наесен-news191013.html"><img alt="Артистите в ужас - финансова криза затваря театри наесен!" style="max-width:300px;" src="http://i.pik.bg/news/191/440_658163d2384b5f03af078ea21052d932.jpg" /></a></div>
+                                <div class="left title" style="cursor:pointer; background: #000; margin: 0; padding: 5px; width: 97%;"><a class="white_hov" style="color: #fff;" title="Артистите в ужас - финансова криза затваря театри наесен!" href="http://pik.bg/артистите-в-ужас---финансова-криза-затваря-театри-наесен-news191013.html">Артистите в ужас - финансова криза затваря театри наесен!</a></div>
+                                <div class="left title" style="cursor:pointer;"><a title="Представят книга за диригента Йордан Камджалов в родното му Търговище" href="http://pik.bg/представят-книга-за-диригента-йордан-камджалов-в-родното-му-търговище-news190708.html">Представят книга за диригента Йордан Камджалов в родното му Търговище</a></div>
+                                <div class="left title" style="cursor:pointer;"><a title="Нова борба за директор на Народния - Павел Васев напуска
+" href="http://pik.bg/нова-борба-за-директор-на-народния---павел-васев-напуска-news190418.html">Нова борба за директор на Народния - Павел Васев напуска
+</a></div>
+                                <div class="left title" style="cursor:pointer;"><a title="Благоевградският поет Иван Докузов почина след натравяне с гъби, жена му се спаси" href="http://pik.bg/благоевградският-поет-иван-докузов-почина-след-натравяне-с-гъби-жена-му-се-спаси-news190380.html">Благоевградският поет Иван Докузов почина след натравяне с гъби, жена му се спаси</a></div>
+                                <div class="left title" style="cursor:pointer;"><a title="Гигинският манастир празнува 200 г. от възстановяването си" href="http://pik.bg/гигинският-манастир-празнува-200-г-от-възстановяването-си-news190339.html">Гигинският манастир празнува 200 г. от възстановяването си</a></div>
+                                <div class="left title" style="cursor:pointer;"><a title="Боян Ангелов оглави Съюза на писателите" href="http://pik.bg/боян-ангелов-оглави-съюза-на-писателите-news189428.html">Боян Ангелов оглави Съюза на писателите</a></div>
+
+                            </div>
+                        </div>
+
+
+
+                        <div class="left item horoscope">
+                            <div class="left title_heading">
+                                <div class="left title" onclick="location.href='#';" title="Седмичен хороскоп" style="cursor:pointer;">Седмичен хороскоп</div>
+                                <div class="left" style="margin:3% 0 0 3px;"><img alt="стрелка" src="http://i.pik.bg/img/grey_arrows.png" /></div>
+                            </div>
+                            <div class="left content">
+                                <div class="left sign">
+
+                                    <div class="left info" style="width:100%;">
+                                        <div class="left sign_img"><img id="hor_img" src="http://i.pik.bg/img/oven.png" style="max-width:65px;" /></div>
+                                        <div class=" title" style="" id="hor_title">Овен (20.03 - 20.04)</div>
+
+                                        <div class=" desc" id="hor_desc">Губите интерес към рутинните занимания и се нуждаете от нови предизвикателства. Проучвайте информацията, с която работите, има моменти, които могат да ви се изплъзнат от вниманието. В четвъртък и петък съдружията са за предпочитане пред индивидуалните изяви. Не пренебрегвайте предложенията, които получавате, в последно време те не са малко. Доверете на партньор за нещата, в които не е вашата сила, и ще направите печелившо общото ви занимание в сряда. Ако ви се наложи да общувате с неприятни за вас хора, го преживейте, като запазите достойнство.</div>
+                                    </div>
+                                </div>
+                                <div class="left links">
+                                                                            <a href="javascript:void(0);" title="Овен" onClick="changeHoroscope('Овен (20.03 - 20.04)','http://i.pik.bg/img/oven.png','Губите интерес към рутинните занимания и се нуждаете от нови предизвикателства. Проучвайте информацията, с която работите, има моменти, които могат да ви се изплъзнат от вниманието. В четвъртък и петък съдружията са за предпочитане пред индивидуалните изяви. Не пренебрегвайте предложенията, които получавате, в последно време те не са малко. Доверете на партньор за нещата, в които не е вашата сила, и ще направите печелившо общото ви занимание в сряда. Ако ви се наложи да общувате с неприятни за вас хора, го преживейте, като запазите достойнство.');">
+                                            Овен
+                                        </a>
+                                        |                                                                            <a href="javascript:void(0);" title="Телец" onClick="changeHoroscope('Телец (20.04 - 21.05)','http://i.pik.bg/img/telec.png','Ще имате много задачи в началото на седмицата и умората ще ви тежи. Опитайте се да запазите темпото. Времето за почивка предстои. Интуитивно ще разпознавате недоброжелателите и ще се дистанцирате от тях в понеделник и вторник. Хронични болки могат да създадат притеснения на някои от вас. Не се изненадвайте, че ще станете обект на внимание за много хора в края на периода, някой от тях обаче не ви мислят доброто.');">
+                                            Телец
+                                        </a>
+                                        |                                                                            <a href="javascript:void(0);" title="Близнаци" onClick="changeHoroscope('Близнаци (21.05 - 21.06)','http://i.pik.bg/img/bliznaci.png','Въпреки сезона на отпуските работата ви ще се увеличава дори през уикенда, а с нея и отговорностите ви. Чужди задължения ще ви натоварват и това допълнително ще ви изнервя. Не взимайте и не давайте заеми в понеделник. Това е денят, в който губите само вие. Внимавайте за здравето си в края на периода. Може би лека диета ще ви се отрази добре не само на фигурата, но и на общия тонус.');">
+                                            Близнаци
+                                        </a>
+                                        |                                                                            <a href="javascript:void(0);" title="Рак" onClick="changeHoroscope('Рак (21.06 - 22.07)','http://i.pik.bg/img/rak.png','Финансите ви ще се увеличат в началото на периода, но и бързо им намирате приложение. Имате силна воля и здрав разум, само пазете емоциите за себе си в петък. Едни от вас ще започнат работа по нов проект, а други ще сменят работното място с по-перспективно. Недоразумения от личен характер не ви очакват, но за да избегнете изненадите, не предизвиквайте във вторник интимния ви партньор. Преоткривайки природата, ще се радвате на красотата й и ще черпите от енергията й в края на периода.');">
+                                            Рак
+                                        </a>
+                                        |                                                                            <a href="javascript:void(0);" title="Лъв" onClick="changeHoroscope('Лъв (22.07 - 23.08)','http://i.pik.bg/img/lion.png','Разумно се възползвайте от способностите си и ги насочете в полза на интересите си. Занимаващите се с бизнес ще постигнат бърз напредък в делата си в четвъртък. Направете приоритетна идеята, която ви занимава сега и ще я осъществите. Дамите ще изпитват засилен интерес към представители на силния пол през новата седмица. При други от вас се очертава нова връзка. Добре обмислените покупки ще ви спестят непредвидени разходи в сряда. Близките ще ви помогнат при домашни ремонти и други семейни занимания.');">
+                                            Лъв
+                                        </a>
+                                        |                                                                            <a href="javascript:void(0);" title="Дева" onClick="changeHoroscope('Дева (23.08 - 22.09)','http://i.pik.bg/img/deva.png','Колкото повече давате от себе си, толкова по-добре ще се чувствате през следващите седем дни. Нарастващите ви финанси в началото на седмицата ще облекчат живота ви и в това отношение няма да имате притеснения. За съжаление тази прогноза не е еднозначна за всички. Безработните трябва да положат повече усилия, за намерят своето място на пазара на труда и да се реализират там. Не губете увереност, вашето време идва. В сряда внимавайте в приказките, за да не огорчите по-възрастен близък човек.');">
+                                            Дева
+                                        </a>
+                                        |                                                                            <a href="javascript:void(0);" title="Везни" onClick="changeHoroscope('Везни (22.09 - 23.10)','http://i.pik.bg/img/vezni.png','От досегашните си неудачи би трябвало да сте се научили да не се намесвате без причина в чужди проблеми – едно изпитание, което няма да ви бъде спестено през следващите дни. За щастие собствените си позиции умеете да отстоявате, макар това да струва понякога и нерви. Поетите задължения в понеделник и вторник ще приключите в срок и с това ще затвърдите доверието на партньорите ви. Флиртове и забежки ще ви носят настроение, но могат да станат и повод за ревност.');">
+                                            Везни
+                                        </a>
+                                        |                                                                            <a href="javascript:void(0);" title="Скорпион" onClick="changeHoroscope('Скорпион (23.10 - 22.11)','http://i.pik.bg/img/scorpion.png','Силни сте, когато работите самостоятелно и разчитате на себе си. Внимавайте, предлагайте елегантно решението си, да не засегнете човек, на когото държите. В много отношения превъзхождате останалите в четвъртък и петък, това обаче не е повод да си вирите носа. Домашният уют ви занимава в събота и неделя. По всяка вероятност ще се захванете с ремонт. Каквото и да ви струва това, си заслужава. Новата атмосфера ще ви радва и носи усещане за отмора. Заминаващите на път в края на периода ги очакват приятни и вълнуващи изненади.');">
+                                            Скорпион
+                                        </a>
+                                        |                                                                            <a href="javascript:void(0);" title="Стрелец" onClick="changeHoroscope('Стрелец (22.11 - 21.12)','http://i.pik.bg/img/strelec.png','В живота ви ще настъпят промени, и то добри. Събитията ще ви насочат към новости и обстоятелства, позволяващи ви да се разгърнете в каквото поле си поискате. Внимавайте обаче да не нагазите в чужди води петък. Битката за територия, няма да е лека.  Обвързаните представители на зодията са под влияние на вид неискреност в семейството си - или те са склонни да крият истинските си чувства или пък тях ги мамят. Ако отношенията с партньора са напрегнати, неделя или понеделник са дните за обяснения.');">
+                                            Стрелец
+                                        </a>
+                                        |                                                                            <a href="javascript:void(0);" title="Козирог" onClick="changeHoroscope('Козирог (21.12 - 19.01)','http://i.pik.bg/img/kozirog.png','По свой начин ще покажете на обкръжението си, че не желаете намеса в делата ви. През цялата седмица работите ускорено, за да приключите в срок всичко, което планувате. Не са изключени и конфликтни ситуации в  понеделник и вторник, но ще ги преодолеете, без видими загуби за вас. Не гледайте на хората, като на потенциални врагове, приемайте ги откъм положителната им страна, защото такава има. Интимните преживявания ще ви носят наслада и с желание ще се впускате в нови авантюри, без да се щадите.');">
+                                            Козирог
+                                        </a>
+                                        |                                                                            <a href="javascript:void(0);" title="Водолей" onClick="changeHoroscope('Водолей (19.01 - 18.02)','http://i.pik.bg/img/vodolei.png','В ежедневието ви няма да липсват притеснения, но като цяло периодът е градивен за вас. Вървете уверено по пътя си и бъдете коректни в общуванията си в четвъртък. Няма да останете незабелязани и ще получите добра оценка за труда ви. Топлата атмосфера на дома ви кара да се чувствате добре сред най-близките хора в събота и неделя. Ако работата ви е свързана с вид комуникации или обмен на информация, във вторник се пазите от измами. Твърде вероятно е очакванията и обещанията да се разминават с крайния резултат. Не позволявате да ви въвличат в интриги в сряда.');">
+                                            Водолей
+                                        </a>
+                                        |                                                                            <a href="javascript:void(0);" title="Риби" onClick="changeHoroscope('Риби (18.02 - 20.03)','http://i.pik.bg/img/ribi.png','Водете се от разума си, без да се поддавате на емоциите си и не търсете причините за неуспехите си в другите. В началото на периода парите не са непостижима цел, просто защото и те не ви липсват. Покупка на имот или действия, свързани с промяна на местожителството очакват някои през новата седмица. Няма да ви липсват и изкушения, като някои ще се оставят да ги въвлекат в любовна авантюра, а други ще заложат на удоволствията.Пазете се от неискреност, не се превръщайте сами в проводник на измами или самозаблуди.');">
+                                            Риби
+                                        </a>
+                                                                                                            </div>
+                            </div>
+                        </div>
+
+                                                <div class="birthdays">
+                            <div class="top_bar">
+                                <img class="icon_star" src="http://i.pik.bg/img/star.png" alt="" />
+                                <div class="text">ВИП рожденици</div>
+                            </div>
+
+                                                        <div class="row orange_back">
+                                <div class="p_img_wrap">
+                                    <img width="56" height="56" src="http://pik.bg/f/birthday/0/th_c029658bbd5e0645c445b84470e689e6.jpg"  alt="акад. Светлин Русев" />
+                                </div>
+                                <div class="info_box">
+                                    <a href="http://pik.bg/акад-светлин-русев-tag.html" title="акад. Светлин Русев" class="name">акад. Светлин Русев</a>
+                                    <div class="occupation">художник</div>
+                                    <div class="age">Става на: 81 години</div>                                </div>
+                            </div>
+                                                        <div class="row green_back">
+                                <div class="p_img_wrap">
+                                    <img width="56" height="56" src="http://pik.bg/f/birthday/0/th_4bd1b5ebe9ad21370ffae3275f51e76f.jpg"  alt="Виолета Гиндева" />
+                                </div>
+                                <div class="info_box">
+                                    <a href="http://pik.bg/виолета-гиндева-tag.html" title="Виолета Гиндева" class="name">Виолета Гиндева</a>
+                                    <div class="occupation">актриса</div>
+                                                                    </div>
+                            </div>
+                                                        <div class="row purple_back">
+                                <div class="p_img_wrap">
+                                    <img width="56" height="56" src="http://pik.bg/f/birthday/0/th_364dfb1d3e5784db4737cac2c413a6eb.jpg"  alt="Крум Савов" />
+                                </div>
+                                <div class="info_box">
+                                    <a href="http://pik.bg/крум-савов-tag.html" title="Крум Савов" class="name">Крум Савов</a>
+                                    <div class="occupation">спортен журналист</div>
+                                    <div class="age">Става на: 54 години</div>                                </div>
+                            </div>
+                                                    </div><!-- End birthdays -->
+                        
+                                                                        
+                        <div class="left item joke">
+                            <div class="left title_heading">
+                                <div class="left title" style="cursor:pointer;"><a title="Виц" href="http://pik.bg/виц-cat73.html">Виц</a></div>
+                                <div class="left" style="margin:3% 0 0 3px;"><img alt="стрелка" src="http://i.pik.bg/img/grey_arrows.png" /></div>
+                            </div>
+                            <div class="left content">
+                                <div class="left joke_main">
+                                <p>Турчинът, американецът и българинът решили да влязат в една дупка. Първи бил турчинът. Той слязъл надолу и чул:</p><p>&nbsp; -Ако слезеш по-надолу ще те изям!</p><p>Уплашил се и се върнал. Втори бил американецът. Стигнал дупката и чул същото:</p><p>&nbsp; -Ако слезеш по-надолу ще те изям!</p><p>И той се върнал горе.Било ред на нашият човек. Стигнал до дупката и той чул:</p><p>&nbsp; - Ако слезеш по-надолу, ще те изям!</p><p>Слязъл долу и видял едно дете, което викало на сопола си:</p><p>&nbsp; -Ако слезеш по-надолу, ще те изям!</p>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="left facebook">
+                            <div class="left w100 fb-like-box" data-href="http://www.facebook.com/InformacionnaAgenciaPik" data-show-faces="true" data-stream="false" data-header="true"></div>
+                        </div>
+
+                       <div class="left banner_r h320">
+                            
+                            <script type='text/javascript'><!--//<![CDATA[
+                               var m3_u = (location.protocol=='https:'?'https://ads.pik.bg/www/delivery/ajs.php':'http://ads.pik.bg/www/delivery/ajs.php');
+                               var m3_r = Math.floor(Math.random()*99999999999);
+                               if (!document.MAX_used) document.MAX_used = ',';
+                               document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+                               document.write ("?zoneid=25");
+                               document.write ('&amp;cb=' + m3_r);
+                               if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+                               document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+                               document.write ("&amp;loc=" + escape(window.location));
+                               if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+                               if (document.context) document.write ("&context=" + escape(document.context));
+                               if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+                               document.write ("'><\/scr"+"ipt>");
+                            //]]>--></script><noscript><a href='http://ads.pik.bg/www/delivery/ck.php?n=a5a6db23&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://ads.pik.bg/www/delivery/avw.php?zoneid=25&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a5a6db23' border='0' alt='' /></a></noscript>
+                             
+
+                       </div>
+
+                                              <div class="left item horoscope h768 h630 h320">
+                            <div class="left title_heading">
+                                <div class="left title" >Тагове</div>
+                                <div class="left" style="margin:3% 0 0 3px;"><img alt="стрелка" src="http://i.pik.bg/img/grey_arrows.png" /></div>
+                            </div>
+                            <div class="left content">
+                                <div class="left links">
+                                                                            <a class="tags" href="http://pik.bg/камен-донев-search.html" title="камен донев" >камен донев</a>
+                                        |                                                                            <a class="tags" href="http://pik.bg/българия-search.html" title="българия" >българия</a>
+                                        |                                                                            <a class="tags" href="http://pik.bg/арестуваха-служител-от-министерството-на-транспорта-search.html" title="арестуваха служител от министерството на транспорта" >арестуваха служител от министерството на транспорта</a>
+                                        |                                                                            <a class="tags" href="http://pik.bg/парис-хилтън-search.html" title="парис хилтън" >парис хилтън</a>
+                                        |                                                                            <a class="tags" href="http://pik.bg/орешарски-search.html" title="орешарски" >орешарски</a>
+                                        |                                                                            <a class="tags" href="http://pik.bg/световни-квалификации-2014-search.html" title="световни квалификации 2014" >световни квалификации 2014</a>
+                                        |                                                                            <a class="tags" href="http://pik.bg/пеевски-search.html" title="пеевски" >пеевски</a>
+                                        |                                                                            <a class="tags" href="http://pik.bg/манчестър-search.html" title="манчестър" >манчестър</a>
+                                        |                                                                            <a class="tags" href="http://pik.bg/атентат-search.html" title="атентат" >атентат</a>
+                                        |                                                                            <a class="tags" href="http://pik.bg/русия-search.html" title="русия" >русия</a>
+                                                                                                            </div>
+                            </div>
+                        </div>
+                        
+
+                                           </div>
+
+                </div>
+
+            </div>
+
+            <div class="left w100" style="margin-top: 5%;">
+                
+                <script type='text/javascript'><!--//<![CDATA[
+                   var m3_u = (location.protocol=='https:'?'https://ads.pik.bg/www/delivery/ajs.php':'http://ads.pik.bg/www/delivery/ajs.php');
+                   var m3_r = Math.floor(Math.random()*99999999999);
+                   if (!document.MAX_used) document.MAX_used = ',';
+                   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+                   document.write ("?zoneid=44");
+                   document.write ('&amp;cb=' + m3_r);
+                   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+                   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+                   document.write ("&amp;loc=" + escape(window.location));
+                   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+                   if (document.context) document.write ("&context=" + escape(document.context));
+                   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+                   document.write ("'><\/scr"+"ipt>");
+                //]]>--></script><noscript><a href='http://ads.pik.bg/www/delivery/ck.php?n=afb66ad8&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://ads.pik.bg/www/delivery/avw.php?zoneid=44&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=afb66ad8' border='0' alt='' /></a></noscript>
+                
+            </div>
+            
+            <div id="footer" class="left">
+                <div class="items left">
+                                      <div class="item left">
+                        <div class="heading left" >БЪЛГАРИЯ ДНЕС</div>
+                        <div class="links left">
+                                                    <a title="Животът днес" href="http://pik.bg/животът-днес-cat3.html" class="left">Животът днес</a>
+                                                     <a title="Инциденти" href="http://pik.bg/инциденти-cat4.html" class="left">Инциденти</a>
+                                                     <a title="Крими" href="http://pik.bg/крими-cat5.html" class="left">Крими</a>
+                                                     <a title="КУЛТУРА" href="http://pik.bg/култура-cat15.html" class="left">КУЛТУРА</a>
+                                                     <a title="Политика" href="http://pik.bg/политика-cat6.html" class="left">Политика</a>
+                                                                             <a title="БОМБА" href="http://pik.bg/%D0%B1%D0%BE%D0%BC%D0%B1%D0%B0-cat100.html" class="left">БОМБА</a>
+                                                 </div>
+                    </div>
+                                                            <div class="item left">
+                        <div class="heading left" >ЛАКОМНИК</div>
+                        <div class="links left">
+                                                    <a title="Рецептите на деня" href="http://pik.bg/рецептите-на-деня-cat66.html" class="left">Рецептите на деня</a>
+                                                     <a title="Здравословно" href="http://pik.bg/здравословно-cat67.html" class="left">Здравословно</a>
+                                                     <a title="Световна кухня" href="http://pik.bg/световна-кухня-cat68.html" class="left">Световна кухня</a>
+                                                     <a title="Звезди в тигана" href="http://pik.bg/звезди-в-тигана-cat71.html" class="left">Звезди в тигана</a>
+                                                                          </div>
+                    </div>
+                                            <div class="clear hide"></div>
+                                                            <div class="item left">
+                        <div class="heading left" >ГАЛЕРИЯ ШОУ</div>
+                        <div class="links left">
+                                                    <a title="Скандали" href="http://pik.bg/скандали-cat40.html" class="left">Скандали</a>
+                                                     <a title="Папараци" href="http://pik.bg/папараци-cat41.html" class="left">Папараци</a>
+                                                     <a title="ТВ афери" href="http://pik.bg/тв-афери-cat42.html" class="left">ТВ афери</a>
+                                                     <a title="Шоу легенди" href="http://pik.bg/шоу-легенди-cat43.html" class="left">Шоу легенди</a>
+                                                                          </div>
+                    </div>
+                                                            <div class="item left">
+                        <div class="heading left" >СПОРТЪТ ДНЕС</div>
+                        <div class="links left">
+                                                    <a title="Други спортове" href="http://pik.bg/други-спортове-cat30.html" class="left">Други спортове</a>
+                                                     <a title="Баскетбол" href="http://pik.bg/баскетбол-cat29.html" class="left">Баскетбол</a>
+                                                     <a title="Волейбол" href="http://pik.bg/волейбол-cat28.html" class="left">Волейбол</a>
+                                                     <a title="Футбол" href="http://pik.bg/футбол-cat27.html" class="left">Футбол</a>
+                                                                          </div>
+                    </div>
+                                            <div class="clear hide"></div>
+                                                            <div class="item left">
+                        <div class="heading left" >РЕТРО</div>
+                        <div class="links left">
+                                                    <a title="Едно време..." href="http://pik.bg/едно-време-cat50.html" class="left">Едно време...</a>
+                                                     <a title="Гост" href="http://pik.bg/гост-cat51.html" class="left">Гост</a>
+                                                     <a title="Лична драма" href="http://pik.bg/лична-драма-cat52.html" class="left">Лична драма</a>
+                                                     <a title="Лица" href="http://pik.bg/лица-cat53.html" class="left">Лица</a>
+                                                     <a title="Докторе" href="http://pik.bg/докторе-cat56.html" class="left">Докторе</a>
+                                                     <a title="Феномени" href="http://pik.bg/феномени-cat57.html" class="left">Феномени</a>
+                                                     <a title="Двор" href="http://pik.bg/двор-cat58.html" class="left">Двор</a>
+                                                                          </div>
+                    </div>
+                                                            <div class="item left">
+                        <div class="heading left" >СВЕТЪТ ДНЕС</div>
+                        <div class="links left">
+                                                    <a title="Америка" href="http://pik.bg/америка-cat21.html" class="left">Америка</a>
+                                                     <a title="Европа" href="http://pik.bg/европа-cat19.html" class="left">Европа</a>
+                                                     <a title="ЕС" href="http://pik.bg/ес-cat20.html" class="left">ЕС</a>
+                                                     <a title="Балкани" href="http://pik.bg/балкани-cat18.html" class="left">Балкани</a>
+                                                                          </div>
+                    </div>
+                                            <div class="clear hide"></div>
+                                                            <div class="social left">
+                        <div class="right" style="width:150px;">
+                            <div class="social_icon left"><a title="RSS" href="http://new.pik.bg/rss/index/2" target="_blank"><img alt="rss" src="http://i.pik.bg/img/rss.png" /></a></div>
+                            <div class="social_icon left"><img alt="google" src="http://i.pik.bg/img/google.png" /></div>
+                            <div class="social_icon left"><a href="http://www.facebook.com/InformacionnaAgenciaPik/" target="_blank"><img alt="facebook" src="http://i.pik.bg/img/facebook.png" /></a></div>
+                            <div class="social_icon left"><img alt="twitter" src="http://i.pik.bg/img/twitter.png" /></div>
+                            <div class="social_icon left"><img alt="linkedin" src="http://i.pik.bg/img/linkedin.png" /></div>
+                        </div>
+                    </div>
+                    <div class="left" style="height:1%"></div>
+                </div>
+                <div class="info left">
+                    <div class="left publish_rules">
+                       Всички новини, статии, репортажи, интервюта и други текстови и графични материали, публикувани в сайта, са 
+                       собственост на Информационна агенция ПИК, освен ако изрично е посочено друго. 
+                       Допуска се публикуване на текстови и снимкови материали и новини само след писмено позволение на издателя и добавяне на линк към www.pik.bg
+                    </div>
+                    <div class="right copyrights fix_fl">
+                       <a title="Екип" href="http://pik.bg/static/index/3">Екип</a>
+                       <a title="Контакти" href="http://pik.bg/static/index/4">Контакти</a>
+                       <a title="Реклама" href="http://pik.bg/static/index/11">Реклама</a>
+                    </div>
+
+
+                    <div class="right copyrights">
+                        Новини от ©2013 Информационна агенция ПИК. Всички права запазени.
+                                            </div>
+                </div>
+            </div>
+            <br class="clear" />
+        </div>
+        <script src="/js/jquery.slides.min.js"></script>
+        
+        
+        <script type="text/javascript">
+
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-35878984-1']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+
+</script>
+        
+
+       
+    <script type="text/javascript">
+        var main = document.getElementById('main_brand').offsetHeight;
+        main = parseInt(main);
+        main = main+20;
+        document.getElementById('brand').style.height = main+'px';
+    </script>
+    
+        
+
+
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var pp_gemius_identifier = '.Kfrq3iCJDUOoW6e5rlzJZYT33jF_OLahR.roULMEdD.X7';
+function gemius_pending(i) { window[i] = window[i] || function() {var x = window[i+'_pdata'] = window[i+'_pdata'] || []; x[x.length]=arguments;};};
+gemius_pending('gemius_hit'); gemius_pending('gemius_event'); gemius_pending('pp_gemius_hit'); gemius_pending('pp_gemius_event');
+(function(d,t) {try {var gt=d.createElement(t),s=d.getElementsByTagName(t)[0],l='http'+((location.protocol=='https:')?'s':''); gt.setAttribute('async','async');
+gt.setAttribute('defer','defer'); gt.src=l+'://gabg.hit.gemius.pl/xgemius.js'; s.parentNode.insertBefore(gt,s);} catch (e) {}})(document,'script');
+//--><!]]>
+</script>
+
+
+
+     
+    </body>
+</html>
+
+

@@ -1,0 +1,443 @@
+
+#content_top .path {
+    float: left;
+    width: 100%;
+}
+#content_top .path a {
+    float: left;
+    font-size: 14px;
+    color: #9d0004;
+    font-weight: bold;
+    border-bottom: 1px dotted #9d0004;
+    padding-bottom: 3px;
+    text-decoration: none;
+    font-family: Georgia;
+}
+#content_top .path .separator {
+    float: left;
+    font-size: 14px;
+    color: #9d0004;
+    margin: 0 4px;
+}
+#content_top .path span {
+    float: left;
+    color: #040404;
+    font-weight: bold;
+    font-family: Georgia;
+    font-size: 14px;
+}
+#content_main #left_column #content .read_options {
+    float: left;
+    width: 100%;
+    border-top: 2px solid #000000;
+    border-bottom: 1px dotted #9e9e9e;
+    padding-top: 8px;
+    padding-bottom: 10px;
+}
+#content_main #left_column #content .read_options .recent {
+    float: left;
+    font-size: 12px;
+    color: #9d0004;
+    font-weight: bold;
+    font-family: Georgia;
+}
+#content_main #left_column #content .read_options .most_read_for {
+    float: right;
+}
+#content_main #left_column #content .read_options .most_read_for span {
+    float: left;
+    font-size: 12px;
+    color: #3d3d3d;
+    font-family: Georgia;
+    margin-right: 5px;
+}
+#content_main #left_column #content .read_options .most_read_for a {
+    float: left;
+    font-size: 12px;
+    color: #3d3d3d;
+    font-family: Georgia;
+    font-weight: bold;
+    text-decoration: none;
+}
+#content_main #left_column #content .read_options .most_read_for .separator {
+    float: left;
+    font-size: 12px;
+    color: #3d3d3d;
+    margin: 0 8px;
+}
+#content_main #left_column #content .list_news_column {
+    float: left;
+    width: 100%;
+    margin-top: 30px;
+    border-bottom: 1px dotted #9e9e9e;
+    padding-bottom: 30px;
+}
+#content_main #left_column #content .list_news_column .img_holder {
+    float: left;
+    width: 33%;
+}
+#content_main #left_column #content .list_news_column .img_holder img {
+    float: left;
+    height: auto;
+    max-width: 100%;
+}
+#content_main #left_column #content .list_news_column .right_part {
+    float: right;
+    width: 65%;
+}
+.title-list {
+
+
+    font-size: 17px;
+    color: #3d3d3d;
+    font-family: Georgia;
+    font-weight: bold;
+    text-decoration: none;
+}
+.title-list:hover {
+    color: #9d0004;
+    border-bottom: 1px dotted  #9d0004;
+}
+.date_time {
+    float: left;
+    background: url("http://i.pik.bg/img/date_grey.png") no-repeat;
+    padding-left: 20px;
+    font-family: Arial;
+    color: #57585b;
+    font-size: 11px;
+    height: 16px;
+    padding-top: 3px;
+}
+.comments {
+    float: left;
+    background: url("http://i.pik.bg/img/comment_grey.png") no-repeat;
+    padding-left: 20px;
+    font-family: Arial;
+    color: #57585b;
+    font-size: 11px;
+    height: 16px;
+    margin-top: 3px;
+    margin-left: 20px;
+}
+.views {
+    float: left;
+    background: url("http://i.pik.bg/img/view_grey.png") no-repeat;
+    padding-left: 20px;
+    font-family: Arial;
+    color: #57585b;
+    font-size: 11px;
+    height: 16px;
+    margin-top: 4px;
+    margin-left: 20px;
+}
+#content_main #left_column #content .list_news_column .right_part .text-list {
+    float: left;
+    width: 98%;
+    font-size: 13px;
+    color: #3d3d3d;
+    font-family: Arial;
+    line-height: 17px;
+    margin-top: 12px;
+    text-align: justify;
+}
+#content_main #left_column #content .pagination_wrap {
+    float: left;
+    width: 100%;
+    margin-top: 30px;
+    text-align: center;
+}
+#content_main #left_column #content .pagination_wrap .prev_page {
+    display: inline-block;
+    zoom: 1;
+    *display:inline;
+    width: 25px;
+    height: 21px;
+    line-height: 19px;
+    background: url("http://i.pik.bg/img/pag_prev.png") no-repeat;
+    overflow: hidden;
+    text-decoration: none;
+}
+#content_main #left_column #content .pagination_wrap .next_page {
+    display: inline-block;
+    zoom: 1;
+    *display:inline;
+    width: 25px;
+    height: 21px;
+    line-height: 19px;
+    background: url("http://i.pik.bg/img/pag_next.png") no-repeat;
+    overflow: hidden;
+    margin-left: -5px;
+    text-decoration: none;
+}
+#content_main #left_column #content .pagination_wrap .pages {
+    display: inline-block;
+    zoom: 1;
+    *display:inline;
+    height: 21px;
+    line-height: 21px;
+    background: url("http://i.pik.bg/img/pag_inactive.png") repeat;
+    padding: 0 5px;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    color: #fff;
+    font-size: 12px;
+    font-family: Arial;
+    text-decoration: none;
+    overflow: hidden;
+    margin-left: -5px;
+}
+#content_main #left_column #content .pagination_wrap .pages:hover, .curr_page {
+    background: url("http://i.pik.bg/img/pag_active.png") repeat !important;
+}
+#content_main #left_column #content .item .social_for_news {
+    float: left;
+    width: 100%;
+    margin-top: 20px;
+}
+#content_main #left_column #content .item .text2, .content_horoscope_view {
+    float: left;
+    width: 98%;
+    padding:0 1% 0 1%;
+    margin-top: 25px;
+    color: #3d3d3d;
+    font-size: 14px !important;
+    font-family: Arial !important;
+    line-height: 22px;
+    text-indent: 5px;
+    text-align: justify;
+}
+
+#content_main #left_column #content .facebook_comment_area {
+    float: left;
+    width: 100%;
+    margin-top: 30px;
+}
+.comments_wrap {
+    float: left;
+    width: 100%;
+}
+.comments_wrap .column {
+    float: left;
+    width: 100%;
+    margin-top: 10px;
+    padding: 10px 0;
+    background: #f9f9f9;
+}
+.comments_wrap .column .number {
+    float: left;
+    width: 8%;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    color: #cbcbcb;
+}
+.comments_wrap .column .text_part {
+    float:right;
+    width: 90%;
+    word-wrap: break-word;
+}
+.comments_wrap .column .text_part .u_name {
+    float: left;
+    color: #3d3d3d;
+    font-size: 13px;
+    font-weight: bold;
+    text-decoration: none;
+    font-family: Georgia;
+    max-width: 199px;
+}
+.comments_wrap .column .text_part .time_commented {
+    float: left;
+    width: 95px;
+    height: 17px;
+    background: url("http://i.pik.bg/img/time_commented.png") no-repeat;
+    color: #fff;
+    font-size: 11px;
+    font-family: Arial;
+    line-height: 17px;
+    padding-left: 10px;
+    margin-left: 10px;
+    margin-top: -2px;
+}
+.comments_wrap .column .text_part .votes_holder {
+    float: right;
+    width: 16%;
+}
+.comments_wrap .column .text_part .votes_holder .votes {
+    float: left;
+
+}
+.comments_wrap .column .text_part .votes_holder .votes .vote_pos {
+    float: left;
+    width: 17px;
+    height: 17px;
+    background: url("http://i.pik.bg/img/vote_positive.png") no-repeat;
+    margin-left: 5px;
+}
+.comments_wrap .column .text_part .votes_holder .votes .vote_negative {
+    float: left;
+    width: 17px;
+    height: 17px;
+    background: url("http://i.pik.bg/img/vote_negative.png") no-repeat;
+    margin-left: 5px;
+}
+.comments_wrap .column .text_part .votes_holder .votes .numbers {
+    float: left;
+    color: #57585b;
+    font-size: 11px;
+    font-family: Arial;
+    font-weight: bold;
+    margin-top: 3px;
+}
+.comments_wrap .column .text_part .read_comment {
+    float: left;
+    width: 100%;
+    color: #3d3d3d;
+    font-size: 13px;
+    font-family: Arial;
+    margin-top: 5px;
+    line-height: 18px;
+}
+.comments_wrap .column .text_part .answer_holder {
+    position: absolute;
+    top: 0;
+    right: 17%;
+    display: none;
+}
+.comments_wrap .column .text_part .answer_holder .answer {
+    float: left;
+    width: 69px;
+    height: 17px;
+    background: url("http://i.pik.bg/img/answer.png") no-repeat;
+    color: #57585b;
+    font-size: 11px;
+    font-weight: bold;
+    font-family: Arial;
+    line-height: 17px;
+    text-decoration: none;
+    text-align: center;
+}
+.comments_wrap .column .text_part .answer_holder .report {
+    float: left;
+    width: 83px;
+    height: 19px;
+    background: url("http://i.pik.bg/img/report.png") no-repeat;
+    color: #fff;
+    font-size: 11px;
+    font-family: Arial;
+    line-height: 19px;
+    margin-left: 5px;
+    text-decoration: none;
+    padding-left: 18px;
+}
+.comment_it_wrap {
+    float: left;
+    width: 100%;
+    margin-top: 20px;
+}
+.comment_it_wrap .left_part {
+    float: left;
+    width: 12%;
+}
+.comment_it_wrap .left_part label {
+    float: left;
+    width: 100%;
+    color: #7c7c7c;
+    font-size: 12px;
+    font-style: italic;
+    font-family: Arial;
+}
+.comment_it_wrap .right_part {
+    float: right;
+    width: 86%;
+}
+.comment_it_wrap .right_part input {
+    float: left;
+    width: 70%;
+    height: 30px;
+    line-height: 30px;
+    border: 0;
+    color: #7c7c7c;
+    font-size: 12px;
+    font-style: italic;
+    font-family: Arial;
+    /*background: url("../img/coment_input.png") no-repeat; */
+     background: #f1f1f1; /* Old browsers */
+	background: -moz-linear-gradient(top,  #f1f1f1 0%, #fafafa 28%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#f1f1f1), color-stop(28%,#fafafa)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top,  #f1f1f1 0%,#fafafa 28%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top,  #f1f1f1 0%,#fafafa 28%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top,  #f1f1f1 0%,#fafafa 28%); /* IE10+ */
+	background: linear-gradient(to bottom,  #f1f1f1 0%,#fafafa 28%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f1f1f1', endColorstr='#fafafa',GradientType=0 ); /* IE6-9 */
+	-webkit-border-radius: 2px;
+    border-radius: 2px;
+    padding: 0 5px;
+    border:1px solid #cbcbcb;
+}
+
+.right_part_in {
+    margin-left: 10px;
+    float: left;
+    width: 312px;
+    height: 29px;
+    line-height: 30px;
+    border: 0;
+    color: #7c7c7c;
+    font-size: 12px;
+    font-style: italic;
+    font-family: Arial;
+    background: url("http://i.pik.bg/img/cap_b.png") no-repeat;
+    padding: 0 5px;
+}
+.comment_it_wrap .right_part textarea {
+    float: left;
+    width: 98%;
+    height: 118px;
+    border: 0;
+    color: #7c7c7c;
+    font-size: 12px;
+    font-style: italic;
+    font-family: Arial;
+    /*background: url("../img/comment_textarea.png") no-repeat;*/
+    background: #f1f1f1; /* Old browsers */
+	background: -moz-linear-gradient(top,  #f1f1f1 0%, #fafafa 28%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#f1f1f1), color-stop(28%,#fafafa)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top,  #f1f1f1 0%,#fafafa 28%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top,  #f1f1f1 0%,#fafafa 28%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top,  #f1f1f1 0%,#fafafa 28%); /* IE10+ */
+	background: linear-gradient(to bottom,  #f1f1f1 0%,#fafafa 28%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f1f1f1', endColorstr='#fafafa',GradientType=0 ); /* IE6-9 */
+	-webkit-border-radius: 2px;
+    border-radius: 2px;
+    padding: 5px 5px;
+    resize: none;
+    overflow: auto;
+    border:1px solid #cbcbcb;
+}
+.comment_it_wrap .captcha_wrap {
+    float: left;
+}
+.comment_it_wrap .captcha_wrap .enter_capcha {
+    float: left;
+    color: #7c7c7c;
+    font-size: 12px;
+    font-style: italic;
+    font-family: Arial;
+}
+.comment_it_wrap .captcha_wrap .captcha {
+    float: left;
+    margin-left: 5px;
+    margin-top: -5px;
+}
+.comment_it_wrap .comment_it {
+    float: left;
+    width: 158px;
+    height: 26px;
+    background: url("http://i.pik.bg/img/comment_it.png") no-repeat;
+    border: 0;
+    cursor: pointer;
+    color: #717171;
+
+    font-weight: bold;
+    font-size: 14px;
+}

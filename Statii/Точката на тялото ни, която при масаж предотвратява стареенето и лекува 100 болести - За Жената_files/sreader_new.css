@@ -1,0 +1,257 @@
+
+
+/* -- Горния CSS не го слагай той е от сайта, само под тази линия копирай CSS-a --- */
+img {border:none}
+.left {float:left;}
+.right {float:right;}
+.w100 {width:100%;}
+.profile_wrap {
+    float: left;
+    width: 240px;
+    font-family: Arial;
+    position: relative;
+    margin-top:-7px;
+}
+a.see_them {
+    float: left;
+    width: 240px;
+    height: 30px;
+   /*  background: url("/img/see_them.png") no-repeat; */
+    background: url("/img/see_them2.png") no-repeat;
+}
+.profile_wrap .logged_wrap {
+    float: left;
+    width: 238px;
+    height: 30px;
+    border: 1px solid #c3c3c3;
+    background: #f4f4f4;
+}
+.profile_wrap .logged {
+    float: left;
+    background: #e6e6e6;
+    width: 236px;
+    height: 28px;
+    margin: 1px;
+}
+.profile_wrap .logged .prof_img {
+    float: left;
+    margin-top: 3px;
+    margin-left: 2px;
+}
+.profile_wrap .logged .name {
+    float: left;
+    font-size: 12px;
+    color: #3c69a1;
+    width: 100%;
+    font-weight: bold;
+    text-decoration: none;
+}
+.profile_wrap .logged .on_off {
+    float: left;
+    width: 7px;
+    height: 7px;
+    background: url("/img_new/off.png") no-repeat;
+    margin-top: 2px;
+    margin-left: 5px;
+}
+.profile_wrap .logged .arrow_up_big {
+    float: left;
+    width: 11px;
+    height: 7px;
+    background: url("/img/arrow_big_down.png") no-repeat;
+    margin-top: 10px;
+    margin-left: 3px;
+}
+.submenu_logged_wrap {
+    position: absolute;
+    top: 31px;
+    left: 0;
+    background: #F4F4F4;
+    border: 1px solid #C3C3C3;
+    width: 238px;
+    display: none;
+    z-index:999999;
+}
+.submenu_logged {
+    background: #E6E6E6;
+    float: left;
+    margin: 1px;
+    width: 236px;
+}
+.fs11 {font-size:11px;}
+.pointer {cursor: pointer;}
+.invisible {display:none;}
+.column_holder, .column_holder2 {
+    float: left;
+    width: 100%; 
+    margin-top: 5px; 
+}
+.column_holder .column:hover {
+    background:#929292;
+}
+.column_holder .column, .column_holder2 .column {
+    float: left;
+    width: 285px;
+    padding: 6px;
+    padding-bottom: 0px;
+}
+.story {
+    float: left;
+    width: 100%;
+    font-size: 12px;
+    color: #000;
+    text-decoration: none;
+    line-height:15px;
+}
+.column_holder .column:hover a
+{
+    color:#FFF;
+}
+.column_holder .column:hover .hide_time
+{
+    color:#e3e3e3 !important;
+}
+.hover_effect .delete {
+    float: right;
+    margin-right: 4px;
+    font-size: 12px;
+    color: #3c69a1;
+    text-decoration: none;
+}
+.column_holder .column .border, .column_holder2 .column .border {
+    float: left;
+    width: 100%;
+    margin-top: 5px;
+    height: 0;
+    border-top: 1px solid #f6f6f6;
+    border-bottom: 1px solid #c6c6c6;
+}
+.change_arrow {
+    background:  url('/img/arrow_big_up.png') no-repeat !important;
+}
+.on {
+    background: url('/img_new/on.png') no-repeat 0 5px !important; 
+}
+.what_fr_read {
+    float: left;
+    width: 300px;
+    font-family: Arial;
+}
+.what_fr_read .add_friend {
+    float: right;
+    width: 111px;
+    height: 19px;
+    background:  url('/img/add_friend.png') no-repeat; 
+}
+.what_fr_read .column_wrap {
+    float: left;
+    width: 100%;
+    margin-top: 10px;
+}
+.what_fr_read .column_wrap .column {
+    float: left;
+    width: 275px;
+    margin-left: 14px;
+}
+.what_fr_read .column_wrap .make_blue
+{
+    margin-left:0px !important;
+    padding:14px;
+    padding-bottom:0px;
+    padding-top:0px;
+    margin-top:2px;
+}
+.what_fr_read .column_wrap .make_blue:hover
+{
+    background:#3c69a1;
+}
+.what_fr_read .column_wrap .make_blue:hover a, .what_fr_read .column_wrap .make_blue:hover .make_grey
+{
+    color:#FFFFFF !important;
+}
+.what_fr_read .column_wrap .column .name {
+    float: left;
+    width: 228px;
+    text-decoration: none;
+    font-size: 12px;
+    color: #3c69a1;
+    font-weight: bold;
+    margin-left: 10px;
+    margin-top: 5px;
+}
+.arrow_up_big2 {
+    float: right;
+    width: 11px;
+    height: 7px;
+    background: url("/img/arrow_big_down.png") no-repeat;
+    margin-top: 12px;
+    margin-left: 3px;
+}
+.what_fr_read .column_wrap .border {
+    border-bottom: 1px solid #dbdbdb;
+    border-top: 1px solid #f6f6f6;
+    float: left;
+    height: 0;
+    margin-top: 5px;
+    width: 100%;
+}
+.your_activity_wrap {
+    float: left;
+    width: 300px;
+    min-height: 110px;
+    background: #e6e6e6;
+    border: 1px solid #DADADA;
+    font-family: Arial;
+    font-size: 12px;
+}
+.your_activity {
+    float: left;
+    width: 100%;
+    background: #929292;
+    margin-top: 8px;
+}
+.your_activity .text {
+    float: left;
+    width: 270px;
+    margin-left: 9px;
+    padding: 5px 0;
+}
+.bold {font-weight:bold;}
+a.here {
+    color: #fff;
+    font-weight: bold;
+    text-decoration: none;
+}
+.save {
+    float:  left;
+    width: 93px;
+    height: 19px;
+    background: url("/img/save.png") no-repeat;
+}
+.close {
+    float:  left;
+    width: 72px;
+    height: 19px;
+    background: url("/img/close.png") no-repeat;
+    margin-left: 5px;
+}
+
+#my_friends /*.friend_activities*/
+{
+    display:none;
+}
+.my_activities
+{
+    display:none;
+}
+.my_options{
+    display:none;
+}
+.sreader_blue
+{
+    color:#3c69a1;
+}
+.sreader_gray
+{
+    color:#6f6f6f;
+}

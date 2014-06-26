@@ -1,0 +1,173 @@
+body{
+	margin:0px;
+	padding:0px;
+	color: #000;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	text-decoration: none;
+	background-color: white;
+	text-align:center;
+	line-height:1.2;
+	width:300px;
+	height:600px;
+	overflow:hidden;
+}
+* {outline:none;}
+td{
+	color: #000;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+A {
+	color:#167bbf;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	text-decoration: none;
+}
+.klear {
+	display: block;
+	clear:both;
+	font-size:0px;
+}
+div {
+  display: block;
+  width: auto;
+}
+* {
+	margin:0px;
+	padding:0px;
+}
+/************/
+.gbanner{
+	display:block;
+	width:300px;
+	height:600px;
+	text-align:left;
+	overflow:hidden;
+	cursor:pointer;
+	position:relative;
+	background: #bad8ec;
+	margin-right:-10px;
+}
+.gbanner_hdr{
+	position: relative;
+}
+.glogo{
+	display:block;
+	padding-left: 7px;
+	height: 34px;
+	line-height: 33px;
+	font-family: arial, sans-serif;
+	font-size:14px;
+	font-weight:bold;
+	color: #167BBF;
+}
+.glogo b{
+	font-weight: bold;
+}
+
+.gdeals_wrap{
+	overflow: visible;
+	background: #fff;
+	padding: 6px; 
+	box-shadow: 0px 1px 2px rgba(0, 99, 166, .26);
+	margin:0 0 6px 6px;
+	border-radius:3px;
+	float:left;
+}
+.gdeals_wrap2{
+	height: 94px;
+	overflow: visible;
+}
+.gdeal_pic{
+	display: block;
+	width: 129px;
+	height: 67px;
+	position: relative;
+	overflow: visible;
+	border-radius:3px;
+}
+.gdeal_pic img{
+	display: block;
+	width: 129px;
+	height: 66px;
+	border: 0;
+	border-radius: 3px;
+}
+.gdeal_pic b{
+	position: absolute;
+	top: 0px;
+	right: 0px;
+	width: 44px;
+	height: 19px;
+	line-height: 18px;
+	text-align: center;
+	color: white !important;
+	text-shadow: 0px 1px 2px rgba(0, 0, 0, .4);
+	background: rgba(0, 0, 0, .5);
+	border-top-right-radius: 3px;
+	border-bottom-left-radius: 3px;
+	font-size:11px;
+}
+.gdeal:hover .gdeal_pic b{
+	background: url('http://b.grabo.bg/special/dealbox-300x600-4/imgs/deal_promostar.png') no-repeat;
+	width: 55px;
+	height: 55px;
+	line-height: 50px;
+	top:-16px;
+	right: -5px;
+}
+.gdeal_info{
+	display: block;
+}
+.gdeal_title{
+	display: block;
+	white-space:nowrap;
+	overflow: hidden;
+	margin: 2px -10px 2px 0;
+	font-size:11px;
+	text-overflow:ellipsis;
+	max-width:133px;
+}
+.gdeal_prices{
+	display: block;
+	color: #000;
+	font-weight: normal;
+	font-size:11px;
+}
+.gdeal_prices span{
+	font-weight: normal;
+	color: #707070;
+	position: relative;
+	overflow: visible;
+}
+.gdeal_prices span em{
+	display: block;
+	background: url('http://b.grabo.bg/special/dealbox-300x600-4/imgs/djazga.png') no-repeat;
+	width: 42px;
+	height: 15px;
+	position: absolute;
+	top: 2px;
+	left: -2px;
+}
+.gdeal_prices b{color: #037e00;}
+
+/*** gbanner styles ***/
+
+.gbanner_style_dark{background: #0164a7;}
+.gbanner_style_dark .glogo{color: #bce4ff;}
+.gbanner_style_dark .gbanner_tab{color: white;}
+.gbanner_style_dark .gbanner_tab:hover{background-color: #bce4ff;color: #005086;}
+.gbanner_style_dark .gbanner_tab.selected{background-color: white; color: #000;}
+
+.gbanner_style_green{background: #009103;}
+.gbanner_style_green .glogo{color: white;}
+.gbanner_style_green .gbanner_tab{color: white;}
+.gbanner_style_green .gbanner_tab:hover{background-color: #005c02;color: white;}
+.gbanner_style_green .gbanner_tab.selected{background-color: white; color: #000;}
+
+.gbanner_style_orange{background: #ff8a00;}
+.gbanner_style_orange .glogo{color: white;}
+.gbanner_style_orange .gbanner_tab{color: white;}
+.gbanner_style_orange .gbanner_tab:hover{background-color: #cb5b00;color: white;}
+.gbanner_style_orange .gbanner_tab.selected{background-color: white; color: #000;}
