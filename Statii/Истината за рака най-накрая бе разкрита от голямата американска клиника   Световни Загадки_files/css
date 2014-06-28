@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'Alef';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Alef Regular'), local('Alef-Regular'), url(http://themes.googleusercontent.com/static/fonts/alef/v2/C8wmYJieZdfX3SNk-GwKVA.woff) format('woff');
+}
+@font-face {
+  font-family: 'Noto Sans';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Noto Sans Bold'), local('NotoSans-Bold'), url(http://themes.googleusercontent.com/static/fonts/notosans/v4/PIbvSEyHEdL91QLOQRnZ13hCUOGz7vYGh680lGh-uXM.woff) format('woff');
+}
