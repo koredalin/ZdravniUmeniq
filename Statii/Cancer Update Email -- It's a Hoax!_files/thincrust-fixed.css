@@ -1,0 +1,83 @@
+/*----------------------------------------------------
+
+	Welcome to thincrust-fixed.css!
+
+	Here we have base/fixed width styles for:
+
+	I.   Site Wrapper
+	II.  EMS System
+	III. Header (thincrust, thickcrust, search)
+
+----------------------------------------------------*/
+
+/*----------------------------------------------------
+
+	I. Site Wrapper
+
+----------------------------------------------------*/
+
+#jhm-wrapper {margin:0;padding:0;}
+#jhm-wrapper #wrapper-canvas {padding:0;}
+#jhm-wrapper .fixed {position:fixed;}
+#jhm-wrapper #jhm-canvas {width:100%;float:left;}
+
+/*----------------------------------------------------
+
+	II. EMS System
+
+----------------------------------------------------*/
+
+#ems {width:100%;clear:both;float:left;border-bottom:1px solid #538cc4;background: rgb(196,0,0);background: -moz-linear-gradient(top,  rgba(196,0,0,1) 25%, rgba(130,0,0,1) 100%);background: -webkit-gradient(linear, left top, left bottom, color-stop(25%,rgba(196,0,0,1)), color-stop(100%,rgba(130,0,0,1)));background: -webkit-linear-gradient(top,  rgba(196,0,0,1) 25%,rgba(130,0,0,1) 100%);background: -o-linear-gradient(top,  rgba(196,0,0,1) 25%,rgba(130,0,0,1) 100%);background: -ms-linear-gradient(top,  rgba(196,0,0,1) 25%,rgba(130,0,0,1) 100%);background: linear-gradient(to bottom,  rgba(196,0,0,1) 25%,rgba(130,0,0,1) 100%);filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#c40000', endColorstr='#820000',GradientType=0 );}
+#ems-message {width:1004px;margin:0 auto;}
+#ems-title {float:left;width:22%;padding:15px 1% 15px 0;/*background: rgb(196,0,0);background: -moz-linear-gradient(top,  rgba(196,0,0,1) 25%, rgba(130,0,0,1) 100%);background: -webkit-gradient(linear, left top, left bottom, color-stop(25%,rgba(196,0,0,1)), color-stop(100%,rgba(130,0,0,1)));background: -webkit-linear-gradient(top,  rgba(196,0,0,1) 25%,rgba(130,0,0,1) 100%);background: -o-linear-gradient(top,  rgba(196,0,0,1) 25%,rgba(130,0,0,1) 100%);background: -ms-linear-gradient(top,  rgba(196,0,0,1) 25%,rgba(130,0,0,1) 100%);background: linear-gradient(to bottom,  rgba(196,0,0,1) 25%,rgba(130,0,0,1) 100%);filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#c40000', endColorstr='#820000',GradientType=0 );*/}
+#ems-description {float:left;width:76%;padding:18px 0 15px 1%;/*background: rgb(196,0,0);background: -moz-linear-gradient(top,  rgba(196,0,0,1) 25%, rgba(130,0,0,1) 100%);background: -webkit-gradient(linear, left top, left bottom, color-stop(25%,rgba(196,0,0,1)), color-stop(100%,rgba(130,0,0,1)));background: -webkit-linear-gradient(top,  rgba(196,0,0,1) 25%,rgba(130,0,0,1) 100%);background: -o-linear-gradient(top,  rgba(196,0,0,1) 25%,rgba(130,0,0,1) 100%);background: -ms-linear-gradient(top,  rgba(196,0,0,1) 25%,rgba(130,0,0,1) 100%);background: linear-gradient(to bottom,  rgba(196,0,0,1) 25%,rgba(130,0,0,1) 100%);filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#c40000', endColorstr='#820000',GradientType=0 );*/}
+#ems-title h1 {color:#fff !important;font-size:16px;line-height:22px;font-weight:bold;font-family:"Helvetica Neue",Arial,Helvetica,sans-serif;text-shadow:0 -1px 0 rgba(101,0,0,1);}
+#ems-description p {color:#fff !important;font-size:12px;line-height:16px;padding:0;margin:0;font-family:"Helvetica Neue",Arial,Helvetica,sans-serif;}
+#ems-description p a {color:#fff !important;text-decoration:underline;}
+#ems-description p a:hover {color:#fff !important;text-decoration:none;}
+
+/*----------------------------------------------------
+
+	III. Header
+
+----------------------------------------------------*/
+
+#jhm-wrapper #bannerWrapper {clear:both;background: url(http://www.hopkinsmedicine.org/sebin/v/j/headerBg.jpg) left top repeat-x;height:93px;margin:0 0 20px 0;padding:0;}
+#jhm-wrapper #bannerWrapper #banner {width:1004px;margin:0 auto;background:url(http://www.hopkinsmedicine.org/sebin/v/j/headerBg.jpg) left top repeat-x;height:93px;}
+#jhm-wrapper #bannerWrapper #banner #logoAndTabs {width:43%;float:left;height:auto;margin:15px 0 15px 3%;}
+#jhm-wrapper #bannerWrapper #banner #logoAndTabs img {max-width:100%;}
+#jhm-wrapper #bannerWrapper #banner #jhm-search {width:50%;float:right;}
+#jhm-wrapper #bannerWrapper #banner #jhm-search form {padding:0;margin:0;height:88px;font-family:"Helvetica Neue",Arial,Helvetica,sans-serif;font-size:12px;position:relative;}
+#jhm-wrapper #bannerWrapper #banner #jhm-search form .search-box {position:absolute;top:33px;right:20px;width:100%;float:right;text-align:right;}
+#jhm-wrapper #bannerWrapper #banner #jhm-search form .search-field-wrapper {position:absolute;right:66px;top:0;}
+#jhm-wrapper #bannerWrapper #banner #jhm-search form .search-field-inner {position:absolute;top:0;right:0;margin:0;height:24px;padding:0;width:198px;border:1px solid #d5d5d5;border-top:1px solid #cacaca;border-bottom:1px solid #d5d5d5;-moz-box-shadow:0 2px 6px #dcdcdc inset;-webkit-box-shadow:0 2px 6px #dcdcdc inset;box-shadow:0 2px 6px #dcdcdc inset;-moz-border-radius:4px;-webkit-border-radius:4px;border-radius:4px;}
+#jhm-wrapper #bannerWrapper #banner #jhm-search form .search-field-wrapper .search-logo {display:block;width:25px;height:18px;position:absolute;top:4px;right:173px;left;0;border-right:1px solid #ddd;background:url(http://www.hopkinsmedicine.org/sebin/p/q/search-icon-thincrust.png) no-repeat 5px 50%;text-indent:-9999px;text-align:left;}
+#jhm-wrapper #bannerWrapper #banner #jhm-search form .search-options {z-index:300;display:none;position:absolute;top:25px;right:0;width:190px;padding:5px 4px 4px;background:#fff;border:1px solid #d5d5d5;border-top:0 none;-moz-box-shadow:0 3px 6px rgba(0,0,0,.2);-webkit-box-shadow:0 3px 6px rgba(0,0,0,.2);box-shadow:0 3px 6px rgba(0,0,0,.2);text-align:left;-moz-border-bottom-right-radius:4px;-webkit-border-bottom-right-radius:4px;border-bottom-right-radius:4px;-moz-border-bottom-left-radius:4px;-webkit-border-bottom-left-radius:4px;border-bottom-left-radius:4px;}
+#jhm-wrapper #bannerWrapper #banner #jhm-search form .search-options label {display:block;margin:-14px 0 8px 24px;line-height:15px;}
+#jhm-wrapper #bannerWrapper #banner #jhm-search form #search-field, #jhm-wrapper #bannerWrapper #banner #jhm-search form #search-field:focus, #jhm-wrapper #bannerWrapper #banner #jhm-search form #search-field:active {position:absolute;right:0;height:18px;font-family:"Helvetica Neue",Arial,Helvetica,sans-serif;line-height:12px;font-size:12px;background:none;padding:6px 6px 3px;width:161px;border:0 none;outline:none;}
+#jhm-wrapper #bannerWrapper #banner #jhm-search form .bannerSearchButton {position:absolute;right:0;height:26px;width:60px;margin:0;text-align:center;color:#264289; text-shadow: 1px 1px 0 white;padding:0 8px 5px 8px;font-weight:lighter; border: 1px solid #b2b1b1;-webkit-border-radius:4px;-moz-border-radius:4px;border-radius:4px;font-size:15px;line-height:23px;cursor:pointer;font-family:"Gill Sans", "Helvetica Neue", Arial, Helvetica, sans-serif;background: #fefcea; /* Old browsers */background: -moz-linear-gradient(top, #fefcea 0%, #efd215 100%); /* FF3.6+ */background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#fefcea), color-stop(100%,#efd215)); /* Chrome,Safari4+ */background: -webkit-linear-gradient(top, #fefcea 0%,#efd215 100%); /* Chrome10+,Safari5.1+ */background: -o-linear-gradient(top, #fefcea 0%,#efd215 100%); /* Opera 11.10+ */background: -ms-linear-gradient(top, #fefcea 0%,#efd215 100%); /* IE10+ */background: linear-gradient(to bottom, #fefcea 0%,#efd215 100%); /* W3C */filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fefcea', endColorstr='#efd215',GradientType=0 ); /* IE6-9 */}
+#jhm-wrapper .thincrust {padding:0px;border:0px;width:100%;z-index:900;float:left;clear:both;height:30px;background: rgb(15,57,133);background: -moz-linear-gradient(left,  rgba(15,57,133,1) 0%, rgba(97,132,200,1) 50%, rgba(15,57,133,1) 100%);background: -webkit-gradient(linear, left top, right top, color-stop(0%,rgba(15,57,133,1)), color-stop(50%,rgba(97,132,200,1)), color-stop(100%,rgba(15,57,133,1)));background: -webkit-linear-gradient(left,  rgba(15,57,133,1) 0%,rgba(97,132,200,1) 50%,rgba(15,57,133,1) 100%);background: -o-linear-gradient(left,  rgba(15,57,133,1) 0%,rgba(97,132,200,1) 50%,rgba(15,57,133,1) 100%);background: -ms-linear-gradient(left,  rgba(15,57,133,1) 0%,rgba(97,132,200,1) 50%,rgba(15,57,133,1) 100%);background: linear-gradient(to right,  rgba(15,57,133,1) 0%,rgba(97,132,200,1) 50%,rgba(15,57,133,1) 100%);filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0f3985', endColorstr='#0f3985',GradientType=1 );}
+#jhm-wrapper .thincrust-inner {position:relative;width:1004px;margin:0 auto;z-index:900;}
+#jhm-wrapper .thincrust-inner .topmenu {top:30px;right:3px;width:100%;list-style:none inside none;padding:0;margin:0;}
+#jhm-wrapper .thincrust-inner .topmenu li {display:block;}
+
+#jhm-wrapper .thincrust-inner .topmenu-about-wrapper {clear:left;float:right;width:780px;overflow:hidden;display:none;position:relative;top:30px;border:1px solid #fff;border-bottom:10px solid #fcd206;background: rgb(63,91,165);background: rgb(63,91,165);background: -moz-linear-gradient(top,  rgba(63,91,165,1) 0%, rgba(86,120,191,1) 100%);background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(63,91,165,1)), color-stop(100%,rgba(86,120,191,1)));background: -webkit-linear-gradient(top,  rgba(63,91,165,1) 0%,rgba(86,120,191,1) 100%);background: -o-linear-gradient(top,  rgba(63,91,165,1) 0%,rgba(86,120,191,1) 100%);background: -ms-linear-gradient(top,  rgba(63,91,165,1) 0%,rgba(86,120,191,1) 100%);background: linear-gradient(to bottom,  rgba(63,91,165,1) 0%,rgba(86,120,191,1) 100%);filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#3f5ba5', endColorstr='#5678bf',GradientType=0 );}
+#jhm-wrapper .thincrust-inner .topmenu-patient-care-wrapper {clear:left;float:left;width:100%;position:relative;right:25%;border-right:1px dotted #fff;}
+#jhm-wrapper .thincrust-inner .topmenu-research-wrapper {clear:left;float:left;width:100%;position:relative;right:25%;border-right:1px dotted #fff;}
+#jhm-wrapper .thincrust-inner .topmenu-education-wrapper {float:left;width:100%;position:relative;right:25%;border-right:1px dotted #fff;}
+#jhm-wrapper .thincrust-inner .topmenu-about, .thincrust-inner .topmenu-patient-care, .thincrust-inner .topmenu-research, .thincrust-inner .topmenu-education {float:left;width:25%;position:relative;left:75%;overflow:hidden;}
+#jhm-wrapper .thincrust-inner .topmenu li a {font-family:'Gill Sans', 'Helvetica Neue', Arial, Helvetica, sans-serif;font-size:14px;line-height:11.5px;color:#f4d712;text-decoration:none;padding:14px 10%;display:block;text-transform:uppercase;text-indent:0;height:auto;}
+#jhm-wrapper .thincrust-inner .topmenu li a:hover {color:#013082;background: rgb(253,205,50);background: -moz-linear-gradient(left,  rgba(253,205,50,1) 0%, rgba(255,255,255,1) 100%);background: -webkit-gradient(linear, left top, right top, color-stop(0%,rgba(253,205,50,1)), color-stop(100%,rgba(255,255,255,1)));background: -webkit-linear-gradient(left,  rgba(253,205,50,1) 0%,rgba(255,255,255,1) 100%);background: -o-linear-gradient(left,  rgba(253,205,50,1) 0%,rgba(255,255,255,1) 100%);background: -ms-linear-gradient(left,  rgba(253,205,50,1) 0%,rgba(255,255,255,1) 100%);background: linear-gradient(to right,  rgba(253,205,50,1) 0%,rgba(255,255,255,1) 100%);filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fdcd32', endColorstr='#ffffff',GradientType=1 );}
+#jhm-wrapper .thincrust-inner .topmenu li ul {display:block;padding:0;width:100%;list-style:none outside none;margin:0;}
+#jhm-wrapper .thincrust-inner .topmenu li ul li {width:100%;border:none;}
+#jhm-wrapper .thincrust-inner .topmenu li ul li.hidden-link {display:none;}
+#jhm-wrapper .thincrust-inner .topmenu li ul li a {font-family:'Helvetica Neue', Arial, Helvetica, sans-serif;color:#fff;display:block;font-size:12px;line-height:13px;padding:6px 10%;text-decoration:none;text-transform:none;}
+#jhm-wrapper #explore-tools {position:absolute;top:0;right:0;}
+#jhm-wrapper #explore-tools .explore {float:right;position:relative;border-left:1px solid #42639f;border-right:1px solid #133b7b;color:#fff;font-family:"Gill Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;text-decoration:none;font-weight:200;text-shadow:0 1px 1px #142f74;background: rgb(47,80,161);background: -moz-linear-gradient(top,  rgba(47,80,161,1) 0%, rgba(23,54,127,1) 100%);background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(47,80,161,1)), color-stop(100%,rgba(23,54,127,1)));background: -webkit-linear-gradient(top,  rgba(47,80,161,1) 0%,rgba(23,54,127,1) 100%);background: -o-linear-gradient(top,  rgba(47,80,161,1) 0%,rgba(23,54,127,1) 100%);background: -ms-linear-gradient(top,  rgba(47,80,161,1) 0%,rgba(23,54,127,1) 100%);background: linear-gradient(to bottom,  rgba(47,80,161,1) 0%,rgba(23,54,127,1) 100%);filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#2f50a1', endColorstr='#17367f',GradientType=0 );}
+#jhm-wrapper #explore-tools .explore:hover {cursor:pointer;}
+#jhm-wrapper #explore-tools .explore .menu-button {border-left:1px solid #d2d7e2;border-right:1px solid #132654;float:left;padding:7px 8px;height:16px;}
+#jhm-wrapper #explore-tools .explore .menu-button span {border:1px solid #fdfdfd;border-top:1px solid #fff;background:#dadada;width:20px;height:1px;display:block;-moz-border-radius:9999px;-webkit-border-radius:9999px;border-radius:9999px;margin:0 0 3px 0;}
+#jhm-wrapper #explore-tools .explore .menu-button-text {border-left:1px solid #48619c;border-right:1px solid #d2d7e2;padding:0 8px;height:30px;display:block;float:left;font-size:16px;line-height:31px;}
+#jhm-wrapper #explore-tools .search2 {display:none;}
+#jhm-wrapper .thincrust-more {display:none;}
+#jhm-wrapper #explore-tools .search2 span {display:inline;height:auto;width:auto;background:transparent;text-indent:0;}

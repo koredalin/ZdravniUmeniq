@@ -1,0 +1,335 @@
+/*----------------------------------------------------
+
+	Welcome to content-external.css!
+
+	Here we have base/fixed width styles for:
+
+	I.    Profile Module
+	II.   Galleria
+	III.  Callouts/Promos
+	IV.   Buttons
+	V.    Tables
+	VI.   Data Grids
+	VII.  Conditions & Treatments Callouts
+	VIII. Flex Bucket and Hospital Site Styles
+	IX.   Callouts
+	X.    International Sidebar Styles
+	XI.   Content Footer Styles
+	XII.  International Content Footer Top
+	XIII. Blue Callout Styles
+	XIV.  FAQs
+
+----------------------------------------------------*/
+
+/*----------------------------------------------------
+
+	I. Profile Module
+
+----------------------------------------------------*/
+
+/*----------------------------------------------------
+
+	II. Galleria
+
+----------------------------------------------------*/
+
+.cred {margin-top:20px;font-size:11px;}
+#galleria {height:326px;margin:0 0 1em 0;}
+.galleria-info-text {position:absolute;top:12px;left:12px;background:rgba(0,0,0,.7);z-index:2;padding:8px 12px;}
+.galleria-info-title {display:block;padding:0;margin-bottom:3px;}
+
+/*----------------------------------------------------
+
+	III. Callouts/Promos
+
+----------------------------------------------------*/
+
+.callout-list {width:230px;padding:10px;border:1px solid #CCC;margin:0 0 15px 0;font-size:12px;line-height:1.25em;-webkit-border-radius:10px;-moz-border-radius:10px;border-radius:10px;}
+.callout-list-left {float:left;margin:0 15px 15px 0;}
+.callout-list-right {float:right;margin:0 0 15px 15px;}
+.callout-list ul {width:200px;padding:5px 15px;background:#EAEEFC;margin:0;-webkit-border-radius:5px;-moz-border-radius:5px;border-radius: 5px;
+background:#eaeef9;background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDEgMSIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+CiAgPGxpbmVhckdyYWRpZW50IGlkPSJncmFkLXVjZ2ctZ2VuZXJhdGVkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjAlIiB5MT0iMCUiIHgyPSIwJSIgeTI9IjEwMCUiPgogICAgPHN0b3Agb2Zmc2V0PSI1MiUiIHN0b3AtY29sb3I9IiNlYWVlZjkiIHN0b3Atb3BhY2l0eT0iMSIvPgogICAgPHN0b3Agb2Zmc2V0PSI5NCUiIHN0b3AtY29sb3I9IiNmZmZmZmYiIHN0b3Atb3BhY2l0eT0iMSIvPgogIDwvbGluZWFyR3JhZGllbnQ+CiAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0idXJsKCNncmFkLXVjZ2ctZ2VuZXJhdGVkKSIgLz4KPC9zdmc+);background: -moz-linear-gradient(top,  #eaeef9 52%, #ffffff 94%);background: -webkit-gradient(linear, left top, left bottom, color-stop(52%,#eaeef9), color-stop(94%,#ffffff));background: -webkit-linear-gradient(top,  #eaeef9 52%,#ffffff 94%);background: -o-linear-gradient(top,  #eaeef9 52%,#ffffff 94%);background: -ms-linear-gradient(top,  #eaeef9 52%,#ffffff 94%);background: linear-gradient(to bottom,  #eaeef9 52%,#ffffff 94%);filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#eaeef9', endColorstr='#ffffff',GradientType=0 );}
+.callout-list ul li {padding:10px 0; list-style-type:none; border-bottom:dotted 1px #4C689A;}
+.callout-list ul li:last-child {border:none;padding:10px 0 0 0;}
+
+table.gts-table {table-layout:fixed;}
+.gts-table tr td {padding:1em 0;vertical-align:top;}
+.gts-table tr td:first-child {width:110px;}
+.gts-table tr td img {padding:6px;border:1px solid #ccc;background:#fff;max-width:80px;margin:0 1.5em 0 0;}
+
+.blockquoteTan {position:relative;background:#e2e2da;display:block;padding:2%;width:96%;height:auto;float:left;margin:1em auto;text-align:center;font-family:"Gill Sans", Arial, Helvetica, sans-serif;font-size:1.5em;font-weight:100;line-height:1.5em;color: #333;margin-top:0;}
+.blockquoteTan p {margin:.5em auto;padding:0 12%;}
+.blockquoteTan em {font-size:.75em;}
+.blockquoteTan:before, .blockquoteTan:after {color:#fff;content:close-quote;font-size:82px;font-family: Arial, Helvetica, sans-serif;}
+.blockquoteTan:before {content:"\201C";position:absolute;top:30px;left:10px;}
+.blockquoteTan:after {content:"\201D";position:absolute;right:10px;bottom:0px;}
+
+/*----------------------------------------------------
+
+	IV. Buttons
+
+----------------------------------------------------*/
+
+a.flex-button {box-shadow:0 1px 2px rgba(0,0,0,.6);border:1px solid #00276f;border-radius:3px;font-size: 1.2em;line-height:1.6em;font-weight:lighter;font-family:'Gill Sans', 'Helvetica Neue', Arial, Helvetica, sans-serif;text-decoration:none;color:#E7E9EB !important;text-shadow:0 1px 1px #00276f !important;padding:5px 7px;background: #4c689a; /* Old browsers */background: -moz-linear-gradient(top,  #4c689a 0%, #00276f 100%); /* FF3.6+ */background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#4c689a), color-stop(100%,#00276f)); /* Chrome,Safari4+ */background: -webkit-linear-gradient(top,  #4c689a 0%,#00276f 100%); /* Chrome10+,Safari5.1+ */background: -o-linear-gradient(top,  #4c689a 0%,#00276f 100%); /* Opera 11.10+ */background: -ms-linear-gradient(top,  #4c689a 0%,#00276f 100%); /* IE10+ */background: linear-gradient(top,  #4c689a 0%,#00276f 100%); /* W3C */filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#4c689a', endColorstr='#00276f',GradientType=0 ); /* IE6-9 */;}
+a.flex-button:hover {box-shadow:0 1px 2px rgba(0,0,0,.6);border:1px solid #00276f;border-radius:3px;font-size: 1.2em;line-height:1.6em;font-weight:lighter;font-family:'Gill Sans', 'Helvetica Neue', Arial, Helvetica, sans-serif;text-decoration:none;color:#E7E9EB !important;text-shadow:0 1px 1px #00276f !important;padding:5px 7px;background: #4c689a; /* Old browsers */background: -moz-linear-gradient(top,  #6480b4 0%, #00276f 100%); /* FF3.6+ */background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#6480b4), color-stop(100%,#00276f)); /* Chrome,Safari4+ */background: -webkit-linear-gradient(top,  #6480b4 0%,#00276f 100%); /* Chrome10+,Safari5.1+ */background: -o-linear-gradient(top,  #6480b4 0%,#00276f 100%); /* Opera 11.10+ */background: -ms-linear-gradient(top,  #6480b4 0%,#00276f 100%); /* IE10+ */background: linear-gradient(top,  #6480b4 0%,#00276f 100%); /* W3C */filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#6480b4', endColorstr='#00276f',GradientType=0 ); /* IE6-9 */;}
+a.flex-button-maps-google, a.flex-button-maps-print, a.flex-button-maps-google:hover, a.flex-button-maps-print:hover {line-height:4em;padding: 13px 18px 13px 11px;margin:.75em 0;display:inline-block;}
+a.flex-button-maps-google span {padding:0 0 0 4em;background:url(http://hopkinsmedicine.org/sebin/d/c/btn-maps-google.png) no-repeat 0 50%;display:inline-block;line-height:2em;background-size:3.21em 1.93em;}
+a.flex-button-maps-print span {padding:0 0 0 4em;background:url(http://hopkinsmedicine.org/sebin/d/m/btn-maps-print.png) no-repeat .25em 50%;display:inline-block;line-height:2em;background-size:2.64em 1.86em;}
+
+a.flex-button-yellow {text-decoration:none;text-align:center;color:#264289; text-shadow: 1px 1px 0 white;padding:3px 8px 5px 8px;font-weight:lighter; border: 1px solid #b2b1b1;-webkit-border-radius:4px;-moz-border-radius:4px;border-radius:4px;font-size:14px;line-height:23px;cursor:pointer;font-family:"Gill Sans", "Helvetica Neue", Arial, Helvetica, sans-serif;
+background: #efd215;
+background: -moz-linear-gradient(top,  #fefcea 0%, #efd215 100%);
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#fefcea), color-stop(100%,#efd215));
+background: -webkit-linear-gradient(top,  #fefcea 0%,#efd215 100%);
+background: -o-linear-gradient(top,  #fefcea 0%,#efd215 100%);
+background: -ms-linear-gradient(top,  #fefcea 0%,#efd215 100%);
+background: linear-gradient(to bottom,  #fefcea 0%,#efd215 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fefcea', endColorstr='#efd215',GradientType=0 );
+}
+
+a.flex-button-yellow:hover {text-decoration:underline;}
+
+/*----------------------------------------------------
+
+	V. Tables
+
+----------------------------------------------------*/
+
+table.responsive {background:#fff;margin: 0 0 1.5em 0;border-top: 1px solid #DDD;border-bottom: none;border-spacing:0;width:100%;line-height:1.4em;}
+table.responsive tr th {padding: .7em .8em;border-right: 1px solid #ddd;border-bottom: 1px solid #ddd;border-top: 1px solid #ddd;font-weight:bold;text-align: left;background: #e4f3ff;vertical-align: text-top;}
+table.responsive tr td {background-color: #fff;border-right: 1px solid #ddd;border-bottom: 1px solid #ddd;padding: .7em .8em;vertical-align: text-top;}
+table.responsive tr th:first-child {border-left: 1px solid #ddd;border-top: 0;background: #F5FAFA url(http://hopkinsmedicine.org/sebin/c/y/table-bullet.gif) no-repeat 1px 1px;color: #797268;}
+table.responsive tr td.empty {background:#ffffff !important;}
+table.responsive .yellow {background:#fff1bf;}
+table.responsive .white {background:#fff;}
+table.responsive .blue {background:#e4f3ff;}	
+table.overflow, table.overflow_alt_rows {background:#fff;border-left: 1px solid #DDD;border-bottom: none;border-spacing:0;width:100%;line-height:1.4em;}
+table.overflow_alt_rows tr:nth-child(odd) td {background:#eee;}
+table.overflow tr th, table.overflow_alt_rows tr th {padding: .7em .8em;border-right: 1px solid #ddd;border-bottom: 1px solid #ddd;border-top: 1px solid #ddd;font-weight:bold;text-align: left;background: #e4f3ff !important;vertical-align: text-top;}
+table.overflow tr td, table.overflow_alt_rows tr td {background-color: #fff;border-right: 1px solid #ddd;border-bottom: 1px solid #ddd;padding: .7em .8em;vertical-align: text-top;border-top: #ddd 1px solid;}
+table.overflow .yellow, table.overflow_alt_rows .yellow {background:#fff1bf !important;}
+table.overflow .white, table.overflow_alt_rows .white {background:#fff !important;}
+table.overflow .blue, table.overflow_alt_rows .blue {background:#e4f3ff !important;}
+
+.mainBodyContentData iframe, .mainBodyContentData embed {margin:0 0 2em 0;}
+div.scrollable {overflow:auto;}
+
+/*----------------------------------------------------
+
+	VI. Data Grids
+
+----------------------------------------------------*/
+
+.flex_table_row {position:relative;float:left;width:99%;border-bottom:1px dashed #999;}
+div.flex_table_row:nth-child(odd) {background-color:#F8F8F8;}
+.flex_table_row div {position:relative;float:left;width:48%;padding:.2em;margin-bottom:.3em;margin-top:.3em;}
+.flex_table_heading {color:#4A4A4A;font-size:1.3em;margin-top:20px;margin-bottom:20px;display:block;font-weight:bold;}
+
+ul.data-list {list-style:none;padding:0;margin:0;}
+ul.data-list li {list-style:none;margin:0;border-top:2px dotted #ddd;}
+ul.data-list li a {font-size: 1.2em;line-height:2.5em;font-weight:lighter;font-family:'Gill Sans', 'Helvetica Neue', Arial, Helvetica, sans-serif;text-decoration:none;color:#00276f;padding:.5%;}
+ul.data-list li ul {padding:0;margin:0 0 10px 0;box-shadow:1px 1px 3px #ddd;}
+ul.data-list li ul li {border:none;width:100%;}
+ul.data-list li ul li a {font-weight:normal;font-size: .95em;line-height:1.3em;font-family:'Helvetica Neue', Arial, Helvetica, sans-serif;text-decoration:none;color:#666;padding:.75%;border-top:1px solid #ddd;background:#fff;width:98.5%;display:block;}
+ul.data-list li ul li:nth-child(even) a {background:#f9f9f9;}
+ul.data-list li ul li:nth-child(odd) a {background:#efefef;}
+ul.data-list li ul li:nth-child(even) a:hover {background:#e9e9e9;}
+ul.data-list li ul li:nth-child(odd) a:hover {background:#e9e9e9;}
+
+/*----------------------------------------------------
+
+	VII. Conditions & Treatments Callouts
+
+----------------------------------------------------*/
+
+.hlCallout, .apptCallout {display:block;float:left;padding:2% 1.5% 2% .75%;border:1px #999999 solid;min-height:40px;background: #e7e9eb;background: -moz-linear-gradient(top, #f7f8f9 7%, #e7e9eb 73%);
+background: -webkit-gradient(linear, left top, left bottom, color-stop(7%,#f7f8f9), color-stop(73%,#e7e9eb));background: -webkit-linear-gradient(top, #f7f8f9 7%,#e7e9eb 73%);background: -o-linear-gradient(top, #f7f8f9 7%,#e7e9eb 73%);
+background: -ms-linear-gradient(top, #f7f8f9 7%,#e7e9eb 73%);background: linear-gradient(to bottom, #f7f8f9 7%,#e7e9eb 73%);-webkit-box-shadow: 0px 0px 3px rgba(50, 50, 50, 0.75);-moz-box-shadow: 0px 0px 3px rgba(50, 50, 50, 0.75);
+box-shadow: 0px 0px 3px rgba(50, 50, 50, 0.75);}.hlCallout {margin:13px 2% 4% 0;width:66%;}
+.apptCallout {margin: .5em 0;padding: 1% 2%;}
+.hlCallout a, .apptCallout a {display:block;color:#00276f;line-height:1.25em;font-size:1.25em;font-family:"Gill Sans", Arial, Helvetica, sans-serif;font-weight:100;text-decoration:none;background:url(http://hopkinsmedicine.org/sebin/h/v/comp-hl-icon-sm.png) left top no-repeat;padding-left:44px;min-height:35px;}
+.hlCallout a:hover, .apptCallout a:hover {color: #36C; text-decoration:underline;}
+.apptCallout a {background: url(http://hopkinsmedicine.org/sebin/x/f/appt-icon-sm.png) left center no-repeat;line-height: 3em;}
+.ctContentBox {width:96%;border:#CCC 1px solid; padding:2%; margin:1% 0 2% 0; float:left;color: #333;}
+.ctContentBox h2 {margin-top: 0;}
+.ctContentBox h3 {padding-top:0;margin:0;}
+.ctContentBoxText {width:53%;float:left;}
+.ctContentBoxImg {float:right; margin:0 0 0 2%; width:30%; min-width:200px;}
+.ctContentBoxImg img, .ctContentBoxImgSm img {max-width:100%; height:auto;}
+.ctContentBoxImgSm {float: right;margin: 0 0 0 1.5%;width: 15%;min-width: 100px;}
+.ctContentBox ul {margin-bottom:1.5em;padding-bottom:0;}
+.ctContentBox ul li {margin-bottom: 1.45em;}
+.clear {clear:both;}
+.healthLibraryCTLink, .readmoreCTLink, .faqCTLink, .videoCTLink, .expertCTLink {display:block;float:left;margin:.75em 0;background:url(http://hopkinsmedicine.org/sebin/n/p/hl-icon.png) top left no-repeat;padding-left:45px;min-height:35px;clear:both;}
+.healthLibraryCTLink {min-height:27px;}
+.readmoreCTLink {background:url(http://hopkinsmedicine.org/sebin/v/b/read-more-icon.png) top left no-repeat;}
+.faqCTLink {background:url(http://hopkinsmedicine.org/sebin/v/h/faq-icon.png) top left no-repeat;}
+.expertCTLink {background:url(http://hopkinsmedicine.org/sebin/v/j/expert_icon.png) top left no-repeat;}
+.videoCTLink {background:url(http://hopkinsmedicine.org/sebin/x/s/video_icon2_a.png) no-repeat scroll left top transparent;}
+.ctContentBoxText .resultDescription h4 {font-weight: normal; font-size: 1em; margin: 0;}
+
+/*----------------------------------------------------
+
+	VIII. Flex Bucket and Hospital Site Styles
+
+----------------------------------------------------*/
+
+div.flex-wrapper {float:left;clear:both;margin:0 0 1em 0;width:100%;}
+
+div.flex-callout-wrapper {width:100%;background:url(http://hopkinsmedicine.org/sebin/v/h/flex-callout-wrapper.jpg) no-repeat 0 0;float:left;clear:both;}
+div.flex-callout {width:47.4%;padding:1%;float:left;}
+div.flex-callout h4 {margin:.3em 0 .5em 0;}
+div.flex-callout-img {width:48%;margin:0 3% 3% 0;float:left;}
+div.flex-callout-img img {width:92%;padding:4%;border:1px solid #ccc;background:#fff;}
+
+ul.waypoint-list {list-style:none;padding:0;margin:0;}
+ul.waypoint-list li {list-style:none;margin:0;border-top:2px dotted #ddd;padding:0;}
+ul.waypoint-list li a {font-size: 1.2em;line-height:2.5em;font-weight:lighter;font-family:'Gill Sans', 'Helvetica Neue', Arial, Helvetica, sans-serif;text-decoration:none;color:#00276f;padding:.5%;}
+ul.waypoint-list li ul {padding:0;margin:0 0 10px 0;box-shadow:1px 1px 3px #ddd;}
+ul.waypoint-list li ul li {border:none;width:100%;}
+ul.waypoint-list li ul li a {font-weight:normal;font-size: .95em;line-height:1.3em;font-family:'Helvetica Neue', Arial, Helvetica, sans-serif;text-decoration:none;color:#666;padding:.75%;border-top:1px solid #ddd;background:#fff;width:98.5%;display:block;}
+ul.waypoint-list li ul li:nth-child(even) a {background:#f9f9f9;}
+ul.waypoint-list li ul li:nth-child(odd) a {background:#efefef;}
+ul.waypoint-list li ul li:nth-child(even) a:hover {background:#e9e9e9;}
+ul.waypoint-list li ul li:nth-child(odd) a:hover {background:#e9e9e9;}
+
+form#select-floor select {font-size: 1.2em;line-height:2.5em;font-weight:lighter;font-family:'Gill Sans', 'Helvetica Neue', Arial, Helvetica, sans-serif;text-decoration:none;color:#00276f;padding:.5%;}
+form#select-floor select option {float:left;border-bottom:1px dotted #999;}
+
+/*----------------------------------------------------
+
+	X. International Sidebar Styles
+
+----------------------------------------------------*/
+
+.jhiCTAWrapper, .jhiCTAWrapperSM {position:relative;max-width:234px; float:left; font-size:12px; line-height:1.35em; color: #333; margin:4% 0;background: #fbf7e6;
+background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDEgMSIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+CiAgPGxpbmVhckdyYWRpZW50IGlkPSJncmFkLXVjZ2ctZ2VuZXJhdGVkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjAlIiB5MT0iMCUiIHgyPSIxMDAlIiB5Mj0iMTAwJSI+CiAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjZjllYWEzIiBzdG9wLW9wYWNpdHk9IjEiLz4KICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iI2ZiZjhlNCIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgPC9saW5lYXJHcmFkaWVudD4KICA8cmVjdCB4PSIwIiB5PSIwIiB3aWR0aD0iMSIgaGVpZ2h0PSIxIiBmaWxsPSJ1cmwoI2dyYWQtdWNnZy1nZW5lcmF0ZWQpIiAvPgo8L3N2Zz4=);
+background: -moz-linear-gradient(-45deg, #f9eaa3 0%, #fbf8e4 100%);
+background: -webkit-gradient(linear, left top, right bottom, color-stop(0%,#f9eaa3), color-stop(100%,#fbf8e4));
+background: -webkit-linear-gradient(-45deg, #f9eaa3 0%,#fbf8e4 100%);
+background: -o-linear-gradient(-45deg, #f9eaa3 0%,#fbf8e4 100%);
+background: -ms-linear-gradient(-45deg, #f9eaa3 0%,#fbf8e4 100%);
+background: linear-gradient(135deg, #f9eaa3 0%,#fbf8e4 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f9eaa3', endColorstr='#fbf8e4',GradientType=1 );}
+.jhiCTAWrapperSM {-webkit-border-radius: 6px;-moz-border-radius: 6px;border-radius: 6px;}
+.jhiCTAinfoBox {float:left; width:100%; padding:0; margin:0;}
+.jhiCTAinfoBox h1 {font-size:1.75em;font-family:"Gill Sans", Arial, Helvetica, sans-serif;font-weight:100; color:#081b3d; margin:8px 0 8px 10px; float:left;width:91%;line-height:1em;}
+.bold {font-weight:400;}
+.jhiCTAinfoBox p {margin:0 0 1% 4%; float:left; width:70%;}
+.jhiCTAinfoBoxImg {position:absolute; float:right; padding:0; margin-bottom:1%;width:48px;height:105px; right:0; top:10px;}
+.jhiCTACentered {float:left;width:100%; margin:1.5% 0 1% 0;padding:0;*margin:10px 0;}
+.jhiCTAnumbersBox {-webkit-border-radius: 6px;-moz-border-radius: 6px;border-radius: 6px;background:#424b63; color:#FFF; width:95%; margin:0 auto;}
+.jhiCTAnumbersBox p {padding:4% 2.5% 4.5% 3%; line-height:1.5em; font-size:1em;}
+.jhiCTAlinksBox {width:92%; margin:1% 4% 4% 4%;color:#424b63; float:left;}
+.jhiCTAlinksBox p { margin:1% 0; line-height:1.25em;}
+.jhiCTAlinksBox a { color:#0f58ec; text-decoration:underline;background:none;padding-left:0;}
+.jhiCTAlinksBox ul {list-style-image:url(http://hopkinsmedicine.org/sebin/b/r/link-arrow.png);padding-left:15px;margin:0 0 4% 0;}
+.discoverHeading {font-size:1em; font-weight:700; margin-bottom:2%;}
+.jhiCTAinfoBox img {width:100%;height:auto;}
+
+/*----------------------------------------------------
+
+	XI. Content Footer Styles
+
+----------------------------------------------------*/
+
+.content-footer {width:100%;clear:both;padding-top: 3em;}
+.content-footer .content-footer-wrapper {width:100%;clear:both;margin:0 0 .5em 0;padding:1em 0 0 0;}
+.content-footer h5 {font-size:1.4em;margin:0 0 .5em 0;}
+.content-footer h6 {font-size:1.1em;margin:0 0 .7em 0;color:#4c689a;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;font-weight:bold;}
+.content-footer .content-footer-wrapper.blue-border {border-top:4px solid #99cccc;}
+.content-footer .content-footer-wrapper .content-footer-related-content {width:46%;float:left;margin:0 3% 0 0;}
+.content-footer .content-footer-wrapper .content-footer-next-steps {width:50%;float:right;margin:0;}
+.content-footer .content-footer-wrapper .content-footer-related-content ul {padding-left:15px;}
+.content-footer .content-footer-wrapper .content-footer-related-content ul li {padding:.5em 0;color:#00276f;margin:0;}
+.content-footer .content-footer-wrapper .content-footer-related-content ul li a {color:#0000FF;text-decoration:none;}
+.content-footer .content-footer-wrapper .content-footer-related-content ul li a:hover {color:#0000FF;text-decoration:underline;}
+.content-footer .content-footer-wrapper .content-footer-next-steps ul {padding-left:0;}
+.content-footer .content-footer-wrapper .content-footer-next-steps ul li {width:100%;margin:0 0 .5em 0;padding:0;list-style:none;}
+.content-footer .content-footer-wrapper .content-footer-next-steps ul li a {padding:.85em 2.55em .55em .65em;color:#00276f;font-weight:bold;text-decoration:none;background:url(http://hopkinsmedicine.org/sebin/m/b/next-steps.gif) no-repeat right 50% #f6f6f6;display:block;}
+.content-footer .content-footer-wrapper .content-footer-next-steps ul li a:hover {background: url(http://hopkinsmedicine.org/sebin/m/b/next-steps.gif) no-repeat right 50% #e3e1dc; text-decoration:underline;}
+.content-footer .content-footer-wrapper .heart-logo {width:1.3em;height:1em;display:inline-block;text-indent:-9999px;background:url(http://hopkinsmedicine.org/sebin/o/k/heart.gif ) no-repeat 50% 50%;}
+.content-footer .content-footer-wrapper .flex-33 {border-top:4px solid #4c689a;padding:.5em 0 0 0;}
+.content-footer .content-footer-wrapper .flex-33 img {width:100%;padding:0;border:1px solid #fff;box-shadow:0 0 10px rgba(0,0,0,.2);}
+
+/*----------------------------------------------------
+
+	XII.  International Content Footer Top
+
+----------------------------------------------------*/
+
+.content-footer-international {width:100%;clear:both;float:left;margin:0 0 2em;}
+.content-footer-international .left {width:32.5%;height:4em;padding:.75em 1.25%;float:left;background:#fef1c5;}
+.content-footer-international .right {width:65%;height:3em;padding:1.45em 0 1em;float:left;background:#434a64;}
+.content-footer-international .left h5, .content-footer-travel .left h5 {font-family:'Gill Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;margin:0;color:#434a64;font-size:1.8em;font-weight:lighter;}
+.content-footer-international .left h6, .content-footer-travel .left h6 {font-size:1em;color:#333;font-weight:normal;font-family:Arial, Helvetica, sans-serif;}
+.content-footer-international .right div {float:left;width:30.66%;margin:0 0 0 2.5%;}
+.content-footer-international .right h5, .content-footer-travel .right h5 {color:#fff;font-size:1em;font-weight:normal;margin:0;}
+.content-footer-international .right h6, .content-footer-travel .right h6 {color:#fff;font-size:1.3em;font-family:Arial, Helvetica, sans-serif;}
+.content-footer-international .right div.large-75 {width:60%;}
+.content-footer-international .right div.small-25 {width:35%;}
+
+.content-footer-travel {width:100%;clear:both;float:left;margin:1em 0 .5em 0;background: #fef1c5;}
+.content-footer-travel .left {width:23.5%;min-height:110px;padding:.75em 9.25% .75em 1.25%;float:left;background: #fef1c5 url(http://www.hopkinsmedicine.org/sebin/p/w/suitcase-large.png) no-repeat right top;}
+.content-footer-travel .left h5 {margin:0 0 5px 0;}
+.content-footer-travel .right {width:66%;height:auto;padding:1.45em 0 1em;float:left;background:#434a64;}
+.content-footer-travel .right div {float:left;width:30.66%;margin:0 0 2% 2.5%;}
+.content-footer-travel .right div.large-100 {width:95%;float:left;padding:1em 0 0 0;border-top:1px solid #6c7c9b;}
+.content-footer-travel .right div.large-100 h5 {font-weight:normal;margin-bottom:.5em;}
+.content-footer-travel .right div.large-100 ul {margin-bottom:0;color: #fff;}
+.content-footer-travel .right div.large-100 a {color:#fff; text-decoration:underline;}
+.content-footer-travel .right div.large-100 a:hover {text-decoration:none;}
+
+
+
+/*----------------------------------------------------
+
+	XIII. Blue Callout Styles
+
+----------------------------------------------------*/
+
+.blue-callout {padding: 10px;border: 1px solid #CCC;margin: 0 0 15px 0;line-height: 1.25em;clear:both;}
+.blue-callout-inner {padding: 10px;background: #EAEEFC;margin: 0;background: #EAEEF9;
+background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJod…EiIGhlaWdodD0iMSIgZmlsbD0idXJsKCNncmFkLXVjZ2ctZ2VuZXJhdGVkKSIgLz4KPC9zdmc+);
+background: -moz-linear-gradient(top, #EAEEF9 52%, white 94%);
+background: -webkit-gradient(linear, left top, left bottom, color-stop(52%,#EAEEF9), color-stop(94%,white));
+background: -webkit-linear-gradient(top, #EAEEF9 52%,white 94%);
+background: -o-linear-gradient(top, #EAEEF9 52%,white 94%);
+background: -ms-linear-gradient(top, #EAEEF9 52%,white 94%);
+background: linear-gradient(to bottom, #EAEEF9 52%,white 94%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#eaeef9', endColorstr='#ffffff',GradientType=0 );}
+.blue-callout-inner ul {padding-left:0;margin:0;}
+.blue-callout-inner li {padding:.75em 0;margin-left:0;padding-left:0;list-style-type:none;border-bottom:dotted 1px #4C689A;}
+.blue-callout-inner li:last-child {border-bottom:none;padding-bottom:0;}
+.blue-callout-inner li a {text-decoration:none;}
+.blue-callout-inner li a:hover {text-decoration:underline;}
+
+/*----------------------------------------------------
+
+	XIV. FAQs
+
+----------------------------------------------------*/
+
+#faq_accordion .active { background-color:#d6dbe7; color:#00276F;}
+#faq_accordion .faq_plus {display:block;width:1.25em;height:1.25em;color:#3F5FB0;background: white;border: 1px solid #d3d3d3;text-align: center;padding:.25em;margin: 0;border-radius: .3em;top: .3em;position:absolute;right:1%;line-height:1.35;}
+#faq_accordion .faq_question {width: 88%;float: left;border-top: 1px dashed #d6dbe7;font-size: 1.2em;font-weight: lighter;font-family: 'Gill Sans', 'Helvetica Neue', Arial, Helvetica, sans-serif;color:#666;margin:0;padding:.5em 11% .5em 1%;position:relative;}
+#faq_accordion .faq_answer {width: 98%;float: left;color:#666;margin: 0 0 2%;padding:1%;filter: progid:DXImageTransform.Microsoft.gradient(GradientType=0,startColorstr='#F1F1F1', endColorstr='#ffffff'); /* IE6 & IE7 */	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(GradientType=0,startColorstr='#F1F1F1', endColorstr='#ffffff')"; /* IE8 */	/* IE10 */	background-image: -ms-linear-gradient(top, #F1F1F1 0%, #ffffff 300%);
+	/* Mozilla Firefox */ background-image: -moz-linear-gradient(28% 40% 270deg,#F1F1F1, #FFFFFF);	/* Opera */	background-image: -o-linear-gradient(top, #F1F1F1 0%, #ffffff 300%);background-image:-webkit-gradient(linear, 0% 0%, 0% 100%, from(#F1F1F1), to(#FFFFFF));/* Proposed W3C Markup */ background-image: linear-gradient(top, #F1F1F1 0%, #ffffff 300%);}
+	
+.resultItem h4 {font-size: 12px;font-weight: normal;line-height: 19px;margin: 0;padding: 0;}
+
+/*----------------------------------------------------
+
+	XV. AddThis Pro Tools Styles
+
+----------------------------------------------------*/
+
+#at4m-dock.ats-dark,.at4m-menu.ats-dark .at4m-menu-header, .at4m-menu.ats-dark .at4m-menu-footer, .ats-dark#at4m-dock, .ats-dark.at4m-dock-toggle {background: #214a9a;}
+.at4m-dock.ats-dark a:hover, .at4m-dock.ats-dark a:active {background: #163778;}
+.at4m-dock.at4-ma2.ats-dark a:first-child {border-right: 1px solid #7395d9;}
+.at4m-dock.ats-dark, .at4m-dock-toggle.ats-dark {background: #214a9a;}
+.at4m-dock.ats-dark a:hover, .at4m-dock.ats-dark a:active, .at4m-dock-toggle.ats-dark a:hover, .at4m-dock-toggle.ats-dark a:active {background: #163778;border-color: #7395d9;}
+.at4-follow .at4-follow-container .at-follow-label {
+	color: #9cafd3;
+	text-transform: uppercase;
+}

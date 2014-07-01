@@ -1,0 +1,612 @@
+
+#formCommon {
+	font-family : Arial, Helvetica, sans-serif;
+	font-size : 12px;
+}
+#formCommon .horizontal {
+	margin : 0;
+	padding : 0;
+}
+#formCommon .seButton {
+	margin : 0 10px;
+	padding : 0;
+}
+#formCommon .seCheckbox {
+	font-weight : normal;
+	margin : 0 0 0 10px;
+	padding : 0;
+}
+#formCommon .seElementRow {
+	margin : 0;
+	padding : 0;
+	vertical-align : text-top;
+}
+#formCommon .seFieldCell {
+	margin : 0 0 0 10px;
+	padding : 0;
+}
+#formCommon .seLabelCell {
+	display : block;
+	font-weight : bold;
+	margin : 0 10px 10px 0;
+	text-align : right;
+	width : 150px;
+}
+#formCommon .seLabelTitle {
+	font-size : 12px;
+	font-weight : normal;
+	padding : 0 10px 10px 0;
+	text-align : right;
+	white-space : normal;
+	width : 150px;
+}
+#formCommon .seRadio {
+	margin : 0 0 0 10px;
+	padding : 0;
+}
+#formCommon .seRequiredMarker {
+	color : #CC3300;
+	font-size : 15px;
+	font-weight : bold;
+}
+#formCommon .seText label {
+	display : block;
+	font-weight : bold;
+	text-align : right;
+}
+#formCommon div.seText {
+	font-size : 12px;
+	margin : 0 10px 10px 0;
+	padding : 0;
+	width : 150px;
+}
+#formCommon div.seform {
+	padding-left : 0;
+}
+#formCommon input {
+	margin : 0;
+	padding : 0;
+}
+#formCommon label {
+	font-size : 12px;
+	font-weight : bold;
+	margin : 0;
+	padding : 0;
+	width : 150px;
+}
+#formCommon option {
+	font-family : Arial, Helvetica, sans-serif;
+	font-size : 11px;
+	position : left;
+}
+#formCommon select {
+	font-family : Arial, Helvetica, sans-serif;
+	font-size : 11px;
+	margin : 0;
+	vertical-align : baseline;
+}
+#formCommon textarea {
+	margin : 0 0 10px;
+	vertical-align : text-top;
+}
+a.link_more {
+	font-family : Arial,Helvetica,sans-serif;
+}
+a.link_pdf {
+	background-image : url(/sebin/w/z/pdficon.gif);
+	background-position : right;
+	background-repeat : no-repeat;
+	font-family : Arial,Helvetica,sans-serif;
+	margin : 4px 3px 2px 0;
+	padding : 3px 23px 5px 0;
+}
+a.link_pdfTest {
+	background-image:url(http://www.hopkinsmedicine.org/_templates/images/pdficon.gif);
+	background-position : left;
+	background-repeat : no-repeat;
+	display : inline;
+	padding : 3px 0 9px 25px;
+	width : 150px;
+}
+a.link_podcast {
+	background-image : url(/sebin/y/q/podcast.gif);
+	background-position : right;
+	background-repeat : no-repeat;
+	font-family : Arial,Helvetica,Sans-Serif;
+	margin : 4px 3px 2px 0;
+	padding : 3px 23px 5px 0;
+}
+a.link_powerpoint {
+	background-image : url(/sebin/i/p/powerPoint.gif);
+	background-position : right;
+	background-repeat : no-repeat;
+	font-family : Arial,Helvetica,sans-serif;
+	margin : 4px 3px 2px 0;
+	padding : 3px 23px 5px 0;
+}
+a.link_rss {
+	background-image : url(/sebin/i/y/rss.gif);
+	background-position : right;
+	background-repeat : no-repeat;
+	font-family : Arial,Helvetica,sans-serif;
+	margin : 4px 3px 2px 0;
+	padding : 3px 23px 5px 0;
+}
+a.link_video {
+	background-image : url(/sebin/d/j/video_icon.png);
+	background-position : right;
+	background-repeat : no-repeat;
+	font-family : Arial,Helvetica,sans-serif;
+	margin : 4px 3px 2px 0;
+	padding : 3px 23px 5px 0;
+}
+a.link_word {
+	background-image : url(/sebin/u/c/wordIcon.gif);
+	background-position : right;
+	background-repeat : no-repeat;
+	font-family : Arial,Helvetica,sans-serif;
+	margin : 4px 3px 2px 0;
+	padding : 3px 23px 5px 0;
+}
+a.link_xcel {
+	background-image : url(/sebin/w/e/xcelIcon.gif);
+	background-position : right;
+	background-repeat : no-repeat;
+	font-family : Arial,Helvetica,sans-serif;
+	margin : 4px 3px 2px 0;
+	padding : 3px 23px 5px 0;
+}
+div.col_left {
+	display : inline;
+	float : left;
+	margin : 0;
+	padding : 0;
+}
+div.col_right {
+	display : inline;
+	float : right;
+	margin : 0 0 20px;
+	padding : 0;
+}
+div.col_wrapper {
+	clear : both;
+	margin : 0;
+	padding : 0;
+	width : 520px;
+}
+div.col_wrapper .col_left {
+	width : 255px;
+}
+div.col_wrapper .col_left_narrow {
+	float : left;
+	width : 100px;
+}
+div.col_wrapper .col_right {
+	clear : none;
+	width : 255px;
+}
+div.col_wrapper .col_right_wide {
+	float : right;
+	width : 415px;
+}
+div.featured {
+	margin : 0;
+	padding : 0;
+	width : 540px;
+}
+div.featured_item {
+	float : left;
+	margin : 0 0 15px;
+	padding : 0;
+	width : 155px;
+}
+div.featured_spacer {
+	float : left;
+	height : 198px;
+	margin : 0 10px 0 5px;
+	width : 15px;
+}
+div.photo_Box_Left {
+	background-color : #ffffff;
+	border : 1px solid #CCCCCC;
+	float : left;
+	font : italic 10px/15px arial;
+	margin : 4px 16px 8px 0;
+	padding : 6px;
+}
+div.photo_Box_Middle {
+	background-color : #ffffff;
+	border : 1px solid #CCCCCC;
+	display : block;
+	font : italic 10px/15px arial;
+	margin : 8px auto;
+	padding : 6px;
+	width : 450px;
+}
+div.photo_Box_Right {
+	background-color : #ffffff;
+	border : 1px solid #CCCCCC;
+	float : right;
+	font : italic 10px/15px arial;
+	margin : 8px 0 8px 8px;
+	padding : 6px;
+}
+.Photo_caption {
+	color : #666666;
+	font-family : Arial, Helvetica, sans-serif;
+	font-size : 9px;
+	font-style : normal;
+	font-weight : normal;
+}
+.captions {
+	line-height : 13px;
+}
+table.table_default {
+	border : 1px solid #CCCCCC;
+	font-family : Arial, Helvetica, sans-serif;
+	font-size : 11px;
+	line-height : 13px;
+	margin-left : auto;
+	margin-right : auto;
+	padding : 8px;
+	width : 95%;
+}
+table.table_default td {
+	border : 1px solid #CCCCCC;
+	font-family : Arial, Helvetica, sans-serif;
+	font-size : 11px;
+	line-height : 13px;
+	padding : 8px;
+}
+table.table_default_left {
+	background-color : #ffffff;
+	border : 1px solid #cccccc;
+	float : left;
+	font : normal 11px/13px arial;
+	margin : 5px 8px 5px 0;
+}
+table.table_default_left td {
+	border : 1px solid #cccccc;
+	padding : 5px;
+}
+table.table_default_right {
+	background-color : #ffffff;
+	border : 1px solid #cccccc;
+	float : right;
+	font : normal 11px/13px arial;
+	margin : 5px 0 5px 8px;
+	padding : 8px;
+	width : 100%;
+}
+table.table_default_right td {
+	border : 1px solid #cccccc;
+	padding : 5px;
+}
+td.table_cell_highlight {
+	background-color : #f9e577;
+}
+tr.table_row_Header {
+	background-color : #e7e9eb;
+	color : #0b2972;
+	font-family : Arial, Helvetica, sans-serif;
+	font-size : 12px;
+	font-weight : bold;
+	height : 20px;
+	line-height : 14px;
+	padding : 8px;
+}
+tr.table_row_Header td {
+	font-family : Arial, Helvetica, sans-serif;
+	font-size : 12px;
+	font-weight : bold;
+	line-height : 14px;
+	padding : 5px;
+}
+tr.table_row_alternate {
+	background-color : #FBFBD6;
+}
+.findOutMoreImg {
+	border : none;
+	margin : 0;
+	padding : 0;
+}
+.findOutMoreLink {
+	margin : 0;
+	padding : 0;
+}
+.highlightedBodyCopy {
+	background-color : #FFFFCC;
+	border : 1px dotted #6F82AC;
+	color : #333333;
+	font-family : Arial, Helvetica, sans-serif;
+	font-size : 12px;
+	line-height : 20px;
+	margin : 5px;
+	padding : 5px;
+	text-align : left;
+}
+.highlightedQuoteCopy {
+	color : #333333;
+	font-family : Arial, Helvetica, sans-serif;
+	font-size : 13px;
+	font-style : italic;
+	line-height : 17px;
+	margin : 5px;
+	padding : 5px;
+	text-align : left;
+	width : 100%;
+}
+.imgBorder {
+	border : 1px solid #333333;
+	margin : 5px;
+	padding : 0;
+}
+.messageActive {
+	display : inline;
+}
+.relatedPhoto {
+	background-color : #ffffff;
+	border : 1px solid #B3BBD2;
+	padding : 2px;
+}
+.rightCallout h2 {
+	color : #0B2972;
+	font-size : 16px;
+	font-weight : bold;
+}
+.small {
+	font-size : 9px;
+}
+#tc {
+	display : none;
+}
+img.videothumb {
+}
+body {
+	font-family : Arial, Verdana, Helvetica, sans-serif;
+	font-size : 12px;
+}
+h1.mainBodyContentTitle, h1 {
+	color : #0b2972;
+	font-family : Arial, Helvetica, sans-serif;
+	font-size : 20px;
+	font-weight : bold;
+	line-height : normal;
+	margin : 0 0 0 10px;
+}
+h2 {
+	color : #4c689a;
+	font-family : Arial, Helvetica, sans-serif;
+	font-size : 18px;
+	font-weight : normal;
+	line-height : normal;
+}
+h2.doctor_name {
+	display : none;
+}
+h3 {
+	color : #4A4A4A;
+	font-family : Arial, Helvetica, sans-serif;
+	font-size : 16px;
+	font-weight : bold;
+	line-height : normal;
+	padding-top : 7px;
+}
+h4 {
+	color : #4c689a;
+	font-family : Arial, Helvetica, sans-serif;
+	font-size : 14px;
+	font-weight : bold;
+	line-height : normal;
+}
+h5 {
+	color : #4A4A4A;
+	font-family : Arial, Helvetica, sans-serif;
+	font-size : 12px;
+	font-weight : bold;
+	line-height : normal;
+}
+hr {
+	border-bottom : 0;
+	border-left : 0;
+	border-right : 0;
+	border-top : 1px dotted #CCCCCC;
+	margin : 10px auto;
+	width : 100%;
+}
+.Header_1,h1 {
+	color : #0b2972;
+	font-family : Arial, Helvetica, sans-serif;
+	font-size : 20px;
+	font-weight : bold;
+	line-height : normal;
+	margin : 0 0 0 10px;
+}
+.Header_2,h2 {
+	color : #4c689a;
+	font-family : Arial, Helvetica, sans-serif;
+	font-size : 18px;
+	font-weight : normal;
+	line-height : normal;
+}
+.Header_3,h3 {
+	color : #4A4A4A;
+	font-family : Arial, Helvetica, sans-serif;
+	font-size : 16px;
+	font-weight : bold;
+	line-height : normal;
+	padding-top : 7px;
+}
+blockquote {
+	background-color : #E7E9EB;
+	border : 1px dotted #6F82AC;
+	color : #333333;
+	margin : 5px auto;
+	padding : 8px;
+}
+blockquote h3 {
+	color : #0b2972;
+	font : normal 14px arial bold;
+	margin : 0;
+	padding : 0;
+}
+blockquote img {
+	background-color : #ffffff;
+	float : left;
+	margin : 0 5px 8px 0;
+	padding : 4px;
+}
+blockquote p {
+	margin : 5px 0;
+}
+blockquote.g {
+	background-color : #FFFFFF;
+	border : none;
+	margin-left : 20px;
+	padding : 0;
+}
+pre {
+	font-family : arial,helvetica,sans-serif;
+	font-style : normal;
+}
+form {
+	margin : 0;
+	padding : 0;
+}
+address {
+	color : #00276F;
+	font-style : normal;
+	font-weight : bold;
+	line-height : 15px;
+}
+#contactfooter {
+	margin : 10px;
+	line-height : 19px;
+}
+.seProfileFormEditor {
+	height : 350px;
+}
+.seProfileFormEditor span.seformField {
+	float : left;
+}
+.seProfileFormEditor div label.SEProfileFormLabel {
+	float : left;
+}
+#SEProfileFormResearchInterests div span input {
+	vertical-align : inherit;
+}
+div.listIndividualWrapper p, div.listIndividualWrapperCondensed p {
+	margin : .25em 0 .75em 0;
+}
+div.listIndividualWrapper img, div.listIndividualWrapperCondensed img {
+	max-width : 80px;
+	border : 1px solid #CCCCCC;
+	margin : 0 10px 10px 0;
+	float : left;
+	padding : 5px;
+	background : #fff;
+}
+div.listIndividualWrapper h4 a:hover, div.listIndividualWrapperCondensed h4 a:hover {
+	color : #4c6699;
+	text-decoration : underline;
+}
+div.listIndividualWrapper h4 a, div.listIndividualWrapperCondensed h4 a {
+	color : #4c6699;
+	text-decoration : none;
+}
+div.listIndividualWrapper {
+	padding : 0 20px 10px 20px;
+	clear : both;
+	margin : 15px 0 15px 0;
+	overflow : hidden;
+}
+div.listIndividualWrapperCondensed {
+	width : 95%;
+	float : left;
+	margin : 0 2.5% 10px 2.5%;
+}
+div.listIndividualWrapper h4 {
+	font-weight : bold;
+	font-size : 1.2em;
+	line-height : 19px;
+	color : #4c6699;
+	margin : 0;
+}
+div.listIndividualWrapperCondensed h4 {
+	font-size : 1.2em;
+	margin : 0;
+	line-height : 19px;
+	font-weight : bold;
+	color : #888;
+}
+div.altListColor div.flex-25-right, div.altList div.flex-25-right {
+	margin : 0;
+}
+div.listIndividualWrapper p a, div.listIndividualWrapperCondensed p a {
+	color : #4c689a;
+}
+table.table_simple .white {
+	background : #fff;
+}
+table.table_simple .yellow {
+	background : #fff1bf;
+}
+table.table_simple tr td {
+	background-color : #fff;
+	border-right : 1px solid #ddd;
+	border-bottom : 1px solid #ddd;
+	padding : 4px;
+	vertical-align : text-top;
+}
+table.table_simple tr td.empty {
+	background : #ffffff !important;
+}
+table.table_simple tr th {
+	padding : 4px;
+	border-right : 1px solid #ddd;
+	border-bottom : 1px solid #ddd;
+	border-top : 1px solid #ddd;
+	text-align : left;
+	background : #e4f3ff;
+	vertical-align : text-top;
+	font-weight : bold;
+}
+table.table_simple .blue {
+	background : #e4f3ff;
+}
+table.table_simple {
+	background : #fff;
+	margin : 0 0 20px 0;
+	border-spacing : 0px;
+	width : 100%;
+	line-height : 1.5;
+	border-left : 1px solid #DDD !important;
+}
+.addressAside {
+	float : left;
+	width : 215px;
+	margin : 30px 10px;
+}
+.addressAside h2 {
+	color : #0B2972;
+	font-weight : bold;
+	font-size : 14px;
+	margin : 0 0 5px 0;
+}
+.addressAside p {
+	border-left : solid 4px #889bbd;
+	display : block;
+	float : left;
+	font-size : 12px;
+	margin : 8px 0 0 0;
+	padding-left : 10px;
+	color : #272727;
+	line-height : 17px;
+}
+div.contactListBorder {
+	padding-left : 3%;
+	margin : 20px 0;
+	border-left : #e7e9eb 4px solid;
+	width : 96%;
+	float : left;
+}

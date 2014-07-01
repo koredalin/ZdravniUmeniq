@@ -1,0 +1,442 @@
+
+/* SAI Styles */
+/* ----------------------------------------------------------------- */
+
+.selectedOptions {display:none;}
+.clearOptions {cursor:pointer;display:none;padding:12px;}
+.optionsActionSet {padding:12px;display:none;}
+.optionsActionSet input {}
+.optionsTitle {display:block;font-size:14px;font-weight:bold;margin:9px 0;padding:4px 0;}
+.optionsBlock {display:block;height:200px;overflow:auto;overflow-x:hidden;position:relative;}
+#genderSearch .optionsBlock {height:auto;}
+/*.optionsBlock ul { list-style-type:none;}
+.optionsBlock ul li input {clear:both;float:left;}
+.optionsBlock ul li label {display:inline;float:left;margin-left:14px;white-space:normal;}*/
+
+#physicianSearch.activeSearch .selectedOptions, #physicianSearch.activeSearch .optionsActionSet {display:block;}
+#physicianSearch.activeSearch .selectedOptions ul {list-style:none;margin:0;padding:0;}
+#physicianSearch.activeSearch .selectedOptions ul li {background-image:url(/sebin/custom/hopkins_apps/remove-option.gif);background-position:left top;background-repeat:no-repeat;padding-left:17px;}
+
+#physicianSearch .optionsBlockContainer { height:200px;overflow:auto; display: block; }
+#extendedSearch .optionsBlockContainer .termLetter { font-weight: bold; }
+#extendedSearch .optionsBlockContainer { height:200px;overflow:auto; display: block; width: 199px; padding:0 15px 15px; width: 177px;}
+
+
+#physicianSearch.activeSearch .optionsBlockContainer {display:none;overflow:visible;}
+
+#physicianSearch.activeSearch #extendedSearch {display:none;}
+#physicianSearchRefinement #physicianSearch.activeSearch #extendedSearch {display:none;}
+#physicianSearch.activeSearch #languagesBlockContainer, #physicianSearch.activeSearch #locationsBlockContainer, #physicianSearch.activeSearch #specialtiesBlockContainer,
+#physicianSearchRefinement #physicianSearch.activeSearch #languagesBlockContainer, 
+#physicianSearchRefinement #physicianSearch.activeSearch #locationsBlockContainer, 
+#physicianSearchRefinement #physicianSearch.activeSearch #specialtiesBlockContainer{position:fixed;display:none;z-index:999;padding:8px;}
+
+#physicianSearch.activeSearch .clearOptions {display:block;}
+
+#physicianSearchRefinement .optionsBlock {width:169px;}
+#physicianSearchRefinement .optionsBlock ul {margin:0;padding:0; list-style: none;}
+#physicianSearchRefinement .optionsBlock ul li ul {margin:2px;padding:2px;}
+#physicianSearchRefinement .optionsBlock li {white-space:normal;}
+
+#physicianSearchRefinement #physicianSearch.activeSearch .moreSearchOptions {display:none;}
+
+#physicianSearchRefinement #physicianSearchFormContainer {width:190px;}
+
+/* Modal Pop-Up  */
+/* ----------------------------------------------------------------- */
+
+#physicianSearch.activeSearch .clearOptions { background-color: #CCCCCC; display: block; }
+#physicianSearch.activeSearch .optionsBlock ul { margin: 0; padding: 0; list-style: none; }
+#physicianSearch.activeSearch .optionsBlock ul li ul { margin: 4px 12px; padding: 4px 12px;}
+#physicianSearch.activeSearch .optionsBlock li { border-bottom:1px dotted #CCCCCC; color:#4A4A4A; font-size:12px; font-style:normal; line-height:19px; margin: 0; line-height: 6px; padding: 0; }
+#physicianSearch.activeSearch .optionsBlock li input { float: left; }
+#physicianSearch.activeSearch .optionsBlock li label { display: block; margin-left: 24px; line-height: 19px; }
+#physicianSearch.activeSearch .optionsBlock li ul li label {width:auto;}
+#physicianSearch.activeSearch .optionsBlock li span.optionListCloser { clear:both;display:inline-block;height:0;margin:0;overflow:hidden;padding:0; }
+#physicianSearch.activeSearch .optionsActionSet { background-color: #CCCCCC; display: block; }
+#physicianSearch.activeSearch .optionsBlock .termLetter { clear:both; display:block; font-weight:bold; font-size: 14px; padding: 5px; padding-left: 10px; background-color: #EEEEEE;}
+
+#physicianSearchRefinement #physicianSearchFormContainer {width:190px;}
+#physicianSearchRefinement .physicianSearchTextInput {width:102px;}
+
+#physicianProfileDialog #toolBar {padding:0 10px;width:auto;}
+#physicianProfileDialog #toolBar .addthis_toolbox, .jhm-modal .addthis_toolbox {width:100%;position:relative !important;padding:0;box-shadow:none;}
+#modalContent #modalToolBar .addthis_toolbox { width: 96% !important; padding:2%;}
+
+
+/* Landing Page (Search) */
+/* ----------------------------------------------------------------- */
+
+div#physicianSearchForm div#physicianSearchTabSet .searchTypeTitle { display: block; width: 710px; margin: 0; background: url(/sebin/l/u/doc_searchtab_bg.jpg) top left no-repeat; height: 20px; padding: 12px; cursor: pointer; margin-top: 3px;}
+div#physicianSearchForm div#physicianSearchTabSet .searchTypeTitle:hover { background: url(/sebin/j/x/doc_searchtab_bg_over.jpg ) top left no-repeat; }
+div#physicianSearchForm div#physicianSearchTabSet .searchTypeTitle h4 { margin:0; padding: 0; color: #FFFFFF; font-size: 16px; font-weight: normal;}
+div#physicianSearchForm div#physicianSearchTabSet .searchFormSet input.physicianSearchTextInput { background: url(/sebin/r/d/doc_searchbox.jpg) top left no-repeat; border: none; height: 24px; margin:0; padding:3px; width:240px; font-size: 14px; color: #4a4a4a;}
+div#physicianSearchForm div#physicianSearchTabSet .searchFormSet input.physicianSearchButton { background: url(/sebin/z/h/doc_go.jpg) top left no-repeat; border: none; height: 30px; margin:0; padding:0; width:45px; cursor: pointer; font-weight: bold; margin-left: -3px; color: #254c97; font-size: 13px;}
+div#physicianSearchForm div#physicianSearchTabSet .searchFormSet input#locationSearchSubmit { background: url(/sebin/p/w/doc_go_2.jpg) top left no-repeat; width: 47px; height: 27px; cursor: pointer; font-weight: bold;  padding: 0 11px 4px 0; color: #254c97; border: none; font-size: 14px; margin-left: 20px;} 
+div#physicianSearchForm div#physicianSearchTabSet #lastNameSearch div.searchTypeContainer { width: 710px; background: url(/sebin/x/y/doc_lastnamesearch_bg.jpg) top right no-repeat; padding: 0; margin: 0;  height: 140px; }
+div#physicianSearchForm div#physicianSearchTabSet #expertiseSearch div.searchTypeContainer { width: 710px; background: url(/sebin/z/j/doc_expertisesearch_bg.jpg) top right no-repeat; padding: 0; margin: 0;  height: 140px; }
+div#physicianSearchForm div#physicianSearchTabSet #locationSearch div.searchTypeContainer { width: 710px; background: url(/sebin/d/k/doc_locationsearch_bg.jpg) top right no-repeat; padding: 0; margin: 0;  height: 140px; }
+div#physicianSearchForm div#physicianSearchTabSet .searchFormSet .searchTypeSearch { padding: 20px 30px 0 30px; display: block; }
+div#physicianSearchForm div#physicianSearchTabSet .searchFormSet h5 { margin:0; padding: 0; padding-bottom: 10px;}
+div#physicianSearchForm div#physicianSearchTabSet .searchFormSet span.alphabet { display: block; margin: 10px 0; padding-left: 30px;}
+div#physicianSearchForm div#physicianSearchTabSet .searchFormSet span.alphabet a { font-size: 16px; color: #254c97; text-decoration: none; display:block; float:left; font-size:16px;  width:20px; }
+div#physicianSearchForm div#physicianSearchTabSet .searchFormSet span.alphabet a:hover  { text-decoration: underline; }
+div#physicianSearchForm div#physicianSearchTabSet .searchFormSet span.moreSearchOptions a { background: url(/sebin/l/w/doc_btn_moresearchoptions.png) top left no-repeat; float: right; color:#254C97; display:block; font-size:11px; font-weight:bold; height:23px; padding:2px 15px 2px 4px; text-decoration:none; width:130px; }
+
+div#physicianSearchForm div.searchExtendedOptions {margin-top: 20px; clear: both; }
+
+div#physicianSearchForm div#physicianSearchTabSet .searchFormSet #locationSelections { padding: 0 30px; display: block; float: left; }
+div#physicianSearchForm div#physicianSearchTabSet .searchFormSet #locationSelections li { width: 200px; }
+
+div#physicianSearchForm span.moreOptionsAction { display: none; }
+
+/* More Options Pop-Up */
+/* ----------------------------------------------------------------- */
+
+/*div.moreOptionsPanel span#locationsActionSet input#locationActionSetSave { float: right; width: 40px; }
+div.moreOptionsPanel span#locationsActionSet input#locationActionSetCancel { float: left; width: 40px; }*/
+
+/* Search Refinements */
+/* ----------------------------------------------------------------- */
+
+div#physicianSearchRefinement { width: 199px; margin: 0; padding: 0; overflow:hidden; }
+div#physicianSearchRefinement { margin-top: 10px; color: #4a4a4a; }
+div#physicianSearchRefinement a:hover { background-color: transparent; color: #254C97;}
+div#physicianSearchRefinement div.startNewSearchContainer a { background: url(/sebin/b/z/doc_btn_backtosearch.jpg) top left no-repeat; display: block; width: 188px; height: 30px; color: #254c97; text-decoration: none; font-weight: bold; padding: 7px 20px; margin-left: 5px;}
+
+div#physicianSearchRefinement div#physicianSearchTabSet { width: 199px; }
+div#physicianSearchRefinement div#physicianSearchTabSet .searchFormSet { background: url(/sebin/e/f/doc_activesearch_bg.gif) top left no-repeat; width: 199px; margin: 0; padding: 0; }
+div#physicianSearchRefinement div#physicianSearchTabSet span.searchTypeTitle { display: block; padding: 15px; padding-bottom: 0; }
+div#physicianSearchRefinement div#physicianSearchTabSet span.searchTypeSearch { display: block; padding: 0 15px; }
+div#physicianSearchRefinement div#physicianSearchTabSet span.alphabet { display: block; padding: 15px; background: url(/sebin/a/f/doc_activesearch_bottom.gif) bottom left no-repeat; clear: both;}
+div#physicianSearchRefinement h4 { margin: 0; margin-bottom: 10px; color: #254c97; }
+
+div#physicianSearchRefinement div#physicianSearchTabSet .searchFormSet input.physicianSearchTextInput { background: url(/sebin/r/d/doc_searchbox.jpg) top left no-repeat; border: none; height: 24px; margin:0; padding:3px; font-size: 14px; color: #4a4a4a; width: 118px; float:left;}
+div#physicianSearchRefinement div#physicianSearchTabSet .searchFormSet input.physicianSearchButton { background: url(/sebin/z/h/doc_go.jpg) top left no-repeat; border: none; height: 30px; margin:0; padding:0; width:45px; cursor: pointer; font-weight: bold; float:right;}
+
+div#physicianSearchRefinement div.searchExtendedOptions .moreOptionsAction { background: url(/sebin/l/w/doc_btn_moresearchoptions.png) top left no-repeat; color:#254C97; display:block; font-size:11px; font-weight:bold; height:23px; padding: 4px 0 0 6px; text-decoration:none; width:130px; margin: 10px 5px; text-align:left;}
+
+div#physicianSearchRefinement div#physicianSearchTabSet #locationSearch { background: url(/sebin/k/c/doc_search_bg.gif) top left no-repeat; width: 199px; margin: 0; padding: 0; }
+div#physicianSearchRefinement div#physicianSearchTabSet #locationSearch span.selectedOptions { display: block; padding: 15px; background: url(/sebin/a/f/doc_activesearch_bottom.gif) bottom left no-repeat; }
+div#physicianSearchRefinement div#physicianSearchTabSet #locationSearch span.searchNote {display: block; padding-bottom: 10px;}
+div#physicianSearchRefinement div#physicianSearchTabSet #locationSearch input#locationSearchSubmit { background: url(/sebin/p/w/doc_go_2.jpg) top left no-repeat; width: 47px; height: 27px; cursor: pointer; font-weight: bold;  padding: 0 11px 4px 0; color: #254c97; float: right; border: none; font-size: 14px;} 
+
+span.alphabet { display: block; margin: 10px 0 0 0; }
+span.alphabet a { font-size: 12px; color: #254c97; text-decoration: none; }
+span.alphabet a:hover  { text-decoration: underline; } 
+
+div#moreLocationSearch {background: url(/sebin/k/c/doc_search_bg.gif) top left no-repeat; width: 199px; margin-bottom: 10px; }
+div#moreLocationSearch span.searchTypeTitle { display: block; padding: 15px; } 
+div#moreLocationSearch span#moreLocationSelections { background: url(/sebin/a/f/doc_activesearch_bottom.gif) bottom left no-repeat; width: 169px; padding: 15px; padding-top: 0; }
+
+div#languageSearch {background: url(/sebin/k/c/doc_search_bg.gif) top left no-repeat; width: 199px; margin-bottom: 10px; }
+div#languageSearch span.searchTypeTitle { display: block; padding: 15px; } 
+div#languageSearch span.alphabet { padding: 0 15px; }
+div#languageSearch span#languageSelections { background: url(/sebin/a/f/doc_activesearch_bottom.gif) bottom left no-repeat; width: 169px; padding: 15px; padding-top: 0;  }
+
+div#genderSearch {background: url(/sebin/k/c/doc_search_bg.gif) top left no-repeat; width: 199px; margin-bottom: 10px;}
+div#genderSearch span.searchTypeTitle { display: block; padding: 15px; padding-bottom: 0;} 
+div#genderSearch span#genderOptionList { background: url(/sebin/a/f/doc_activesearch_bottom.gif) bottom left no-repeat; width: 169px; padding: 15px; padding-top: 0;  }
+div#genderSearch span#genderOptionList li { border-bottom: none; clear:both;}
+
+
+div#extendedSearch input.physicianSearchButton { background: url(/sebin/p/w/doc_go_2.jpg) top left no-repeat; width: 47px; height: 27px; cursor: pointer; font-weight: bold;  padding: 0 11px 4px 0; color: #254c97; float: right; border: none; font-size: 14px; margin-right: 20px; margin-bottom: 20px;} 
+div#extendedSearch #moreLocationSearch, div#extendedSearch #languageSearch, div#extendedSearch #genderSearch { float: left; margin-right: 10px; }
+div#extendedSearch span.searchTypeTitle h4 { margin: 0; padding: 0; margin-bottom: 10px; }
+
+
+#physicianSearch.activeSearch .optionsBlock ul {margin:0;padding:0;}
+#physicianSearch.activeSearch .selectedOptions ul li { background: url(/sebin/d/y/doc_removeoption.jpg) center left no-repeat; border-bottom: 1px dashed #CCCCCC; padding: 3px 0 3px 17px;} 
+#physicianSearch.activeSearch .selectedOptions ul li:hover { text-decoration: underline; }
+
+/* Search Results */
+/* ----------------------------------------------------------------- */
+
+#physicianSearchResultsContainer { width: 100%; margin: 0; padding: 0;overflow:hidden;  }
+#physicianSearchResultsContainer .resultItem { background: none; cursor: pointer; padding: 20px; }
+#physicianSearchResultsContainer .resultItem:hover { background: transparent url(/sebin/d/g/doc_result_bg.jpg) bottom left repeat-x; }
+#physicianSearchResultsContainer .resultItem img { float: left; width: 80px; padding: 5px; border: 1px solid #CCCCCC; margin-right: 10px; }
+#physicianSearchResultsContainer .resultItem h4 { margin: 0; margin-bottom: 10px; }
+#physicianSearchResultsContainer .resultItem h4 a { font-size: 14px; color: #4c6699; font-weight: bold; text-decoration: none;}
+
+#physicianDataFilteredResults .resultItem, #physicianDataSearchResults .resultItem {clear:both;display:block;}
+#physicianDataFilteredResults .resultItem.activeItem, #physicianDataSearchResults .resultItem.activeItem {cursor:pointer}
+
+#physicianSearchResultsContainer.photobooks-flex, #physicianDataSearchResultsSimpleList.photobooks-flex, #physicianDataFilteredResults.photobooks-flex { width: 100%; margin: 0 0 1em 0; padding: 0;overflow:hidden; line-height: 19px; }
+#physicianSearchResultsContainer.photobooks-flex .resultItem, #physicianDataSearchResultsSimpleList.photobooks-flex .resultItem, #physicianDataFilteredResults.photobooks-flex .resultItem { background: none; cursor: pointer; padding: 20px; }
+#physicianSearchResultsContainer.photobooks-flex .resultItem:hover, #physicianDataSearchResultsSimpleList.photobooks-flex .resultItem:hover, #physicianDataFilteredResults.photobooks-flex .resultItem:hover { background: transparent url(/sebin/d/g/doc_result_bg.jpg) bottom left repeat-x; }
+#physicianSearchResultsContainer.photobooks-flex .resultItem img, #physicianDataSearchResultsSimpleList.photobooks-flex .resultItem img, #physicianDataFilteredResults.photobooks-flex .resultItem img { float: left; width: 80px; padding: 5px; border: 1px solid #CCCCCC; margin-right: 10px; }
+#physicianSearchResultsContainer.photobooks-flex .resultItem h4, #physicianDataSearchResultsSimpleList.photobooks-flex .resultItem h4, #physicianDataFilteredResults.photobooks-flex .resultItem h4 { margin:0 0 6px 0; }
+#physicianSearchResultsContainer.photobooks-flex .resultItem h4 a, #physicianDataSearchResultsSimpleList.photobooks-flex .resultItem h4 a, #physicianDataFilteredResults.photobooks-flex .resultItem h4 a { font-size: 14px; color: #4c6699; font-weight: bold; text-decoration: none;}
+#physicianSearchResultsContainer.photobooks-flex .resultItem h4 a:hover, #physicianDataSearchResultsSimpleList.photobooks-flex .resultItem h4 a:hover, #physicianDataFilteredResults.photobooks-flex .resultItem h4 a:hover {text-decoration: underline;}
+
+/* Profile Page */
+/* ----------------------------------------------------------------- */
+
+.profileReturn { width: 540px; margin: 0; padding: 0;overflow:hidden;  }
+
+
+
+/* Right Callouts */
+/* ----------------------------------------------------------------- */
+
+.rightCallout #physicianDataFilteredResults .resultItem:hover { background: none; } 
+
+/* Center Column Layout */
+/* ----------------------------------------------------------------- */
+
+ /* auto complete */
+.autocomplete-w1 { position:absolute; top:0px; left:0px; margin:6px 0 0 6px; color: #4A4A4A; }
+.autocomplete { border-left:1px solid #CCC; border-right:1px solid #CCC; border-bottom:1px solid #CCC; background:#FFF; cursor:default; text-align:left; max-height:350px; overflow:auto; margin:-6px 6px 6px -6px; /* IE6 specific: */ _height:150px;  _margin:0; _overflow-x:hidden; }
+.autocomplete .selected { background:#F0F0F0; }
+.autocomplete div { padding:2px 5px; white-space:nowrap; overflow:hidden; }
+.autocomplete strong { font-weight:bold; color:#254C97; }
+
+/* modal home plugin css */
+
+.jhm-modal-bg {position:fixed;height:100%;width:100%;background:#000;background:rgba(0,0,0,.8);zoom: 1;filter: alpha(opacity=80);opacity: 0.8;z-index:1000;display:none;top:0;left:0;}
+.jhm-modal {font-size:12px;line-height:19px;display:none;top:100px;left:50%;width:800px;background:#fff;position:absolute;z-index:1001;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;-moz-box-shadow:0 0 10px rgba(0,0,0,.4);-webkit-box-shadow:0 0 10px rgba(0,0,0,.4);-box-shadow: 0 0 10px rgba(0,0,0,.4);margin:0 0 0 -400px;}
+.jhm-modal-content {padding:20px;}
+.jhm-modal.small {width:200px;margin-left:-140px;}
+.jhm-modal.medium {width:400px;margin-left:-240px;}
+.jhm-modal.large {width:600px;margin-left:-340px;}
+.jhm-modal.xlarge {width:800px;margin-left:-440px;}
+.jhm-modal .jhm-modal-close {font-size:22px;position:absolute;top:8px;right:11px;color:#aaa;text-shadow:0 -1px 1px rbga(0,0,0,.6);font-weight:bold;cursor:pointer;z-index:1005;}
+.jhm-modal .jhm-modal-loading {width:100%;background:#fff url('http://www.hopkinsmedicine.org/sebin/custom/hopkins_apps/ajax-loader.gif') no-repeat center;height:150px;display:none;}
+.jhm-modal {color:#4A4A4A;font-size:12px;line-height:19px;margin-top:25px;padding:15px 0 0 0;}
+.jhm-modal .researcherProfile {padding:10px;}
+.jhm-modal h1.mainBodyContentTitle {padding:10px 0 0 0px;}
+.jhm-modal .profileReturn {display:none;}
+.jhm-modal .modalPrintPage {float:right}
+
+@media screen and (max-width: 860px) {
+.jhm-modal {left:0;width:96%;padding:0;margin:0 2%;}
+.jhm-modal-content {padding:0px;}
+.jhm-modal .modalPrintPage {margin:8px 45px 0 0 !important;background:none !important;}
+}
+
+/* new faculty profile directory 8.9.2013 */
+
+.tab-module {width:100%;clear:both;float:left;margin:0 0 20px 0;}
+.tab-module ul.tab-titles {width:100%;float:left;clear:both;height:36px;padding:0;margin:0;}
+.tab-module ul.tab-titles li {float:left;list-style:none;height:14px;}
+.tab-module ul.tab-titles li a {float:left;position:relative;font-size:14px;line-height:36px;height:36px;font-family: 'Gill Sans', 'Gill Sans MT', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-weight:300;color:#656565;text-shadow:0 1px 0 #fff;padding:0 15px;background:#eaeaea;text-transform:uppercase;text-decoration:none;text-align:center;-webkit-border-top-right-radius: 10px;-moz-border-radius-topright: 10px;border-top-right-radius: 10px;border-right:2px solid #fff;}
+.tab-module ul.tab-titles li.active a {background:#5479bf;color:#fff;text-shadow:0 1px 0 rgba(0,0,0,.5);}
+.tab-module ul.tab-titles .tab-doctors a {z-index:3;}
+.tab-module ul.tab-titles .tab-researchers a {z-index:2;margin:0 0 0 -35px;padding-left:45px !important;}
+.tab-module ul.tab-titles .tab-faculty a {z-index:1;margin:0 0 0 -35px;padding-left:45px !important;}
+.tab-module ul.tabs {margin:0;list-style:none;float:left;width:100%;padding:0;position:relative;overflow:hidden;border:0 none;border:1px solid #5479BF;border-top:4px solid #5479BF;}
+.tab-module ul.tabs li.tab {clear:both;}
+.tab-module ul.tabs li.tab h3 {font-size:18px;line-height:18px;font-weight:400;color:#4c689a;margin:0 0 10px 0;padding:0;clear:both;}
+.tab-wide {display:inline;}
+.tab-narrow {display:none;}
+.tab-module ul.tabs li.tab .tab-top {padding:15px;background:#fff;clear:both;}
+.tab-module ul.tabs li.tab .tab-bottom {padding:15px;background:#f2f2f2;clear:both;}
+.tab-module ul.a-z {padding:0;overflow:hidden;}
+.tab-module ul.a-z li {list-style:none;float:left;font-size:14px;line-height:16px;font-weight:400;}
+.tab-module ul.a-z li a {color:#666;text-decoration:none;padding:4px;border:0 none;margin:0;width:auto;}
+.tab-module ul.a-z li a:hover {text-decoration:underline;}
+.tab-module form {width:100%;height:60px;clear:both;float:left;margin:0 0 15px 0;}
+.tab-module form input[type="text"] {margin:0;position:absolute;left:15px;top:42px;width:300px;font-size:12px;line-height:12px;color:#666;padding:7px 9px;background:#fff;border:1px solid #c2c2c2;border-radius:4px;font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;}
+.tab-module form button {position:absolute;left:340px;top:42px;font-family: 'Gill Sans', 'Gill Sans MT', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-weight:300;width:40px;text-align:center;color:#264289;text-shadow: 1px 1px 0 white;margin:0;padding:0 8px 5px 8px;font-weight:lighter;border: 1px solid #b2b1b1;-webkit-border-radius:4px;-moz-border-radius:4px;border-radius:4px;font-size:15px;line-height:28px;cursor:pointer;height:30px;background: #fefcea; /* Old browsers */background: -moz-linear-gradient(top, #fefcea 0%, #efd215 100%); /* FF3.6+ */background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#fefcea), color-stop(100%,#efd215)); /* Chrome,Safari4+ */background: -webkit-linear-gradient(top, #fefcea 0%,#efd215 100%); /* Chrome10+,Safari5.1+ */background: -o-linear-gradient(top, #fefcea 0%,#efd215 100%); /* Opera 11.10+ */background: -ms-linear-gradient(top, #fefcea 0%,#efd215 100%); /* IE10+ */background: linear-gradient(to bottom, #fefcea 0%,#efd215 100%); /* W3C */filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fefcea', endColorstr='#efd215',GradientType=0 ); /* IE6-9 */}
+.tab-module form label {float:left;font-size:12px;line-height:1.5;color:#666;font-weight:400;margin:5px 0;}
+.tab-module form input[type="radio"] {float:left;clear:left;margin:5px 5px 0 0;}
+
+.faculty-wrapper {width:100%;clear:both;float:left;}
+.faculty-wrapper .displaying {line-height:1;}
+.faculty-wrapper .displaying strong {color:#0b2972;}
+.faculty-wrapper .faculty-results-wrapper {width:100%;background:#f2f5fa;padding:0 0 5px 0;clear:both;float:left;margin:0 0 20px;}
+.faculty-wrapper .results-per-page {float:left;line-height:1.5;margin:10px 0 0 10px;}
+.faculty-wrapper .paginate {float:right;margin:0;list-style:none;margin:25px 13px 10px 0;}
+.faculty-wrapper .paginate li {float:left;display:block;margin:0 0 0 3px;font-size:12px;line-height:1;}
+.faculty-wrapper .paginate li a {color:#000;background:#fff;text-decoration:none;padding:3px 5px 2px 5px;border:1px solid #000;display:block;}
+.faculty-wrapper .paginate li span {color:#fff;background:#000;padding:3px 5px 2px 5px;border:1px solid #000;display:block;}
+.faculty-wrapper .paginate li.continued {line-height:2;}
+.faculty-wrapper .paginate li.previous span, .faculty-wrapper .paginate li.next span {display:none;}
+.faculty-wrapper .faculty-results-list {list-style:none;margin:0;padding:0 0 1em;clear:both;}
+.faculty-wrapper .faculty-results-list li {float:left;margin:0;padding:0;width:100%;margin:2.5% 2%;clear:both;}
+.faculty-wrapper .faculty-results-list li .faculty-results-list-li-inner {float:left;background:#fff;-moz-box-shadow:0 0 6px #bcc1ce;-webkit-box-shadow:0 0 6px #bcc1ce;box-shadow:0 0 6px #bcc1ce;padding:1% 1% 0;width:94%;position:relative;}
+.faculty-wrapper .faculty-results-list-img {width:14%;margin:0 10px 10px 0;float:left;}
+.faculty-wrapper .faculty-results-list-img img {padding:5px;border:1px solid #ccc;width:88%;}
+.faculty-wrapper .faculty-results-list-bio {width:48%;margin:0 10px 0 0;float:left;}
+.faculty-wrapper .faculty-results-list-bio h2 a {color:#4c689a;font-family:"Helvetica Neue", Helvetica, Arial;font-weight:bold;font-size:14px;margin:0 0 10px 0;line-height:1.25;text-decoration:none;}
+.faculty-wrapper .faculty-results-list-bio p {line-height:1.25;margin:0 0 10px 0;}
+.faculty-wrapper .faculty-results-list-bio p strong.highlight {background:#fcf58c;}
+.faculty-wrapper .faculty-results-actions {width:31%;padding:0 10px 10px 10px;float:left;background:#ffffff;background:-moz-linear-gradient(top,  #ffffff 0%, #e6e8e8 100%);background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#ffffff), color-stop(100%,#e6e8e8));background: -webkit-linear-gradient(top,  #ffffff 0%,#e6e8e8 100%);background: -o-linear-gradient(top,  #ffffff 0%,#e6e8e8 100%);background: -ms-linear-gradient(top,  #ffffff 0%,#e6e8e8 100%);background: linear-gradient(to bottom,  #ffffff 0%,#e6e8e8 100%);filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#e6e8e8',GradientType=0 );}
+.faculty-wrapper .faculty-results-actions h6 {color:#00276f;font-family:"Helvetica Neue", Helvetica, Arial;font-weight:bold;font-size:12px;margin:0 0 5px 0;line-height:1.25;}
+.faculty-wrapper .faculty-results-actions h4 {color:#4c689a;font-family:"Helvetica Neue", Helvetica, Arial;font-weight:bold;font-size:11px;margin:0 0 5px 0;line-height:1.25;}
+.faculty-wrapper .faculty-results-actions .flex-button-yellow {margin:20px 0 0 0;text-align:center;display:block;}
+.faculty-results-international {float:left;width:100%;clear:both;padding:2px 10px;margin:0 0 0 -10px;background:#c1c7d5;}
+.faculty-results-international .international-contact-button {position:absolute;bottom:-23px;right:0;padding:3px 7px;background:#c1c7d5;color:#00276F;text-decoration:none;font-family:'Gill Sans';font-size:14px;}
+.faculty-results-international .international-contact-button span {padding:3px;border-radius:3px;background:#fff;color:#00276F;height:11px;width:10px;text-align:center;display:inline-block;line-height:13px;}
+.faculty-results-international .blue-wrapper {width:100%;float:left;display:none;padding:8px 0;}
+.mainBodyContentData .faculty-results-international .blue-wrapper {width:96%;padding:8px 2%;}
+.faculty-results-international .blue-wrapper div {width:50%;float:left;}
+.faculty-results-international .blue-wrapper div:first-child {width:48%;float:left;}
+.faculty-results-international .blue-wrapper div:last-child {width:48%;float:right;}
+.faculty-results-international .blue-wrapper div * {color:#00276F;}
+.faculty-results-international .blue-wrapper div h5 {margin:5px 0;padding:0;}
+.faculty-results-international .blue-wrapper div p {margin:0;padding:0;}
+.faculty-modal-wrapper .faculty-share {float:left;width:50%;margin:0 0 15px -10px;}
+.faculty-modal-wrapper .faculty-bio-top {width:100%;background:#e8e9ed;padding:10px 20px;margin:0 0 0 -20px;clear:both;float:left;}
+.mainBodyContentData .faculty-modal-wrapper .faculty-bio-top {width:96%;padding:2%;margin:0;}
+.faculty-modal-wrapper .faculty-img {width:92px;margin:0 2% 0 0;float:left;}
+.faculty-modal-wrapper .faculty-img div {width:90px;float:left;background:#fff;border:1px solid #ccc;}
+.faculty-modal-wrapper .faculty-img img {background:#fff;margin:6%;width:88%;}
+.faculty-modal-wrapper .faculty-details {width:46%;margin:0 20px 0 0;float:left;}
+#modalContent .faculty-modal-wrapper .faculty-details {width:53%;}
+.faculty-modal-wrapper .faculty-details .credentials {margin:15px 0;}
+.faculty-modal-wrapper .faculty-details .credentials strong {margin:0 0 15px 0;}
+.faculty-modal-wrapper .faculty-details .credentials .profileData {margin:0 0 15px 0;}
+.faculty-modal-wrapper .faculty-details p {color:#0b2972;}
+.faculty-modal-wrapper .faculty-actions {width:31%;padding:0 1% 10px 1%;float:right;background:#ffffff;background:-moz-linear-gradient(top,  #ffffff 0%, #e6e8e8 100%);background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#ffffff), color-stop(100%,#e6e8e8));background: -webkit-linear-gradient(top,  #ffffff 0%,#e6e8e8 100%);background: -o-linear-gradient(top,  #ffffff 0%,#e6e8e8 100%);background: -ms-linear-gradient(top,  #ffffff 0%,#e6e8e8 100%);background: linear-gradient(to bottom,  #ffffff 0%,#e6e8e8 100%);filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#e6e8e8',GradientType=0 );}
+#modalContent .faculty-modal-wrapper .faculty-actions {width:27%;}
+.faculty-modal-wrapper .faculty-actions h6 {color:#00276f;font-family:"Helvetica Neue", Helvetica, Arial;font-weight:bold;font-size:14px;margin:5px 0;line-height:1.25;}
+.faculty-modal-wrapper .faculty-actions h2 {margin:0 0 10px 0;font-size:26px;}
+.faculty-modal-wrapper .faculty-actions h4 {color:#4c689a;font-family:"Helvetica Neue", Helvetica, Arial;font-weight:normal;font-size:13px;margin:0 0 5px 0;line-height:1.25;}
+.faculty-modal-wrapper .faculty-results-international {margin:0 0 0 -20px;padding:2px 20px;position:relative;top:0;}
+.mainBodyContentData .faculty-results-international {padding:2px 0;margin:0;width:100%;margin:0;top:0;}
+.faculty-results-wrapper .faculty-results-international {width:102%;margin:1% 0 0 -1%;}
+.faculty-modal-wrapper .faculty-bio-bottom {float:left;clear:both;margin:20px 0;width:100%;}
+.faculty-modal-wrapper .faculty-bio-bottom .left {float:left;width:23%;margin:0 2% 20px 0;}
+.faculty-modal-wrapper .faculty-bio-bottom .right {float:left;width:72%;margin:0 0 20px 0;border-left:3px solid #eaeaea;padding:0 0 0 2%;}
+.faculty-modal-wrapper .faculty-bio-bottom .hr {border-top:3px solid #eaeaea;margin:0 0 20px 0;width:100%;clear:both;}
+.faculty-modal-wrapper .faculty-bio-bottom .left ul {padding:0 0 0 20px;list-style:disc;margin:0 0 20px 0;}
+.faculty-modal-wrapper .faculty-bio-bottom .more-resources {}
+.faculty-modal-wrapper .faculty-bio-bottom .biography-text {float:left;clear:both;position:relative;overflow:hidden;padding:0 0 60px;}
+.faculty-modal-wrapper .faculty-bio-bottom .biography-more-wrapper {position:absolute;bottom:0;width:100%;float:left;clear:both;background:url(http://hopkinsmedicine.org/sebin/t/g/biography-wrapper.png) repeat-x scroll 0 0 transparent;padding:0 0 20px 0;}
+.faculty-modal-wrapper .more-button {display:none;float:left;clear:both;padding:5px 7px;line-height:1;font-size:12px;background:#fff;border:1px solid #ddd;-moz-border-radius:3px;-webkit-border-radius:3px;border-radius:3px;margin:20px 0 0 0;text-decoration:none;color:#284a7a;}
+.faculty-modal-wrapper .bio-buttons {width:100%;float:left;list-style:inline;clear:both;padding:0;margin:10px 0;}
+.faculty-modal-wrapper .bio-buttons li {float:left;margin:0 10px 0 0;list-style:none;height:35px;}
+.faculty-modal-wrapper .bio-buttons li a {display:block;box-shadow:0 1px 2px rgba(0,0,0,.15);border:1px solid #aaaeaf;border-radius:3px;font-size:14px;line-height:1;font-weight:lighter;font-family:'Gill Sans', 'Helvetica Neue', Arial, Helvetica, sans-serif;text-decoration:none;color:#1d306a !important;padding:5px 7px;background: #eaf4f5;background: -moz-linear-gradient(top,  #eaf4f5 0%, #cadce0 100%);background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#eaf4f5), color-stop(100%,#cadce0));background: -webkit-linear-gradient(top,  #eaf4f5 0%,#cadce0 100%);background: -o-linear-gradient(top,  #eaf4f5 0%,#cadce0 100%);background: -ms-linear-gradient(top,  #eaf4f5 0%,#cadce0 100%);background: linear-gradient(to bottom,  #eaf4f5 0%,#cadce0 100%);filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#eaf4f5', endColorstr='#cadce0',GradientType=0 );}
+.faculty-modal-wrapper .bio-buttons .email span {background:url(http://hopkinsmedicine.org/sebin/a/t/blue-button-email.gif) no-repeat 0 1px;padding:0 0 0 26px;}
+.faculty-modal-wrapper .bio-buttons .pdf span {background:url(http://hopkinsmedicine.org/sebin/u/x/blue-button-pdf.gif) no-repeat 0 0;padding:0 0 0 22px;}
+.faculty-modal-wrapper .bio-buttons .linkedin span {background:url(http://hopkinsmedicine.org/sebin/m/j/blue-button-linkedin.gif) no-repeat 0 0;padding:0 0 0 21px;}
+.faculty-modal-wrapper .faculty-bio-tabs {width:100%;clear:both;padding:0;float:left;margin:0;}
+.faculty-modal-wrapper .faculty-bio-tabs li.tab-li {width:100%;clear:both;list-style:none;margin:2px 0 0 0;float:left;}
+.faculty-modal-wrapper .faculty-bio-tabs .tab-content {display:none;float:left;padding:10px 3%;width:94%;border:1px solid #dbd9da;}
+.faculty-modal-wrapper .faculty-bio-tabs li.tab-li a.tab-link {border:1px solid #dbd9da;float:left;color:#3f5fb0;text-shadow:0 1px 1px #fff;width:94%;padding:1.25% 3% 0.5%;font-size:14px;background:#dbd9da;text-decoration:none;line-height:1;}
+.faculty-modal-wrapper .faculty-bio-tabs li.tab-li a.tab-link span {display:block;float:right;width:15px;height:15px;color:#3F5FB0;background:white;border:1px solid #cccacb;text-align:center;padding:4px 3px 2px 3px;margin:-5px -4px 0 0;-moz-border-radius:3px;-webkit-border-radius:3px;border-radius:3px;}
+.faculty-modal-wrapper .faculty-bio-tabs li.research img {float:left;margin:0 10px 10px 0;padding:7px;border:1px solid #ccc;max-width:30%;width:30%;}
+.faculty-modal-wrapper .faculty-bio-tabs .tab-content h3 {border-bottom:1px solid #ccc;}
+.faculty-modal-wrapper .faculty-bio-tabs .tab-content h3 span {float:right;}
+.faculty-modal-wrapper .faculty-bio-tabs .tab-content h3 span a {font-weight:normal;font-size:.8em;color:#3f5fb0;}
+.faculty-modal-wrapper .faculty-bio-tabs .tab-content ul {list-style-type:disc;margin-bottom:1.5em;overflow:hidden;padding-left:16px;}
+.faculty-modal-wrapper h3 {padding-top: 7px;}
+.faculty-modal-wrapper ul {margin-bottom:1.5em;}
+.faculty-modal-wrapper .faculty-bio-tabs .tab-content .location, .faculty-modal-wrapper .faculty-bio-tabs .tab-content .additionalLocation {margin:0 0 15px 0;}
+.faculty-modal-wrapper .flex-button-yellow {font-size:16px;clear:both;float:left;margin:20px 0;word-wrap:normal;}
+
+/* search page styles */
+
+.searchPageCount {float:left;text-align:left;}
+.searchPagination {clear:right;}
+
+/* hcgh custom styles woot! */
+
+.subLeft3ColRight .faculty-details {width:35%;}
+.subLeft3ColRight .faculty-actions {width:37%;}
+.subLeft3ColRight .faculty-bio-bottom .left {width:30%;}
+.subLeft3ColRight .faculty-bio-bottom .right {width:64%;}
+
+/* media queries for list pages */
+
+@media screen and (max-width: 1004px) {
+
+.faculty-wrapper .faculty-results-list li {margin:2% 2% 4%;}
+.faculty-wrapper .faculty-results-list li .faculty-results-list-li-inner {width:92%;padding:2% 2% 0;}
+.faculty-wrapper .faculty-results-list-img {width:20%;margin:0 2% 2% 0;}
+.faculty-wrapper .faculty-results-list-bio {width:78%;float:right;margin:0;}
+.faculty-wrapper .faculty-results-actions {width:78%;float:right;background:none;padding:15px 0 0 0;border-top:1px solid #ddd;margin:7px 0 10px 0;}
+.faculty-wrapper .faculty-results-actions .flex-button-yellow {width:35%;}
+.faculty-results-wrapper .faculty-results-international {width:104%;margin:1% 0 0 -2%;}
+
+}
+
+@media screen and (max-width: 740px) {
+
+.faculty-wrapper .faculty-results-list li {margin:2% 2% 5%;}
+.faculty-wrapper .faculty-results-list-img {width:25%;}
+.faculty-wrapper .faculty-results-list-bio {width:73%;}
+.faculty-wrapper .faculty-results-actions {width:73%;}
+.faculty-wrapper .faculty-results-actions .flex-button-yellow {width:40%;}
+
+}
+
+@media screen and (max-width: 480px) {
+
+.faculty-wrapper .faculty-results-list li {margin:2% 2% 9%;}
+.faculty-wrapper .faculty-results-list li .faculty-results-list-li-inner {width:90%;padding:3% 3% 0;}
+.faculty-wrapper .faculty-results-list-img {width:35%;}
+.faculty-wrapper .faculty-results-list-bio {width:63%;}
+.faculty-wrapper .faculty-results-actions {width:63%;}
+.faculty-wrapper .faculty-results-actions .flex-button-yellow {width:100%;padding-left:0;padding-right:0;}
+.mainBodyContentData .faculty-results-international .blue-wrapper {width:94%;padding:8px 3%;}
+.faculty-results-wrapper .faculty-results-international {width:106%;margin:1% 0 0 -3%;}
+.faculty-results-international .blue-wrapper div:first-child {margin:0 0 15px 0;}
+.faculty-results-international .blue-wrapper div:first-child, .faculty-results-international .blue-wrapper div:last-child {width:100%;}
+.jhm-modal .modalPrintPage {display:none;}
+#modalContent #modalToolBar .addthis_toolbox { width: 90% !important; padding:2%;}
+}
+
+/* media queries for modal code only */
+
+@media screen and (max-width: 860px) {
+
+#modalContent .faculty-bio-top {width:96%;padding:2%;margin:35px 0 0 0;}
+#modalContent .faculty-modal-wrapper .faculty-img {width:102px;}
+#modalContent .faculty-modal-wrapper .faculty-img div {width:100%;}
+#modalContent .faculty-modal-wrapper .faculty-details {width:47%;}
+#modalContent .faculty-results-international {width:96%;padding:2px 2%;margin:0;}
+#modalContent .faculty-bio-bottom, #modalContent .faculty-bio-tabs {width:96%;padding:2%;}
+#modalContent .flex-button-yellow {margin:20px 2%;}
+
+}
+
+@media screen and (max-width: 620px) {
+
+#modalContent .faculty-bio-top .faculty-details {width:61%;margin:0;}
+#modalContent .faculty-bio-top .faculty-actions {width:94%;clear:both;padding:3%;margin:3% 0;}
+#modalContent .faculty-results-international {width:96%;margin:0;padding:2px 2%;top:0;}
+#modalContent .faculty-bio-bottom {padding:0 2%;}
+#modalContent .faculty-bio-bottom .left {width:100%;clear:both;margin:0 0 20px;padding:0;border-bottom:3px solid #eaeaea;}
+#modalContent .faculty-bio-bottom .right {width:100%;clear:both;margin:0 0 20px;padding:0;border:0 none;}
+#modalContent .faculty-bio-bottom .biography-text {padding:0 0 25px;}
+#modalContent .faculty-results-international .blue-wrapper div {width:100%;clear:both;margin:2% 0;}
+#modalContent .faculty-bio-tabs {width:100%;padding:0;}
+#modalContent .faculty-bio-tabs li.tab-li a.tab-link {padding:2.5% 3% 1.5%;}
+#modalContent .flex-button-yellow {margin:20px 2%;}
+#modalContent .jhm-modal .modalPrintPage {float:left;}
+
+}
+
+/* media queries for profiles non-modal */
+
+@media screen and (max-width: 860px) {
+
+.right-col-doctors .faculty-bio-top {width:96%;padding:2%;margin:35px 0 0 0;}
+.right-col-doctors .faculty-modal-wrapper .faculty-img {width:102px;}
+.right-col-doctors .faculty-modal-wrapper .faculty-img div {width:100%;}
+.right-col-doctors .faculty-modal-wrapper .faculty-details {width:44%;margin: 0 1% 0 0;}
+.right-col-doctors .faculty-results-international {width:96%;padding:2px 2%;margin:0;}
+.right-col-doctors .faculty-bio-bottom, #modalContent .faculty-bio-tabs {width:96%;padding:2%;}
+.right-col-doctors .flex-button-yellow {margin:20px 2%;}
+
+}
+
+@media screen and (max-width: 620px) {
+
+.right-col-doctors .faculty-bio-top .faculty-details {width:61%;margin:0;}
+.right-col-doctors .faculty-bio-top .faculty-actions {width:94%;clear:both;padding:3%;margin:3% 0;}
+.right-col-doctors .faculty-results-international {width:96%;margin:0;padding:2px 2%;top:0;}
+.right-col-doctors .faculty-bio-bottom {padding:0 2%;}
+.right-col-doctors .faculty-bio-bottom .left {width:100%;clear:both;margin:0 0 20px;padding:0;border-bottom:3px solid #eaeaea;}
+.right-col-doctors .faculty-bio-bottom .right {width:100%;clear:both;margin:0 0 20px;padding:0;border:0 none;}
+.right-col-doctors .faculty-bio-bottom .biography-text {padding:0 0 25px;}
+.right-col-doctors .faculty-results-international .blue-wrapper div {width:100%;clear:both;margin:2% 0;}
+.right-col-doctors .faculty-bio-tabs {width:100%;padding:0;}
+.right-col-doctors .faculty-bio-tabs li.tab-li a.tab-link {padding:2.5% 3% 1.5%;}
+.right-col-doctors .flex-button-yellow {margin:20px 2%;}
+.right-col-doctors .jhm-modal .modalPrintPage {float:left;}
+
+}

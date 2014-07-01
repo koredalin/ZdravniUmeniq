@@ -1,0 +1,123 @@
+
+.wrapperBody {
+	margin-left : auto;
+	margin-right : auto;
+	width : 1004px;
+	font-size : 12px;
+	color : #4a4a4a;
+	font-family : Arial, Helvetica, sans-serif;
+}
+#banner {
+	height : 90px;
+	margin : 0 auto;
+	padding : 0;
+	text-align : left;
+	width : 990px;
+}
+#banner #logo {
+	display : inline;
+	float : left;
+	margin : 27px 0 0 40px;
+}
+.bannerSearch,.tcBannerSearch {
+	height : 23px;
+	width : 294px;
+}
+.contentMainSub {
+	margin : 0 auto;
+	width : 994px;
+}
+#topNav {
+	height : 35px;
+	margin : 0 auto;
+	padding : 0;
+	text-align : left;
+}
+#topNavNavMod .divnav1 ul li a {
+	display : inline;
+	float : left;
+	font-weight : bold;
+	margin : 0;
+	padding : 0 10px;
+	text-decoration : none;
+}
+#topNavNavMod .divnav2,.divnav3,.divnav4 {
+	display : none;
+}
+#topNavObjInc {
+	display : none;
+}
+ul.nav li {
+	display : inline;
+	float : left;
+	list-style : none;
+	margin : 0;
+	padding : 0;
+}
+.parentLeft3Col {
+	float : left;
+	margin : 0;
+	padding : 0;
+	width : 760px;
+}
+#leftNav {
+	display : inline;
+	float : left;
+	padding : 0;
+	width : 199px;
+}
+.subLeft3ColRight {
+	float : left;
+	margin : 0;
+	overflow : hidden;
+	padding : 0;
+	width : 560px;
+}
+.right {
+	display : inline;
+	float : right;
+	margin : 0;
+	padding : 0;
+	width : 234px;
+}
+.contentFooter {
+	clear : both;
+}
+.contentFooter .footerLeft {
+	float : left;
+	margin : 0 20px 0 0;
+	min-height : 210px;
+	padding : 0;
+	width : 310px;
+}
+.contentFooter .footerMiddle {
+	float : left;
+	margin : 0 20px 0 0;
+	min-height : 210px;
+	padding : 0;
+	width : 310px;
+}
+.contentFooter .footerRight {
+	float : left;
+	margin : 0;
+	padding : 0;
+	width : 310px;
+}
+.footerNav {
+	margin : 0 auto;
+	width : 994px;
+}
+.reset {
+	clear : both;
+	font-size : 0;
+	height : 0;
+	overflow : hidden;
+	width : 0;
+}
+img {
+	border : 0;
+}
+body {
+	font-family : Arial, Helvetica, sans-serif;
+	font-size : 12px;
+}

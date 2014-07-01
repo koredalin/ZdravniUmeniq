@@ -1,0 +1,110 @@
+/* PNG Fix */
+/*img, div { behavior: url(/files/mediaplayer/iepngfix.htc) }*/
+/* Base Level Widget */
+.widget {font-family: Arial, Helvetica, sans-serif;font-size: 11px;line-height: 14px;color: #4a4a4a;}
+/* Single Thumbnail Widget */
+img.widgetThumbnail {border: 2px solid #c8c8c8;margin-right: 5px;}
+.widgetDescription {background: url(/media/clients/jhm/widget/description_bg.jpg) top left repeat-x;width: 245px;height: 140px;margin-top: -5px;margin-left: 13px;padding-top: 10px;padding-left: 10px;padding-right: 10px;}
+.widgetDescription p.widgetTitle{margin: 0;padding: 0;}
+.widgetTitle {font-size: 12px;line-height: 16px;text-align: left;display:block;}
+
+a.widgetLink {color: #4a4a4a;text-decoration: underline;font-size:11px;}
+a.widgetLink:visited, a.widgetLink:active, a.widgetLink:link {color: #4a4a4a;text-decoration: underline;}
+a.widgetLink:hover {text-decoration: none;}
+.widgetThumbLeft {float: left;width: 340px;padding: 8px 0 0 8px;}
+.widgetThumbLeft p {margin: 3px;padding: 0;line-height: 12px;text-align: left;}
+.widgetPlay {float: right;width: 50px;padding-top: 25px;}
+
+/* Single Thumbnail Widget VIDEO */
+.widgetThumbVideo {width: 400px;background: url(/media/clients/jhm/widget/video_bg.gif) top left repeat-x;height: 93px;border: 1px solid #7591c5;}
+
+/* Single Thumbnail Widget Audio */
+.widgetThumbAudio {width: 400px;background: url(/media/clients/jhm/widget/audio_bg.gif) top left repeat-x;height: 93px;border: 1px solid #7591c5;}
+
+/* Single Thumbnail Widget Gallery */
+.widgetThumbGallery {width: 400px;background: url(/media/clients/jhm/widget/gallery_bg.gif) top left repeat-x;height: 93px;border: 1px solid #7591c5;}
+
+/* Simple Widget Base CSS */
+.widgetSimple {width: 375px;}
+
+.widgetSimple p {margin: 3px;padding: 0;line-height: 12px;}
+
+img.widgetIcon {margin-right: 5px;margin-bottom: 20px;}
+
+/*  Embed Widget Types */
+.widgetEmbed {background: url(/media/clients/jhm/widget/VideoPlaylist290x455.jpg) top center repeat-x;width: 290px;height: 453px;border: 1px solid #7591c5;}
+.widgetEmbed.Large {width: 505px;height: 568px;}
+.widgetEmbed.Large .widgetDescription{width: 460px;height: 110px;}
+
+.PlayerContain {padding-top:8px;padding-left:13px;}
+
+/* More Button for Playlist and Embed Widget Types */
+.widgetMore {float: right;padding-top: 8px;padding-right: 10px;}
+
+/* Playlist Embed Widget */
+.widgetEmbedPlaylist {background: url(/media/clients/jhm/widget/VideoPlaylist290x455.jpg) top center repeat-x;width: 290px;height: 453px;border: 1px solid #7591c5;}
+.widgetEmbedPlaylist .widgetDescription {width: 265px;	}
+
+.playlist {clear: both;padding-top: 10px;padding-left: 12px;height: 480px;overflow: hidden;}
+
+/* Playlist Widget */
+.widgetCategoryList {background: url(/media/clients/jhm/widget/categorylist_bg.jpg) top left repeat-x;height: 400px;width: 290px;border: 1px solid #7591c5;}
+.catplaylist {clear: both;background: url(/media/clients/jhm/widget/list_bg.jpg) top left repeat-x;height: 300px;width: 273px;overflow: auto;margin-bottom: 5px;margin-left:9px;margin-top:5px;}
+.catPlaylistHead {/*background: url(http://display-media.s3.amazonaws.com/widget/images/categorylist_header.jpg) bottom left no-repeat;*/height: 45px;width: 290px;}
+.catindividual {width: 250px;margin-left: 5px;margin-top: 5px;border-bottom:#FFF;border-bottom-style:solid;border-bottom-width:1px;}
+
+img.catwidgetIcon {margin:0 5px 4px 0;}
+.playlistTitle {margin-bottom: 0px;margin-top: 10px;}
+.playlistdesc {margin-top: 2px;}
+
+a.playlistTitle {font-size: 12px;font-family:Arial, Verdana, Helvetica, sans-serif;text-decoration: none;color: #4a4a4a;}
+a.playlistTitle:visited, a.playlistTitle:active, a.playlistTitle:link  {color: #4a4a4a;}
+a.playlistTitle:hover {text-decoration:underline;}
+a.playWidgetLink {color: #4a4a4a;text-decoration: none;font-size:11px;}
+a.playWidgetLink:visited, a.playWidgetLink:active, a.playWidgetLink:link {color: #4a4a4a;text-decoration: none;}
+a.playWidgetLink:hover {text-decoration: underline;}
+
+
+/* NEW WIDGET STYLES */
+
+/* Single Thumbnail Widget VIDEO */
+.widgetThumbVideoSmall {width: 210px;background: #FFFFFF url(/media/clients/jhm/widget/video_bg.gif) top left repeat-x;height: 120px;border: 1px solid #7591c5;}
+.widgetThumbSmall {width: 210px;background: #FFFFFF url(/media/clients/jhm/widget/video_bg.gif) top left repeat-x;height: 120px;border: 1px solid #7591c5;}
+
+/* Playlist Widget */
+.widgetCategoryListSmall {width: 210px;}
+.catplaylistSmall {clear: both;width: 230px;margin-bottom: 5px;margin-left:0px;margin-top:5px;}
+
+.catindividualSmall {width: 210px;margin-left: 0px;margin-top: 5px;border-bottom:#cad3e3;border-bottom-style:solid;border-bottom-width:1px;padding-top: 1px;}
+
+img.catwidgetIconSmall {margin: 5px 5px 5px 0;}
+.widgetCategoryListSmall .widgetMore {padding-right: 20px;}
+
+/* Icon Widget Audio - Small */
+.widgetSimpleSmall {width: 210px;}
+
+.widgetSimpleSmall img.widgetIcon { margin-bottom: 5px;}
+
+.widgetSimpleSmall p {padding:0;margin: 0;}
+.widgetSimpleSmall p.widgetTitle {margin: 10px;}
+
+/* Additional CSS Here */
+.widgetSmallLeft {float: left;width: 76px;padding:  6px 0 0 6px;}
+.widgetSmallLeft a.widgetLink { display: inline-block; clear: both;}
+.rightCallout .widgetSmallLeft { padding: 0 0 0 6px;}
+.widgetSmallLeft p {margin: 3px;padding: 0;line-height: 12px;text-align: left;}
+.widgetSmallRight {float: right;width: 105px;padding-top: 3px;padding-right: 0px;}
+.widgetSmallRight p { margin: 0; padding: 0;}
+
+a.titleLink {color: #4a4a4a;text-decoration: none;}
+a.titleLink:hover {text-decoration: underline;	}
+
+.widgetEmbed.listbox { width: auto; height: auto; background: none; border: none; width: 220px; padding-bottom: 2px;}
+.widgetEmbed.listbox .PlayerContain { padding:3px 0 10px 6px; }
+.widgetEmbed.listbox .widgetDescription { width: 210px; height: auto; background: none; margin-top: 0; margin-left: 0; padding: 5px;}
+.widgetEmbed.listbox .widgetDescription p { margin-bottom:0; }
+.widgetEmbed.listbox a.widgetLink { display: inline; background: none; margin: 0; padding: 0; color: #4a4a4a; font-weight: bold; text-decoration: none;}
+.widgetEmbed.listbox .widgetmore { padding-top: 0; }
+.widgetEmbed.listbox .widgetmore  img { padding-top: 3px; }
+
+div.featured_list .videowidget { margin-bottom: 0; padding-bottom: 15px; background:url(http://www.hopkinsmedicine.org/sebin/t/a/list_bg.png) no-repeat scroll left top transparent;}

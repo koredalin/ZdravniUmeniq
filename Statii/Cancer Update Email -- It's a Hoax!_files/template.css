@@ -1,0 +1,545 @@
+/* Body Styles */
+/* -------------------------------------------------------- */
+
+body{background-color:#214A9A;font-family:Arial, Verdana, Helvetica, sans-serif;font-size:12px;margin:0;padding:0;}
+
+h1.mainBodyContentTitle, h1{color:#0b2972;font-family:Arial, Helvetica, sans-serif;font-size:20px;font-weight:bold;line-height:normal;margin:0 0 0 10px;}
+h2{color:#4c689a;font-family:Arial, Helvetica, sans-serif;font-size:18px;font-weight:normal;line-height:normal;}
+h2.doctor_name{display:none;}
+h3{color:#4A4A4A;font-family:Arial, Helvetica, sans-serif;font-size:16px;font-weight:bold;line-height:normal;padding-top:7px;margin-bottom:0;}
+h4{color:#4c689a;font-family:Arial, Helvetica, sans-serif;font-size:14px;font-weight:bold;line-height:normal;}
+h5{color:#4A4A4A;font-family:Arial, Helvetica, sans-serif;font-size:12px;font-weight:bold;line-height:normal;}
+hr{border-bottom:0;border-left:0;border-right:0;border-top:1px dotted #CCCCCC;margin:10px auto;width:100%;}
+img{border:0;}
+.reset{clear:both;font-size:0;height:0;overflow:hidden;width:0;}
+
+address{color:#00276F;font-style:normal;font-weight:bold;line-height:15px;}
+blockquote{background-color:#E7E9EB;border:1px dotted #6F82AC;color:#333333;margin:5px auto;padding:8px;}
+blockquote h3{color:#0b2972;font:normal 14px arial bold;margin:0;padding:0;}
+blockquote img{background-color:#ffffff;float:left;margin:0 5px 8px 0;padding:4px;}
+blockquote p{margin:5px 0;}
+blockquote.g{background-color:#FFFFFF;border:none;margin-left:20px;padding:0;}
+pre{font-family:arial,helvetica,sans-serif;font-style:normal;}
+form{margin:0;padding:0;}
+
+/* Wrapper Styles */
+
+#wrapper{background:url(/sebin/v/t/bodyBg.jpg) top left repeat-x;margin:0;padding:0;}
+.wrapperBody{background:url(/sebin/p/j/shadowBody.png) repeat-y;margin-left:auto;margin-right:auto;width:1004px;}
+.wrapperBottom{font-size:0;margin-left:auto;margin-right:auto;overflow:hidden;width:1004px;}
+.wrapperBottom .wbLeft{background:url(/sebin/l/r/shadowBottomLeft.png);display:inline;float:left;height:4px;width:2px;}
+.wrapperBottom .wbMiddle{background:url(/sebin/t/j/shadowBottom.png) repeat-x;display:inline;float:left;height:4px;width:996px;}
+.wrapperBottom .wbRight{background:url(/sebin/l/u/shadowBottomRight.png);display:inline;float:left;height:5px;margin:-2px 1px 0 0;width:5px;}
+.wrapperContent{background:#FFFFFF url(/sebin/k/s/rightBg.gif) bottom right repeat-y;margin:0;padding:0;}
+.wrapperTop{font-size:0;height:4px;margin-left:auto;margin-right:auto;overflow:hidden;width:1004px;}
+.wrapperTop .wtLeft{background:url(/sebin/t/s/shadowTopLeft.png);display:inline;float:left;height:4px;width:4px;}
+.wrapperTop .wtMiddle{background:url(/sebin/n/x/shadowTop.png) repeat-x;display:inline;float:left;height:4px;width:996px;}
+.wrapperTop .wtRight{background:url(/sebin/x/a/shadowTopRight.png);display:inline;float:right;height:4px;width:4px;}
+
+.contentMainSub{background-color:#FFFFFF;border:1px solid #ffffff;font-size:12px;margin-left:auto;margin-right:auto;width:994px;}
+.parentLeft3Col{float:left;margin:0;padding:0;width:760px;}
+.subLeft3ColRight{float:left;margin:0;overflow:hidden;padding:0;width:560px;}
+.sp3ColQuickLinksBlueGrade{width:230px;}
+.sp3colRight{margin-left:2px;margin-right:2px;padding-bottom:50px;}
+
+/* Banner Styles */
+/* -------------------------------------------------------- */
+
+#banner{height:90px;margin:0 auto;padding:0;text-align:left;width:990px;}
+#banner #logo{display:inline;float:left;margin:27px 0 0 40px;}
+#bannerWrapper{background:url(/sebin/v/j/headerBg.jpg) left top repeat-x;height:93px;margin:0;padding:0;text-align:center;}
+
+/* Button Styles */
+
+a.flex-button {box-shadow:0 1px 2px rgba(0,0,0,.6);border:1px solid #00276f;border-radius:3px;font-size: 1.2em;line-height:1.6em;font-weight:lighter;font-family:'Gill Sans', 'Helvetica Neue', Arial, Helvetica, sans-serif;text-decoration:none;color:#E7E9EB !important;text-shadow:0 1px 1px #00276f !important;padding:5px 7px;background: #4c689a; /* Old browsers */background: -moz-linear-gradient(top,  #4c689a 0%, #00276f 100%); /* FF3.6+ */background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#4c689a), color-stop(100%,#00276f)); /* Chrome,Safari4+ */background: -webkit-linear-gradient(top,  #4c689a 0%,#00276f 100%); /* Chrome10+,Safari5.1+ */background: -o-linear-gradient(top,  #4c689a 0%,#00276f 100%); /* Opera 11.10+ */background: -ms-linear-gradient(top,  #4c689a 0%,#00276f 100%); /* IE10+ */background: linear-gradient(top,  #4c689a 0%,#00276f 100%); /* W3C */filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#4c689a', endColorstr='#00276f',GradientType=0 ); /* IE6-9 */;}
+a.flex-button:hover {box-shadow:0 1px 2px rgba(0,0,0,.6);border:1px solid #00276f;border-radius:3px;font-size: 1.2em;line-height:1.6em;font-weight:lighter;font-family:'Gill Sans', 'Helvetica Neue', Arial, Helvetica, sans-serif;text-decoration:none;color:#E7E9EB !important;text-shadow:0 1px 1px #00276f !important;padding:5px 7px;background: #4c689a; /* Old browsers */background: -moz-linear-gradient(top,  #6480b4 0%, #00276f 100%); /* FF3.6+ */background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#6480b4), color-stop(100%,#00276f)); /* Chrome,Safari4+ */background: -webkit-linear-gradient(top,  #6480b4 0%,#00276f 100%); /* Chrome10+,Safari5.1+ */background: -o-linear-gradient(top,  #6480b4 0%,#00276f 100%); /* Opera 11.10+ */background: -ms-linear-gradient(top,  #6480b4 0%,#00276f 100%); /* IE10+ */background: linear-gradient(top,  #6480b4 0%,#00276f 100%); /* W3C */filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#6480b4', endColorstr='#00276f',GradientType=0 ); /* IE6-9 */;}
+a.flex-button-maps-google, a.flex-button-maps-print, a.flex-button-maps-google:hover, a.flex-button-maps-print:hover {line-height:4em;padding: 13px 18px 13px 11px;margin:.75em 0;display:inline-block;}
+a.flex-button-maps-google span {padding:0 0 0 4em;background:url(http://hopkinsmedicine.org/sebin/d/c/btn-maps-google.png) no-repeat 0 50%;display:inline-block;line-height:2em;background-size:3.21em 1.93em;}
+a.flex-button-maps-print span {padding:0 0 0 4em;background:url(http://hopkinsmedicine.org/sebin/d/m/btn-maps-print.png) no-repeat .25em 50%;display:inline-block;line-height:2em;background-size:2.64em 1.86em;}
+
+a.flex-button-yellow {text-decoration:none;text-align:center;color:#264289; text-shadow: 1px 1px 0 white;padding:3px 8px 5px 8px;font-weight:lighter; border: 1px solid #b2b1b1;-webkit-border-radius:4px;-moz-border-radius:4px;border-radius:4px;font-size:14px;line-height:23px;cursor:pointer;font-family:"Gill Sans", "Helvetica Neue", Arial, Helvetica, sans-serif;
+background: #efd215;
+background: -moz-linear-gradient(top,  #fefcea 0%, #efd215 100%);
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#fefcea), color-stop(100%,#efd215));
+background: -webkit-linear-gradient(top,  #fefcea 0%,#efd215 100%);
+background: -o-linear-gradient(top,  #fefcea 0%,#efd215 100%);
+background: -ms-linear-gradient(top,  #fefcea 0%,#efd215 100%);
+background: linear-gradient(to bottom,  #fefcea 0%,#efd215 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fefcea', endColorstr='#efd215',GradientType=0 );
+}
+
+a.flex-button-yellow:hover {text-decoration:underline;}
+
+/* Search */
+
+.bannerSearch,.tcBannerSearch{border:0;font-size:14px;height:23px;width:294px;}
+.bannerSearchButton{vertical-align:top; margin-top:-2px;}
+#lsSearchGroup{margin:0;padding:0 0 0 6px;}
+#linksAndSearch{display:inline;width:445px;}
+#logoAndTabs{display:inline;float:left;height:70px;margin:15px 20px 0;}
+
+
+/* Title Styles */
+/* -------------------------------------------------------- */
+
+/*#JHHTitle{border:0;height:43px;margin:0 auto;padding:0 0 0 15px;text-align:left;width:964px;}
+#JHHTitleWrapper{display:block;margin:0;padding:15px 0 0;text-align:center;}
+#jhh{margin:5px 0 0;}
+#jhh a{color:#FFFFFF;text-decoration:none;}
+#jhhImage{display:block;margin-left:25px;}
+.Header_6,h6{color:#ffffff;font-family:Arial, Helvetica, sans-serif;font-size:24px;font-weight:bold;line-height:normal;}*/
+
+#JHHTitle{border:0;margin:0 auto;padding:0 0 10px 15px;text-align:left;width:964px;}
+#JHHTitleWrapper{display:block;margin:0;padding:0;text-align:center;}
+#jhh{margin:5px 0 0; /*padding:15px 0 10px;*/}
+#jhh a{color:#FFFFFF;text-decoration:none;}
+#jhhImage{display:block;margin-left:25px;}
+.Header_6,h6{color:#ffffff;font-family:'Gill Sans', Arial, Helvetica, sans-serif;font-size:24px;font-weight:100;line-height:normal;}
+#bannerWrapper {margin-bottom: 20px;}
+
+
+/* Alternate Left Nav Home */
+/* -------------------------------------------------------- */
+
+div.featured_nav{background:url(/sebin/l/c/featured_nav_sides.png) left top repeat-y;margin-left:5px;width:187px;}
+div.featured_nav a{color:#254d97;outline:none;text-decoration:none;}
+div.featured_nav a:hover{background-color:transparent;color:#254d97;outline:none;text-decoration:underline;}
+div.featured_nav h5{border-bottom:1px solid #6084c8;color:#254d97;font-size:14px;font-weight:bold;margin:0 10px;padding-bottom:5px;padding-top:5px;}
+div.featured_nav li{color:#254d97;list-style-image:url(/sebin/f/n/list_img_blue.png);padding-bottom:8px;}
+div.featured_nav li.viewall{font-weight:bold;margin-top:16px;}
+div.featured_nav ul{margin:0 10px 0 24px;padding:8px 0 0;}
+div.featured_nav_inner{background:url(/sebin/j/d/featured_nav_foot.png) left bottom no-repeat;padding-bottom:10px;}
+div.featured_nav_wrapper{background:url(/sebin/z/d/featured_nav_head.png) center top no-repeat;padding-top:15px;width:199px;}
+div.featured_nav_wrapper2{background:url(/sebin/n/f/featured_nav_head2.png) center top no-repeat;padding-top:15px;width:199px;}
+
+
+/* Left Nav Styles */
+/* -------------------------------------------------------- */
+
+#leftNav{background-image:url(/sebin/y/k/bgLeftNav.gif);background-repeat:repeat-x;color:#002c76;display:inline;float:left;min-height:300px;padding:0;width:199px;}
+#leftNav .subNavItemLinksel{background:url(/sebin/c/p/navArrowSel.gif) no-repeat 12px center #033289;color:white;}
+#leftNav h3{color:#002c76;font-size:16px;font-weight:bold;margin:6px 0 5px 8px;padding:0;}
+#leftNav h3 a{color:#002c76;display:block;padding-left:7px;text-decoration:none;}
+#leftNav h3 a:hover{background-color:#033289;}
+#leftNav p{padding-left:8px; padding-top: 10px;}
+#leftNavNavMod{border-top:6px solid #21275e;padding-top:20px;}
+#leftNavNavMod .divnav1{display:none;}
+#leftNavNavMod li.activenavpage a{background-image:url(/sebin/p/k/anchor_bkgd.jpg);background-position:left top;background-repeat:repeat-y;color:#012C7A;}
+#leftNavNavMod li.activenavpageleft a{background-image:url(/sebin/p/k/anchor_bkgd.jpg);background-position:left top;background-repeat:repeat-y;color:#012C7A;}
+#leftNavNavMod ul{font-family:Arial, Helvetica, sans-serif;font-weight:bold;list-style:none;margin:0;padding:0;}
+#leftNavNavMod ul li a{color:#012C7A;display:block;margin:0;padding:4px 3px 4px 10px;text-decoration:none;width:187px;}
+#leftNavNavMod ul li a:hover{background-image:url(/sebin/p/k/anchor_bkgd.jpg);background-position:left top;background-repeat:repeat-y;color:#012C7A;}
+#leftNavNavMod ul li ul li a{background-image:url(/sebin/g/g/bluenavSquare.gif);background-position:left top;background-repeat:no-repeat;color:#012C7A;display:block;font-weight:normal;margin:0 0 0 15px;padding:4px 10px;text-decoration:none;width:165px;}
+#leftNavNavMod ul li ul li ul li a{background-image:url(/sebin/i/p/yellowBullet.gif);background-position:left top;background-repeat:no-repeat;color:#012C7A;display:block;font-weight:normal;margin:0 0 0 25px;padding:4px 8px 4px 10px;text-decoration:none;width:156px;}
+#leftNavNavMod ul li ul li ul li ul li a{background-image:url(/sebin/g/g/bluenavSquare.gif);background-position:left top;background-repeat:no-repeat;color:#012C7A;display:block;font-weight:normal;margin:0 0 0 35px;padding:4px 8px 4px 10px;text-decoration:none;width:146px;}
+#leftNavNavMod ul li ul li ul li ul li ul li a{background-image:url(/sebin/i/p/yellowBullet.gif);background-position:left top;background-repeat:no-repeat;color:#012C7A;display:block;font-weight:normal;margin:0 0 0 43px;padding:4px 8px 4px 10px;text-decoration:none;width:136px;}
+
+
+/* Department Pane */
+
+.departmentPane{background:#4c6da8 url(/sebin/y/b/departmentPane.gif) top left repeat-x;color:#FFFFFF;font-size:16px;font-weight:bold;margin:0;padding:40px 5px 10px 10px;}
+.departmentPane a{color:#FFFFFF;font-size:16px;font-weight:bold;text-decoration:none;}
+
+
+/* Phsyician Profile Styles */
+/* -------------------------------------------------------- */
+
+#physicianProfileDialog{color:#4A4A4A;font-size:12px;line-height:19px;margin-top:25px;padding:0;}
+#physicianProfileDialog .researcherProfile{padding:10px;}
+#physicianProfileDialog h1.mainBodyContentTitle{padding:10px 0 0 0px;}
+#physicianProfileDialog .profileReturn{display:none;}
+#physicianProfileTabNav{background:url(/sebin/d/q/doc_biotabs_bg.jpg) top left no-repeat;width:100%;margin:10px 0 0;padding:0;float:left;}
+#physicianProfileTabNav ul{list-style:none;margin:0;padding:12px 0 0;}
+#physicianProfileTabNav ul li{background:url(/sebin/j/n/doc_biotab_left.jpg) top left no-repeat;display:inline-block;float:left;height:33px;margin:0;padding:0;}
+#physicianProfileTabNav ul li a{background:url(/sebin/v/l/doc_biotab_right.jpg) top right no-repeat;color:#4A4A4A;display:inline-block;font-weight:bold;height:21px;margin:0;outline:none;padding:6px;text-decoration:none;}
+#physicianProfileTabNav ul li a:hover{color:#4A4A4A;text-decoration:underline;}
+#physicianProfileTabNav ul li.physicianProfileTabActive{background:url(/sebin/p/o/doc_biotab_active_left.jpg) top left no-repeat;}
+#physicianProfileTabNav ul li.physicianProfileTabActive a{background:url(/sebin/v/x/doc_biotab_active_right.jpg) top right no-repeat;}
+
+.resultItem h4{font-size:12px;font-weight:normal;line-height:19px;margin:0;padding:0;}
+.resultItem h4 a{font-size:12px;font-weight:normal;text-decoration:underline;}
+.resultItem h4:hover{background:none;}
+
+.physician_list #physicianDataFilteredResults{margin:0;overflow:hidden;padding:0;}
+.physician_list #physicianDataFilteredResults .resultItem{cursor:pointer;padding:20px;}
+.physician_list #physicianDataFilteredResults .resultItem h4{margin:0 0 10px;}
+.physician_list #physicianDataFilteredResults .resultItem h4 a{color:#4c6699;font-size:14px;font-weight:bold;text-decoration:none;}
+.physician_list #physicianDataFilteredResults .resultItem img{border:1px solid #CCCCCC;float:left;margin-right:10px;padding:5px;width:80px;}
+.physician_list #physicianDataFilteredResults .resultItem:hover{background:transparent url(/sebin/d/g/doc_result_bg.jpg) bottom left repeat-x;}
+#physicianDataFilteredResults{margin:0;overflow:hidden;padding:0;}
+#physicianDataFilteredResults .resultItem{cursor:pointer;padding:20px;}
+#physicianDataFilteredResults .resultItem h4{margin:0 0 10px;}
+#physicianDataFilteredResults .resultItem h4 a{color:#4c6699;font-size:14px;font-weight:bold;text-decoration:none;}
+#physicianDataFilteredResults .resultItem img{border:1px solid #CCCCCC;float:left;margin-right:10px;padding:5px;width:80px;}
+#physicianDataFilteredResults .resultItem:hover{background:transparent url(/sebin/d/g/doc_result_bg.jpg) bottom left repeat-x;}
+.prListingFilter{background-color:#C9D8F2;border:1px solid #CCCCCC;color:#4C689A;margin-bottom:15px;padding:10px;}
+.prListingFilter li{display:inline;margin:0;padding:0;}
+.prListingFilter li a{color:#4C689A;padding:0 10px;}
+.prListingFilter ul{list-style:none;margin:0;padding:0;}
+.prListingItem{border-bottom:1px dotted #CCCCCC;margin-bottom:10px;padding-bottom:10px;}
+.prListingItemSummary{color:#666666;font-style:italic;}
+.profileImageData{float:right;margin:0 0 20px 20px;width:92px;}
+.profileImageData img{background-color:#FFFFFF;border:1px solid #CCCCCC;padding:5px;max-width:80px;}
+.profileMarkerPanel_0,.profileMarkerPanel_1,.profileMarkerPanel_2,.profileMarkerPanel_3,.profileMarkerPanel_4,.profileMarkerPanel_5{background:url(/sebin/h/e/doc_bio_bg.jpg) top left no-repeat;padding:10px 20px;}
+.profile_details{margin:0;padding:0;width:100%;max-width:530px;float:left;}
+.profile_details .markerDetails{min-height:20px;float:left;clear:both;}
+.profile_details .markerDetails .location{margin:10px 0;}
+.profile_details .markerDetails .profileLabel{color:#4A4A4A;font-size:12px;font-weight:bold;margin:10px 0;}
+.profile_details h4.marker{background:url(/sebin/p/a/doc_marker_bg.jpg) top left repeat-y;margin:0;padding:5px;display:none;}
+#physicianDataFilteredResults .resultItem h4 a:hover{text-decoration:underline !important;}
+
+/* Modal Pop-Up Styles */
+/* -------------------------------------------------------- */
+
+#simplemodal-container{background-color:#FFFFFF;border:8px solid #444;display:block;}
+#simplemodal-container .pbProfileDialogCloser{background:#CCCCCC url(/sebin/z/b/doc_dialog_closer.jpg) left top no-repeat;border:none;cursor:pointer;height:18px;overflow:hidden;padding:0;position:absolute;right:20px;text-indent:-9999px;top:5px;width:18px;}
+#simplemodal-overlay{background-color:#000000;}
+
+/* modal styles for mobile/responsive lower tier */
+/* -------------------------------------------------------- */
+
+@media only screen and (max-width: 860px) { 
+
+#physicianProfileTabNav {display:none;}
+.profile_details h4.marker {display:block;margin:20px 0 0 0;clear:both;}
+.profileMarkerPanel_0,.profileMarkerPanel_1,.profileMarkerPanel_2,.profileMarkerPanel_3,.profileMarkerPanel_4,.profileMarkerPanel_5{background:none;clear:both;display:block !important;float:left;}
+.profile_details{width:100%;}
+.jhm-modal #toolBar {padding:10px 0 0 0 !important;}
+
+}
+
+/* Toolbar Styles */
+/* -------------------------------------------------------- */
+
+#toolBar{border-bottom:1px solid #d6d6d6;height:20px;margin:0 10px;padding:5px 10px;text-align:left;}
+#toolBar .fontsizeImg{display:inline;float:left;padding-right:10px;}
+#toolBar .printthispageImg{display:inline;}
+#toolBar div#fontfloat{float:left;padding-top:3px;width:230px;}
+#toolBar img{display:inline;margin-right:5px;}
+#toolBar span#fontsize{background-image:url(/sebin/y/v/fontsize.gif);background-position:0 -17px;background-repeat:no-repeat;display:block;height:17px;outline:none;width:95px;}
+#toolBar span#fontsize a.minus{display:block;float:left;font-size:0;height:17px;left:60px;position:relative;width:16px;}
+#toolBar span#fontsize a.plus{display:block;float:left;font-size:0;height:17px;left:62px;position:relative;width:16px;}
+.jhm-modal #toolBar {padding:0;border:none;}
+
+/* Addthis Styles */
+
+.addthis_toolbox{float:right;margin:0;padding-top:3px;position:static!important;width:220px;z-index:0;}
+.addthis_toolbox .addshare { float: left;}
+
+
+/* Top Navigation Styles */
+/* -------------------------------------------------------- */
+
+#topNav{height:35px;margin:0 auto;padding:0;text-align:left;}
+#topNavNavMod .divnav1 li.activenavpath{background:url(/sebin/b/b/topNavActiveBg.jpg) top left repeat-x;}
+#topNavNavMod .divnav1 li.activenavpath a{background:url(/sebin/w/w/topNavHighlight.gif) bottom center no-repeat;}
+#topNavNavMod .divnav1 ul{display:inline;float:left;list-style-type:none;margin:0 0 0 20px;padding:0;}
+#topNavNavMod .divnav1 ul li{display:inline;float:left;list-style-type:none;margin:0;padding:0;}
+#topNavNavMod .divnav1 ul li a{color:#012C7C;display:inline;float:left;font-weight:bold;line-height:35px;margin:0;padding:0 10px;text-decoration:none;}
+#topNavNavMod .divnav1 ul li a:hover{background:url(/sebin/w/w/topNavHighlight.gif) center bottom no-repeat;}
+#topNavNavMod .divnav2,.divnav3,.divnav4{display:none;}
+#topNavObjInc{display:none;}
+#topNavWrapper{background-image:url(/sebin/r/e/topNavBackground.jpg);background-position:left;background-repeat:repeat-x;border:0;border-bottom:1px solid #333333;height:35px;margin:0;padding:0;text-align:center;}
+
+/* Top Navigation Gradient Background - 3.20.2012 */
+
+.wrapperBody, .contentMainSub {overflow:hidden;}
+#topNavWrapper {width:100%;float:left;height:auto !important;background-image:none;background: #f5c721; /* Old browsers */background: -moz-linear-gradient(top,  #f5c721 20%, #fbeecb 92%, #ffffff 100%); /* FF3.6+ */background: -webkit-gradient(linear, left top, left bottom, color-stop(20%,#f5c721), color-stop(92%,#fbeecb), color-stop(100%,#ffffff)); /* Chrome,Safari4+ */background: -webkit-linear-gradient(top,  #f5c721 20%,#fbeecb 92%,#ffffff 100%); /* Chrome10+,Safari5.1+ */background: -o-linear-gradient(top,  #f5c721 20%,#fbeecb 92%,#ffffff 100%); /* Opera 11.10+ */background: -ms-linear-gradient(top,  #f5c721 20%,#fbeecb 92%,#ffffff 100%); /* IE10+ */background: linear-gradient(top,  #f5c721 20%,#fbeecb 92%,#ffffff 100%); /* W3C */filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f5c721', endColorstr='#ffffff',GradientType=0 ); /* IE6-9 */}
+#topNav {height:auto !important;}
+#topNavNavMod .divnav1 ul li a {white-space:nowrap;}
+
+/* Top Nav Include */
+
+ul.nav{display:inline;float:left;list-style:none;margin:0 0 0 20px;padding:0;}
+ul.nav a.nb{background-image:none;}
+ul.nav li{display:inline;float:left;list-style:none;margin:0;padding:0;}
+ul.nav li a{color:#012C7C;display:inline;float:left;font-weight:bold;line-height:35px;margin:0;padding:0 10px;text-decoration:none;}
+ul.nav li a.noBackground,ul.nav li ul li a.noBackground{background-image:none;border:none;}
+ul.nav li a:hover{background:url(/sebin/w/w/topNavHighlight.gif) center bottom no-repeat;}
+ul.nav li ul{background-color:#556b9d;border:1px solid #ffffff;display:none;float:left;height:auto;left:0;list-style:none;margin:0;padding:0;position:absolute;top:35px;width:146px;}
+ul.nav li ul li{background-image:none;clear:left;}
+ul.nav li ul li a{background-image:none;display:block;width:126px;}
+ul.nav li ul li a:hover{background-color:#abb2c2;}
+ul.nav li:hover{position:relative;}
+ul.nav li:hover ul{display:block;margin-left:0;}
+
+
+/* Quicklinks Styles */
+/* -------------------------------------------------------- */
+
+.QuickLinksBlueGrade3col{background:url(/sebin/h/i/quick_links_sub.png) top right no-repeat;height:250px;margin:0;overflow:hidden;padding:0;width:234px;}
+
+
+.QuickLinksBlueGrade3col .QuickLinksContentHome{overflow:hidden;}
+.QuickLinksContentHome{border:none;display:block;margin:0;overflow:hidden;padding:5px 0 0; min-height: 295px;}
+.QuickLinksContentHome .qlHeader{display:none;}
+.QuickLinksContentHome li a:hover{color:#f4c954;}
+.QuickLinksContentHome ul{color:white;font-size:12px;font-weight:bold;margin:0;padding:0;}
+.QuickLinksContentHome ul li{list-style-type:none;margin-left:15px;}
+.QuickLinksContentHome ul li a{border-bottom:1px dotted #4268B0;color:white;display:block;font-size:12px;font-weight:bold;padding:8px 3px;text-decoration:none;width:200px;}
+.QuickLinksContentHome ul li a:hover{color:#f4c954;}
+.QuickLinksContentHome ul li:first-child{background:none;}
+.QuickLinksforIE{float:left;margin:0;padding:0;}
+.QuickLinksContentHome ul li:last-child a {border-bottom: 0 none;}
+
+
+/* Breadcrumb Styles */
+/* -------------------------------------------------------- */
+
+.breadCrumb{margin:18px 15px 22px;}
+.breadCrumb3col{margin:10px 10px 22px;padding:0;}
+
+
+/* Footer Styles */
+/* -------------------------------------------------------- */
+
+
+.Disclaimer{color:#012770;font-family:Arial, Helvetica, sans-serif;font-size:10px;font-style:normal;font-weight:normal;line-height:15px;}
+.Footer{color:#012770;font-family:Arial, Helvetica, sans-serif;font-size:11px;font-style:normal;font-weight:normal;line-height:15px;}
+.contentFooter{background-attachment:scroll;background-color:#002261;background-image:url(http://www.hopkinsmedicine.org/sebin/q/r/footer_bg.gif);background-position:left top;background-repeat:repeat-x;color:#ffffff;min-height:220px;padding-bottom:10px;padding-top:10px;}
+.contentFooter .footerLeft{border-right:1px solid #3d598B;float:left;margin:0 20px 0 0;min-height:210px;padding:0;width:310px;}
+.contentFooter .footerMiddle{border-right:1px solid #3d598b;float:left;margin:0 20px 0 0;min-height:210px;padding:0;width:310px;}
+.contentFooter .footerRight{float:left;margin:0;padding:0;width:310px;}
+.contentFooter .recognitions{display:inline;float:right;margin-right:23px;margin-top:23px;text-align:right;}
+.contentFooter .recognitions a{color:#acd8f3;text-decoration:none;}
+.contentFooter .recognitions a:hover{text-decoration:underline;}
+.contentFooter .recognitions img{display:inline;}
+.contentFooter .recognitions span{display:inline;float:left;margin-right:17px;padding-top:34px;}
+.contentFooter .subLinks{display:inline;float:left;margin-left:47px;margin-top:23px;}
+.contentFooter .subLinks a{color:#ACD8F3;text-decoration:none;}
+.contentFooter .subLinks a:hover{text-decoration:underline;}
+.contentFooter a{color:#ffffff;text-decoration:none;}
+.contentFooter a:hover{text-decoration:underline;}
+.contentFooter img{vertical-align:middle;}
+.footerNav{color:white;font-size:12px;line-height:18px;margin-left:auto;margin-right:auto;width:994px;}
+.footerNav a{color:white;text-decoration:underline;}
+.footerNav a:hover{text-decoration:underline;}
+
+/* Main Body Content Styles */
+/* -------------------------------------------------------- */
+
+.mainBodyContent{font-size:12px;line-height:19px;padding-bottom:50px;padding-top:20px;}
+.mainBodyContent3rdLevelLinks{margin-top:20px;}
+.mainBodyContent3rdLevelLinks a{font-size:13px;}
+.mainBodyContentData{color:#4a4a4a;font-family:Arial, Helvetica, sans-serif;font-size:12px;font-style:normal;line-height:19px;margin:10px;padding-top:0;}
+.mainBodyContentDataSub2Col{display:inline;float:left;font-size:12px;margin:0 10px 20px;padding-bottom:60px;padding-left:25px;padding-top:20px;width:745px;}
+.mainBodyContentSub2Col{display:inline;float:left;margin:0;padding:0;width:760px;}
+.mainNavLink{color:#000099;display:block;padding-left:7px;text-decoration:none;}
+
+.pageBanner{line-height:0;margin:0;overflow:hidden;padding:0;}
+.pageBanner img{border-bottom:8px solid #1c1d53;}
+
+.video_left{float:left;margin-bottom:10px;margin-right:5px;}
+.video_right{float:right;margin-bottom:10px;margin-left:5px;}
+
+form.clinicalTrialsSearchForm{clear:both;min-height:125px;}
+label.clinicalTrialsSearchLabel{float:left;width:150px;}
+
+/* Featured Lists */
+
+div.featured_item img{border:1px solid #CCCCCC;padding:5px;}
+div.featured_item .playoverlay { border: none; position: absolute; margin-left: 53px; margin-top: 33px;}
+div.featured_list{width:232px;padding:10px;border:1px solid #CCC;margin:0 0 15px 0;font-size:12px;line-height: 1.25em;-webkit-border-radius: 10px;-moz-border-radius: 10px;border-radius: 10px;}
+div.featured_list .prListing{margin-bottom:15px;}
+div.featured_list .prListingItem{border:none;list-style:none;margin:0 0 5px;padding:0;}
+div.featured_list a{background:url(/sebin/j/x/list_spacer.png) left bottom no-repeat;color:#4A4A4A;display:block;font-size:12px;padding: 5px 2px;outline:none;text-decoration:none;}
+div.featured_list a:hover{color:#4A4A4A;text-decoration:underline;}
+div.featured_list li{list-style:none;margin:0;padding:0 0 5px;}
+div.featured_list p.viewall{background:url(/sebin/j/j/list_img_black.png) left center no-repeat;font-weight:bold;margin:10px 0 10px 3px;padding:0 0 0 10px;}
+div.featured_list p.viewall a{background:none;color:#4A4A4A;display:block;height:auto;margin:0;padding:0;text-decoration:none;}
+div.featured_list span.prListingItem_clear{clear:both;display:block;font-size:0;height:0;line-height:0;margin:0;overflow:hidden;padding:0;width:0;}
+div.featured_list table{}
+div.featured_list table span{display:none;}
+div.featured_list ul{padding:0;margin:0;}
+div.featured_list_inner{padding:6px;background:#EAEEFC;margin:0;-webkit-border-radius:5px;-moz-border-radius:5px;border-radius:5px;background:#EAEEF9;background:url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDEgMSIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+CiAgPGxpbmVhckdyYWRpZW50IGlkPSJncmFkLXVjZ2ctZ2VuZXJhdGVkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjAlIiB5MT0iMCUiIHgyPSIwJSIgeTI9IjEwMCUiPgogICAgPHN0b3Agb2Zmc2V0PSI1MiUiIHN0b3AtY29sb3I9IiNlYWVlZjkiIHN0b3Atb3BhY2l0eT0iMSIvPgogICAgPHN0b3Agb2Zmc2V0PSI5NCUiIHN0b3AtY29sb3I9IiNmZmZmZmYiIHN0b3Atb3BhY2l0eT0iMSIvPgogIDwvbGluZWFyR3JhZGllbnQ+CiAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0idXJsKCNncmFkLXVjZ2ctZ2VuZXJhdGVkKSIgLz4KPC9zdmc+);background:-moz-linear-gradient(top, #EAEEF9 52%, white 94%);background:-webkit-gradient(linear, left top, left bottom, color-stop(52%,#EAEEF9), color-stop(94%,white));background:-webkit-linear-gradient(top, #EAEEF9 52%,white 94%);background:-o-linear-gradient(top, #EAEEF9 52%,white 94%);background:-ms-linear-gradient(top, #EAEEF9 52%,white 94%);background:linear-gradient(to bottom, #EAEEF9 52%,white 94%);filter:progid:DXImageTransform.Microsoft.gradient( startColorstr='#eaeef9', endColorstr='#ffffff',GradientType=0 );}
+div.featured_list_wrapper{float:left;line-height:14px;margin-bottom:10px;margin-right:10px;}
+
+/* featured list widget overrides */
+
+div.featured_list .videowidget {width:auto !important;padding:0 !important;margin:0 !important;}
+.widgetEmbed.listbox .PlayerContain {padding:0 !important;}
+.widgetEmbed.listbox .widgetDescription {padding:0 !important;}
+.widgetDescription p {margin:5px 0 !important;}
+
+/* HCGH Upcoming Events Module */
+
+.featured-boxes-wrapper .SESyndicationModule {float:left;line-height:14px;margin:0 0 0 10px;width:252px;padding:0;}
+.featured-boxes-wrapper .SESyndicationModule h1 {margin:15px 0;font-size: 18px;line-height:0;*margin: 0 0 19px 0;}
+.featured-boxes-wrapper .SESyndicationModule h1 a {color: #4C689A;font-family: Arial,Helvetica,sans-serif;font-size: 18px;font-weight: normal;line-height: normal;text-decoration:none;}
+.featured-boxes-wrapper .SESyndicationModule ol.feedItems {list-style:none outside none;padding:10px 10px 7px 10px;margin:0;background:url(/bin/z/p/hcgh-events-list-bg.png) no-repeat 0 0;width:232px;}
+.featured-boxes-wrapper .SESyndicationModule ol.feedItems li {height:45px;background: url(/sebin/j/x/list_spacer.png) no-repeat 0 bottom;padding:5px 10px 4px 10px;margin:1px 0 6px 0;}
+.featured-boxes-wrapper .SESyndicationModule ol.feedItems li h3 {padding:0;margin:0;}
+.featured-boxes-wrapper .SESyndicationModule ol.feedItems li h3 a {color: #4A4A4A;display: block;font-size: 12px;text-decoration: none;font-weight:normal;}
+.featured-boxes-wrapper .SESyndicationModule ol.feedItems li h3 a:hover {color: #4A4A4A;display: block;font-size: 12px;text-decoration: underline;font-weight:normal;}
+.featured-boxes-wrapper .SESyndicationModule .description, .featured-boxes-wrapper .SESyndicationModule ol.feedItems .itemURL {display:none;height:0;}
+#hcgh-events-bottom {padding:0 20px 4px 0;background:url(/bin/v/x/hcgh-events-list-bottom-bg.png) no-repeat 0 bottom;width:232px;float:left;margin:0 0 0 10px;}
+#hcgh-events-bottom p.viewall {background:url(/sebin/j/j/list_img_black.png) left center no-repeat;font-weight:bold;margin:0 0 10px 20px;padding:0 0 0 10px;}
+#hcgh-events-bottom p.viewall a {background:none;color:#4A4A4A;display:block;height:auto;margin:0;padding:0;text-decoration:none;}
+
+/* Right Column Styles */
+/* -------------------------------------------------------- */
+
+.right{display:inline;float:right;margin:0;padding:0;width:234px;}
+
+/* Right Callout */
+
+.rightCallout{background:url(/sebin/f/f/calloutBg.jpg) top right repeat-x;color:#333333;font-size:12px;margin:0;overflow:hidden;padding:0 10px;}
+.rightCallout #physicianDataFilteredResults .resultItem{margin-bottom:10px;padding:0;}
+.rightCallout #physicianDataFilteredResults .resultItem h4{margin:0;padding:0;}
+.rightCallout #physicianDataFilteredResults .resultItem h4 a{color:#333333;font-size:11px;font-weight:normal;text-decoration:underline;}
+.rightCallout a.link_pdf{background-image:url(/sebin/w/z/pdficon.gif);background-position:left top;background-repeat:no-repeat;display:block;font-family:Arial,Helvetica,sans-serif;margin:0;padding:0 0 0 20px;}
+.rightCallout a.link_podcast{background-image:url(/sebin/y/q/podcast.gif);background-position:left top;background-repeat:no-repeat;display:block;font-family:Arial,Helvetica,Sans-Serif;margin:0;padding:0 0 0 20px;}
+.rightCallout a.link_powerpoint{background-image:url(/sebin/i/p/powerPoint.gif);background-position:left top;background-repeat:no-repeat;display:block;font-family:Arial,Helvetica,sans-serif;margin:0;padding:0 0 0 20px;}
+.rightCallout a.link_rss{background-image:url(/sebin/i/y/rss.gif);background-position:left top;background-repeat:no-repeat;display:block;font-family:Arial,Helvetica,sans-serif;margin:0;padding:0 0 0 20px;}
+.rightCallout a.link_video{background-image:url(/sebin/u/g/camera.gif);background-position:left top;background-repeat:no-repeat;display:block;font-family:Arial,Helvetica,sans-serif;margin:0;padding:0 0 0 20px;}
+.rightCallout a.link_word{background-image:url(/sebin/u/c/wordIcon.gif);background-position:left top;background-repeat:no-repeat;display:block;font-family:Arial,Helvetica,sans-serif;margin:0;padding:0 0 0 20px;}
+.rightCallout a.link_xcel{background-image:url(/sebin/w/e/xcelIcon.gif);background-position:left top;background-repeat:no-repeat;display:block;font-family:Arial,Helvetica,sans-serif;margin:0;padding:0 0 0 20px;}
+.rightCallout h2{background:#BFC9DC url(/sebin/o/g/calloutHeader.gif) bottom right repeat-x;color:#0B2972;display:block;font-size:14px;font-weight:bold;margin:2px -10px 20px;padding:10px;width:100%;}
+.rightCallout hr{margin:0 auto;}
+.rightCallout img{float:left;margin:5px 5px 5px 0;}
+.rightCallout span{font-weight:bold;}
+.rightCallout span.Header_2{background:#BFC9DC url(/sebin/o/g/calloutHeader.gif) bottom right repeat-x;color:#0B2972;display:block;font-size:14px;font-weight:bold;margin:2px -10px 20px;padding:10px;width:100%;}
+.rightCallout strong{color:#333333;font-size:12px;font-weight:bold;}
+.rightCallout ul{font-size:12px;list-style-type:none;margin-left:10px;margin-top:10px;padding-left:0;}
+.rightCallout ul li{line-height:16px;margin-bottom:6px;margin-left:10px;margin-top:6px;}
+
+/* Follow Us */
+
+.followUs p {background-image:url(/sebin/g/i/share_icon.gif);background-position:top left;background-repeat:no-repeat; height: 50px; margin-left: 5px;padding-left:45px;}
+.followUs a {color:#4a4a4a;text-decoration:none;}
+.followUs a:hover{text-decoration:underline;}
+
+/* What's New */
+
+.whatsNew{background:url(/sebin/p/y/whatsnewHeader.jpg) 2px 10px repeat-x;color:#333333;font-size:12px;font-weight:normal;margin:0 auto;padding:0 10px 10px;}
+.whatsNew a:hover{background-color:#FFCC33;}
+.whatsNew h6{color:#0B2972;font-size:14px;font-weight:bold;line-height:32px;margin:0 0 20px;padding-top:10px;font-family: Arial,Helvetica,sans-serif;}
+.whatsNew p{margin:9px 10px 9px 0;}
+.whatsNew p a{background-image:url(/sebin/e/z/blueCarrots.gif);background-position:right center;background-repeat:no-repeat;color:#0000EE;display:block;font-weight:normal;margin-top:0;padding-right:12px;text-decoration:none;width:30px;}
+.whatsNew p strong{color:#000000;font-size:12px;font-weight:bold;}
+.whatsnewBG{background-color:transparent;color:#3e71d0;font-size:13px;font-weight:bold;line-height:21px;margin-bottom:5px;margin-top:15px;text-decoration:none;}
+.whatsnewdiv{padding-left:0;padding-right:0;padding-top:10px;}
+
+
+/* Profile Directory Module */
+/* -------------------------------------------------------- */
+
+.SEProfileDirectoryModule{margin-top:10px;}
+.SEProfileDirectoryModule .nameSearch a{color:#012C7A;font-weight:bold;text-decoration:none;}
+.SEProfileDirectoryModule .nameSearch a:hover{color:#feb000;}
+.SEProfileDirectoryModule div.basicInfo{margin-bottom:10px;}
+.SEProfileDirectoryModule div.field{clear:both;float:left;padding-bottom:10px;width:100%;}
+.SEProfileDirectoryModule div.longtitle{color:#0b2972;font-size:12px;line-height:normal;}
+.SEProfileDirectoryModule div.nameSearch{font-size:14px;letter-spacing:5px;padding-bottom:20px;}
+.SEProfileDirectoryModule div.title{color:#0b2972;font-size:12px;line-height:normal;margin-top:5px;}
+.SEProfileDirectoryModule div.titles{color:#0b2972;font-size:12px;line-height:normal;margin-bottom:15px;}
+.SEProfileDirectoryModule h5{margin-bottom:10px;}
+.SEProfileDirectoryModule hr{display:none;}
+.SEProfileDirectoryModule input{font-size:12px;}
+.SEProfileDirectoryModule input.button{clear:both;float:left;left:155px;position:relative;}
+.SEProfileDirectoryModule label{float:left;padding-right:5px;text-align:right;width:100px;}
+.SEProfileDirectoryModule ol{list-style-type:none;margin-left:0;padding-left:0;}
+.SEProfileDirectoryModule li { margin-bottom: 15px; }
+.SEProfileDirectoryModule p{margin-top:0;}
+.SEProfileDirectoryModule select{padding-left:5px;text-align:left;width:375px;}
+.SEProfileDirectoryModule img{border:1px solid #CCCCCC;float:right;padding:5px; margin-left: 10px;}
+.SEProfileDirectoryModule .Header_1{ display: block;margin:0;}
+.SEProfileDirectoryModule h6.text{color:#4A4A4A;font-family:arial;font-size:12px;font-weight:bold;margin-bottom:2px;margin-top:15px;}
+.SEProfileDirectoryModule h6.selectedOptions{color:#4a4a4a;font-size:12px;font-weight:bold;margin:15px 0 2px;}
+.SEProfileDirectoryModule h6.string{color:#4a4a4a;font-size:12px;font-weight:bold;margin:15px 0 5px;}
+.SEProfileDirectoryModule#Profile div.basicInfo {color:#0b2972;font-family:Arial, Helvetica, sans-serif;font-size:20px;font-weight:bold;line-height:normal; } 
+.SEProfileDirectoryModule#Profile div.basicInfo .title, .SEProfileDirectoryModule#Profile div.basicInfo .phone, .SEProfileDirectoryModule#Profile div.basicInfo .email { font-weight: normal; color: #4a4a4a; font-size: 12px;}
+.rightCallout .SEProfileDirectoryModule .title { display: none; }
+
+/* Miscellaneous */
+/* -------------------------------------------------------- */
+
+.searchPageCount{float:right;text-align:right;width:200px;}
+.searchPageCount p{margin:0;padding:0;}
+.searchPagination{border-bottom:1px dotted #333333;clear:both;padding-bottom:10px;padding-top:10px;text-align:right;}
+.searchPagination2{border-top:1px dotted #333333;padding-top:10px;text-align:right;}
+/*.searchResultCount{float:left;} Not sure this float is necessary */ 
+
+.sel{background:url(/sebin/a/e/navArrow.gif) no-repeat 12px center;color:#000099;display:block;padding:2px 0 2px 28px;text-decoration:none;}
+.sepLink{background:url(/sebin/l/w/navSep2.jpg) no-repeat right center;color:#fff;cursor:pointer;display:inline;float:left;font-weight:bold;margin:0;padding:7px 4px;text-decoration:none;}
+.sepLink:hover,.noSepLink:hover{cursor:pointer;text-decoration:underline;}
+
+.subBanner{display:inline;float:left;margin:0;padding:0;width:763px;}
+.subPage{border-bottom:1px;border-bottom-color:#BDBDBD;display:inline;float:left;width:763px;}
+.subPageCalloutWrapper{display:inline;float:right;margin-left:39px;margin-top:15px;width:100%;}
+.toolPane{padding:5px;text-align:center;}
+.transparent{background-color:transparent;}
+.vTop{vertical-align:top;}
+a.subLink:hover{background:url(/sebin/l/a/yellowGrad.jpg) repeat-y white!important;}
+div.dataLabel{font-weight:bold;margin-top:10px;}
+div.smallentry{float:right;margin-bottom:10px;}
+div.titleLabel{display:none;}
+div.titleValue{color:#4c689a;font-size:18px;font-weight:normal;line-height:normal;}
+
+.Header_1,h1{color:#0b2972;font-family:Arial, Helvetica, sans-serif;font-size:20px;font-weight:bold;line-height:normal;margin:0;}
+.Header_2,h2{color:#4c689a;font-family:Arial, Helvetica, sans-serif;font-size:18px;font-weight:normal;line-height:normal;}
+.Header_3,h3{color:#4A4A4A;font-family:Arial, Helvetica, sans-serif;font-size:16px;font-weight:bold;line-height:normal;padding-top:7px;}
+
+#searchChoiceGroup{margin:0;padding:0;}
+
+.block{display:block;}
+
+/*#HealthInfo div.AtoZ{font-weight:bold;}
+#HealthInfo div.healthTopic{font-weight:bold;}
+#HealthInfo div.letter{color:#4C689A;font-size:18px;font-weight:bold;line-height:42px;}
+#HealthInfo div.title{color:#4C689A;}
+#HealthInfo span.selectedAtoZ{font-weight:bold;padding:5px;}
+.calloutCol{border:0 solid white;display:inline;float:left;width:240px;}
+
+.JH_Common_Title{caption:Title Text;color:#4C689A;font-family:Arial, Helvetica, sans-serif;font-size:14pt;font-weight:bold;}
+.JH_Common_UpdateDate{caption:Update Date Text;font-family:Arial, Helvetica, sans-serif;font-size:10pt;font-style:italic;}
+.JH_Cond_OrgText{caption:Organization Text;font-family:Arial, Helvetica, sans-serif;}
+.JH_Cond_SectionLinkList{caption:Section Link List;font-family:Arial, Helvetica, sans-serif;}
+.JH_Cond_SectionText{caption:Section Text;font-family:Arial, Helvetica, sans-serif;font-size:10pt;}
+.JH_Cond_SectionTitle{caption:Section Title;color:#4C689A;font-family:Arial, Helvetica, sans-serif;font-size:12pt;font-weight:bold;}
+.JH_Cond_Strong{caption:Bold (Span);font-family:Arial, Helvetica, sans-serif;font-weight:bold;}*/
+
+.contentTitle{color:#002C76;font-size:15px;font-weight:bold;}
+
+.g{margin-bottom:0;}
+.left{display:inline;float:left;}
+
+.noBackground{background-color:transparent;background-image:none;}
+.noMargin{margin:0;}
+.noPad{padding:0;}
+.noSepLink{color:#fff;cursor:pointer;display:inline;float:left;font-weight:bold;margin:0;padding:7px 4px;text-decoration:none;}
+
+.resultItem .resultItemCloser{clear:both;display:block;font-size:0;height:0;line-height:0;margin:0;padding:0;width:0;}
+
+p.note{clear:both;font-size:11px;font-style:italic;margin-top:30px;}
+
+.fl{cursor:pointer;}
+.floatleft{float:left;}
+.floatright{float:right;}
+
+#RSS {zoom:1;}
+.wrapperContent {zoom:1;}
+
+#browse_events { font-size: 18px; }
+
+.footerMiddle .socialIcons {float:left;clear:both;width:100%;}
+.footerMiddle .socialIcons a {min-width:30%;float:left;padding:0 3% 5% 0;}
+
+a.flex-button {box-shadow:0 1px 2px rgba(0,0,0,.6);border:1px solid #00276f;border-radius:3px;font-size: 1.2em;line-height:1.6em;font-weight:lighter;font-family:'Gill Sans', 'Helvetica Neue', Arial, Helvetica, sans-serif;text-decoration:none;color:#E7E9EB !important;text-shadow:0 1px 1px #00276f !important;padding:5px 7px;background: #4c689a; /* Old browsers */
+background: -moz-linear-gradient(top,  #4c689a 0%, #00276f 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#4c689a), color-stop(100%,#00276f)); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top,  #4c689a 0%,#00276f 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top,  #4c689a 0%,#00276f 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top,  #4c689a 0%,#00276f 100%); /* IE10+ */
+background: linear-gradient(top,  #4c689a 0%,#00276f 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#4c689a', endColorstr='#00276f',GradientType=0 ); /* IE6-9 */
+;}
+a.flex-button:hover {box-shadow:0 1px 2px rgba(0,0,0,.6);border:1px solid #00276f;border-radius:3px;font-size: 1.2em;line-height:1.6em;font-weight:lighter;font-family:'Gill Sans', 'Helvetica Neue', Arial, Helvetica, sans-serif;text-decoration:none;color:#E7E9EB !important;text-shadow:0 1px 1px #00276f !important;padding:5px 7px;background: #4c689a; /* Old browsers */
+background: -moz-linear-gradient(top,  #6480b4 0%, #00276f 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#6480b4), color-stop(100%,#00276f)); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top,  #6480b4 0%,#00276f 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top,  #6480b4 0%,#00276f 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top,  #6480b4 0%,#00276f 100%); /* IE10+ */
+background: linear-gradient(top,  #6480b4 0%,#00276f 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#6480b4', endColorstr='#00276f',GradientType=0 ); /* IE6-9 */
+;}
