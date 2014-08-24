@@ -1,0 +1,544 @@
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+nav,
+section {
+  display: block; }
+
+audio,
+canvas,
+video {
+  display: inline-block;
+  *display: inline;
+  *zoom: 1; }
+
+audio:not([controls]) {
+  display: none; }
+
+html {
+  font-size: 100%;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%; }
+
+a:focus {
+  outline: thin dotted;
+  outline: 5px auto -webkit-focus-ring-color;
+  outline-offset: -2px;
+  -moz-outline: 5px auto -moz-mac-focusring;
+  -moz-outline-radius: 6px;
+  -moz-outline-offset: 0; }
+
+a:hover,
+a:active {
+  outline: 0; }
+
+sub,
+sup {
+  position: relative;
+  font-size: 75%;
+  line-height: 0;
+  vertical-align: baseline; }
+
+sup {
+  top: -0.5em; }
+
+sub {
+  bottom: -0.25em; }
+
+img {
+  /* Responsive images (ensure images don't scale beyond their parents) */
+  max-width: 100%;
+  /* Part 1: Set a maxium relative to the parent */
+  width: auto\9;
+  /* IE7-8 need help adjusting responsive images */
+  height: auto;
+  /* Part 2: Scale the height according to the width, otherwise you get stretching */
+  vertical-align: middle;
+  border: 0;
+  -ms-interpolation-mode: bicubic; }
+
+#map_canvas img {
+  max-width: none; }
+
+button,
+input,
+select,
+textarea {
+  margin: 0;
+  font-size: 100%;
+  vertical-align: middle; }
+
+button,
+input {
+  *overflow: visible;
+  line-height: normal; }
+
+button::-moz-focus-inner,
+input::-moz-focus-inner {
+  padding: 0;
+  border: 0; }
+
+button,
+input[type="button"],
+input[type="reset"],
+input[type="submit"] {
+  cursor: pointer;
+  -webkit-appearance: button; }
+
+input[type="search"] {
+  -webkit-box-sizing: content-box;
+  -moz-box-sizing: content-box;
+  box-sizing: content-box;
+  -webkit-appearance: textfield; }
+
+input[type="search"]::-webkit-search-decoration,
+input[type="search"]::-webkit-search-cancel-button {
+  -webkit-appearance: none; }
+
+textarea {
+  overflow: auto;
+  vertical-align: top; }
+
+html {
+  background-color: transparent; }
+
+body {
+  margin: 0;
+  padding: 0;
+  color: #333333;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14px;
+  line-height: 1.5;
+  background-color: transparent; }
+
+a {
+  text-decoration: none; }
+  a:focus {
+    outline: 0; }
+
+div.svejo_button {
+  position: relative;
+  display: block;
+  overflow: hidden;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  width: auto;
+  height: auto; }
+  div.svejo_button div.vertical,
+  div.svejo_button div.horizontal,
+  div.svejo_button div.text {
+    position: relative;
+    display: block;
+    overflow: hidden;
+    text-align: center; }
+  div.svejo_button div.vertical,
+  div.svejo_button div.standard {
+    width: 51px;
+    height: 60px; }
+    div.svejo_button div.vertical div.state_vote,
+    div.svejo_button div.vertical div.state_vote_hover,
+    div.svejo_button div.vertical div.state_vote_press,
+    div.svejo_button div.standard div.state_vote,
+    div.svejo_button div.standard div.state_vote_hover,
+    div.svejo_button div.standard div.state_vote_press {
+      display: block;
+      height: 60px; }
+    div.svejo_button div.vertical div.state_vote .action_vote,
+    div.svejo_button div.standard div.state_vote .action_vote {
+      background-color: #fafafa;
+      background-image: -webkit-linear-gradient(top, #fafafa 0, #e6e6e6 100%);
+      background-image: -moz-linear-gradient(top, #fafafa 0, #e6e6e6 100%);
+      background-image: -o-linear-gradient(top, #fafafa 0, #e6e6e6 100%);
+      background-image: -ms-linear-gradient(top, #fafafa 0, #e6e6e6 100%);
+      background-image: linear-gradient(top, #fafafa 0, #e6e6e6 100%); }
+      div.svejo_button div.vertical div.state_vote .action_vote span,
+      div.svejo_button div.standard div.state_vote .action_vote span {
+        background-position: -16px -1px; }
+    div.svejo_button div.vertical div.state_vote_hover .action_vote,
+    div.svejo_button div.standard div.state_vote_hover .action_vote {
+      background-color: #e6e6e6;
+      background-image: -webkit-linear-gradient(top, #e6e6e6 0, #fafafa 100%);
+      background-image: -moz-linear-gradient(top, #e6e6e6 0, #fafafa 100%);
+      background-image: -o-linear-gradient(top, #e6e6e6 0, #fafafa 100%);
+      background-image: -ms-linear-gradient(top, #e6e6e6 0, #fafafa 100%);
+      background-image: linear-gradient(top, #e6e6e6 0, #fafafa 100%); }
+      div.svejo_button div.vertical div.state_vote_hover .action_vote span,
+      div.svejo_button div.standard div.state_vote_hover .action_vote span {
+        background-position: -16px -1px; }
+    div.svejo_button div.vertical div.state_vote_press .action_vote,
+    div.svejo_button div.standard div.state_vote_press .action_vote {
+      background-color: #eeeeee; }
+      div.svejo_button div.vertical div.state_vote_press .action_vote span,
+      div.svejo_button div.standard div.state_vote_press .action_vote span {
+        background-position: -16px -20px; }
+    div.svejo_button div.vertical a,
+    div.svejo_button div.standard a {
+      display: block;
+      text-decoration: none; }
+    div.svejo_button div.vertical .rating,
+    div.svejo_button div.standard .rating {
+      position: relative;
+      display: block;
+      height: 32px;
+      line-height: 32px;
+      margin-bottom: 8px;
+      text-decoration: none;
+      color: #444444;
+      background-color: #ffffff;
+      border: 1px solid #d1d1d1;
+      border-radius: 3px; }
+      div.svejo_button div.vertical .rating strong,
+      div.svejo_button div.standard .rating strong {
+        display: block;
+        font-size: 14px;
+        font-weight: normal; }
+      div.svejo_button div.vertical .rating span.arrow,
+      div.svejo_button div.standard .rating span.arrow {
+        position: absolute;
+        bottom: -4px;
+        left: 19px;
+        display: block;
+        width: 9px;
+        height: 4px;
+        background-image: url("/images/design/svejo-button.png");
+        background-position: -1px -1px;
+        background-repeat: no-repeat; }
+      div.svejo_button div.vertical .rating span.loader_hidden,
+      div.svejo_button div.vertical .rating span.loader_visible,
+      div.svejo_button div.standard .rating span.loader_hidden,
+      div.svejo_button div.standard .rating span.loader_visible {
+        position: absolute;
+        top: 0px;
+        left: 0px;
+        display: block;
+        width: 100%;
+        height: 100%;
+        font-size: 0;
+        line-height: 0;
+        background-image: url("/images/v2/design/loaders/indicator.gif");
+        background-position: center center;
+        background-repeat: no-repeat; }
+      div.svejo_button div.vertical .rating span.loader_hidden,
+      div.svejo_button div.standard .rating span.loader_hidden {
+        display: none; }
+      div.svejo_button div.vertical .rating span.loader_visible,
+      div.svejo_button div.standard .rating span.loader_visible {
+        display: block; }
+    div.svejo_button div.vertical .action_vote,
+    div.svejo_button div.standard .action_vote {
+      display: block;
+      height: 16px;
+      line-height: 16px;
+      border: 1px solid #d1d1d1;
+      border-radius: 3px; }
+      div.svejo_button div.vertical .action_vote span,
+      div.svejo_button div.standard .action_vote span {
+        position: relative;
+        top: -1px;
+        left: -1px;
+        display: block;
+        width: 49px;
+        height: 18px;
+        background-image: url("/images/design/svejo-button.png");
+        background-repeat: no-repeat; }
+  div.svejo_button div.horizontal,
+  div.svejo_button div.compact {
+    width: 100px;
+    height: 18px; }
+    div.svejo_button div.horizontal div.state_vote,
+    div.svejo_button div.horizontal div.state_vote_hover,
+    div.svejo_button div.horizontal div.state_vote_press,
+    div.svejo_button div.compact div.state_vote,
+    div.svejo_button div.compact div.state_vote_hover,
+    div.svejo_button div.compact div.state_vote_press {
+      display: block;
+      height: 18px; }
+    div.svejo_button div.horizontal div.state_vote .action_vote,
+    div.svejo_button div.compact div.state_vote .action_vote {
+      background-color: #fafafa;
+      background-image: -webkit-linear-gradient(top, #fafafa 0, #e6e6e6 100%);
+      background-image: -moz-linear-gradient(top, #fafafa 0, #e6e6e6 100%);
+      background-image: -o-linear-gradient(top, #fafafa 0, #e6e6e6 100%);
+      background-image: -ms-linear-gradient(top, #fafafa 0, #e6e6e6 100%);
+      background-image: linear-gradient(top, #fafafa 0, #e6e6e6 100%); }
+      div.svejo_button div.horizontal div.state_vote .action_vote span,
+      div.svejo_button div.compact div.state_vote .action_vote span {
+        background-position: -16px -1px; }
+    div.svejo_button div.horizontal div.state_vote_hover .action_vote,
+    div.svejo_button div.compact div.state_vote_hover .action_vote {
+      background-color: #e6e6e6;
+      background-image: -webkit-linear-gradient(top, #e6e6e6 0, #fafafa 100%);
+      background-image: -moz-linear-gradient(top, #e6e6e6 0, #fafafa 100%);
+      background-image: -o-linear-gradient(top, #e6e6e6 0, #fafafa 100%);
+      background-image: -ms-linear-gradient(top, #e6e6e6 0, #fafafa 100%);
+      background-image: linear-gradient(top, #e6e6e6 0, #fafafa 100%); }
+      div.svejo_button div.horizontal div.state_vote_hover .action_vote span,
+      div.svejo_button div.compact div.state_vote_hover .action_vote span {
+        background-position: -16px -1px; }
+    div.svejo_button div.horizontal div.state_vote_press .action_vote,
+    div.svejo_button div.compact div.state_vote_press .action_vote {
+      background-color: #eeeeee; }
+      div.svejo_button div.horizontal div.state_vote_press .action_vote span,
+      div.svejo_button div.compact div.state_vote_press .action_vote span {
+        background-position: -16px -20px; }
+    div.svejo_button div.horizontal a,
+    div.svejo_button div.compact a {
+      display: block;
+      text-decoration: none; }
+    div.svejo_button div.horizontal .rating,
+    div.svejo_button div.compact .rating {
+      position: relative;
+      display: block;
+      float: right;
+      width: 40px;
+      height: 16px;
+      line-height: 16px;
+      margin-left: 6px;
+      text-decoration: none;
+      color: #444444;
+      background-color: #ffffff;
+      border: 1px solid #d1d1d1;
+      border-radius: 3px; }
+      div.svejo_button div.horizontal .rating strong,
+      div.svejo_button div.compact .rating strong {
+        display: block;
+        font-size: 12px;
+        font-weight: normal; }
+      div.svejo_button div.horizontal .rating span.arrow,
+      div.svejo_button div.compact .rating span.arrow {
+        position: absolute;
+        top: 4px;
+        left: -4px;
+        display: block;
+        width: 4px;
+        height: 9px;
+        background-image: url("/images/design/svejo-button.png");
+        background-position: -6px -6px;
+        background-repeat: no-repeat; }
+      div.svejo_button div.horizontal .rating span.loader_hidden,
+      div.svejo_button div.horizontal .rating span.loader_visible,
+      div.svejo_button div.compact .rating span.loader_hidden,
+      div.svejo_button div.compact .rating span.loader_visible {
+        position: absolute;
+        top: 0px;
+        left: 0px;
+        display: block;
+        width: 100%;
+        height: 100%;
+        font-size: 0;
+        line-height: 0;
+        background-image: url("/images/v2/design/loaders/indicator.gif");
+        background-position: center center;
+        background-repeat: no-repeat; }
+      div.svejo_button div.horizontal .rating span.loader_hidden,
+      div.svejo_button div.compact .rating span.loader_hidden {
+        display: none; }
+      div.svejo_button div.horizontal .rating span.loader_visible,
+      div.svejo_button div.compact .rating span.loader_visible {
+        display: block; }
+    div.svejo_button div.horizontal .action_vote,
+    div.svejo_button div.compact .action_vote {
+      display: block;
+      float: left;
+      width: 50px;
+      height: 16px;
+      line-height: 16px;
+      border: 1px solid #d1d1d1;
+      border-radius: 3px; }
+      div.svejo_button div.horizontal .action_vote span,
+      div.svejo_button div.compact .action_vote span {
+        position: relative;
+        top: -1px;
+        left: -1px;
+        display: block;
+        width: 49px;
+        height: 18px;
+        background-image: url("/images/design/svejo-button.png");
+        background-repeat: no-repeat; }
+  div.svejo_button div.button {
+    width: 51px;
+    height: 18px; }
+    div.svejo_button div.button div.state_vote,
+    div.svejo_button div.button div.state_vote_hover,
+    div.svejo_button div.button div.state_vote_press {
+      display: block;
+      height: 18px; }
+    div.svejo_button div.button div.state_vote .action_vote {
+      background-color: #fafafa;
+      background-image: -webkit-linear-gradient(top, #fafafa 0, #e6e6e6 100%);
+      background-image: -moz-linear-gradient(top, #fafafa 0, #e6e6e6 100%);
+      background-image: -o-linear-gradient(top, #fafafa 0, #e6e6e6 100%);
+      background-image: -ms-linear-gradient(top, #fafafa 0, #e6e6e6 100%);
+      background-image: linear-gradient(top, #fafafa 0, #e6e6e6 100%); }
+      div.svejo_button div.button div.state_vote .action_vote span {
+        background-position: -16px -1px; }
+    div.svejo_button div.button div.state_vote_hover .action_vote {
+      background-color: #e6e6e6;
+      background-image: -webkit-linear-gradient(top, #e6e6e6 0, #fafafa 100%);
+      background-image: -moz-linear-gradient(top, #e6e6e6 0, #fafafa 100%);
+      background-image: -o-linear-gradient(top, #e6e6e6 0, #fafafa 100%);
+      background-image: -ms-linear-gradient(top, #e6e6e6 0, #fafafa 100%);
+      background-image: linear-gradient(top, #e6e6e6 0, #fafafa 100%); }
+      div.svejo_button div.button div.state_vote_hover .action_vote span {
+        background-position: -16px -1px; }
+    div.svejo_button div.button div.state_vote_press .action_vote {
+      background-color: #eeeeee; }
+      div.svejo_button div.button div.state_vote_press .action_vote span {
+        background-position: -16px -20px; }
+    div.svejo_button div.button a {
+      display: block;
+      text-decoration: none; }
+    div.svejo_button div.button .rating {
+      display: none; }
+    div.svejo_button div.button .action_vote {
+      display: block;
+      height: 16px;
+      line-height: 16px;
+      border: 1px solid #d1d1d1;
+      border-radius: 3px; }
+      div.svejo_button div.button .action_vote span {
+        position: relative;
+        top: -1px;
+        left: -1px;
+        display: block;
+        width: 49px;
+        height: 18px;
+        background-image: url("/images/design/svejo-button.png");
+        background-repeat: no-repeat; }
+  div.svejo_button div.icon {
+    width: 18px;
+    height: 18px; }
+    div.svejo_button div.icon div.state_vote,
+    div.svejo_button div.icon div.state_vote_hover,
+    div.svejo_button div.icon div.state_vote_press {
+      display: block;
+      height: 18px; }
+    div.svejo_button div.icon div.state_vote .action_vote {
+      background-color: #fafafa;
+      background-image: -webkit-linear-gradient(top, #fafafa 0, #e6e6e6 100%);
+      background-image: -moz-linear-gradient(top, #fafafa 0, #e6e6e6 100%);
+      background-image: -o-linear-gradient(top, #fafafa 0, #e6e6e6 100%);
+      background-image: -ms-linear-gradient(top, #fafafa 0, #e6e6e6 100%);
+      background-image: linear-gradient(top, #fafafa 0, #e6e6e6 100%); }
+      div.svejo_button div.icon div.state_vote .action_vote span {
+        background-position: -16px -1px; }
+    div.svejo_button div.icon div.state_vote_hover .action_vote {
+      background-color: #e6e6e6;
+      background-image: -webkit-linear-gradient(top, #e6e6e6 0, #fafafa 100%);
+      background-image: -moz-linear-gradient(top, #e6e6e6 0, #fafafa 100%);
+      background-image: -o-linear-gradient(top, #e6e6e6 0, #fafafa 100%);
+      background-image: -ms-linear-gradient(top, #e6e6e6 0, #fafafa 100%);
+      background-image: linear-gradient(top, #e6e6e6 0, #fafafa 100%); }
+      div.svejo_button div.icon div.state_vote_hover .action_vote span {
+        background-position: -16px -1px; }
+    div.svejo_button div.icon div.state_vote_press .action_vote {
+      background-color: #eeeeee; }
+      div.svejo_button div.icon div.state_vote_press .action_vote span {
+        background-position: -16px -20px; }
+    div.svejo_button div.icon a {
+      display: block;
+      text-decoration: none; }
+    div.svejo_button div.icon .rating {
+      display: none; }
+    div.svejo_button div.icon .action_vote {
+      display: block;
+      height: 16px;
+      line-height: 16px;
+      border: 1px solid #d1d1d1;
+      border-radius: 3px; }
+      div.svejo_button div.icon .action_vote span {
+        position: relative;
+        top: -1px;
+        left: -1px;
+        display: block;
+        width: 18px;
+        height: 18px;
+        background-image: url("/images/design/svejo-button.png");
+        background-repeat: no-repeat; }
+  div.svejo_button div.text {
+    width: 140px;
+    height: 18px; }
+    div.svejo_button div.text div.state_vote,
+    div.svejo_button div.text div.state_vote_hover,
+    div.svejo_button div.text div.state_vote_press {
+      display: block;
+      height: 18px; }
+    div.svejo_button div.text div.state_vote .action_vote {
+      background-color: #fafafa;
+      background-image: -webkit-linear-gradient(top, #fafafa 0, #e6e6e6 100%);
+      background-image: -moz-linear-gradient(top, #fafafa 0, #e6e6e6 100%);
+      background-image: -o-linear-gradient(top, #fafafa 0, #e6e6e6 100%);
+      background-image: -ms-linear-gradient(top, #fafafa 0, #e6e6e6 100%);
+      background-image: linear-gradient(top, #fafafa 0, #e6e6e6 100%); }
+      div.svejo_button div.text div.state_vote .action_vote span {
+        background-position: -16px -1px; }
+    div.svejo_button div.text div.state_vote_hover .action_vote {
+      background-color: #e6e6e6;
+      background-image: -webkit-linear-gradient(top, #e6e6e6 0, #fafafa 100%);
+      background-image: -moz-linear-gradient(top, #e6e6e6 0, #fafafa 100%);
+      background-image: -o-linear-gradient(top, #e6e6e6 0, #fafafa 100%);
+      background-image: -ms-linear-gradient(top, #e6e6e6 0, #fafafa 100%);
+      background-image: linear-gradient(top, #e6e6e6 0, #fafafa 100%); }
+      div.svejo_button div.text div.state_vote_hover .action_vote span {
+        background-position: -16px -1px; }
+    div.svejo_button div.text div.state_vote_press .action_vote {
+      background-color: #eeeeee; }
+      div.svejo_button div.text div.state_vote_press .action_vote span {
+        background-position: -16px -20px; }
+    div.svejo_button div.text a {
+      display: block;
+      text-decoration: none; }
+    div.svejo_button div.text .rating {
+      position: relative;
+      display: block;
+      float: right;
+      width: 80px;
+      height: 16px;
+      line-height: 16px;
+      text-decoration: none;
+      color: #444444;
+      text-align: left; }
+      div.svejo_button div.text .rating strong {
+        font-size: 12px;
+        font-weight: normal; }
+      div.svejo_button div.text .rating span.text {
+        font-size: 11px; }
+      div.svejo_button div.text .rating span.loader_hidden,
+      div.svejo_button div.text .rating span.loader_visible {
+        position: absolute;
+        top: 0px;
+        left: 0px;
+        display: block;
+        width: 100%;
+        height: 100%;
+        font-size: 0;
+        line-height: 0;
+        background-image: url("/images/v2/design/loaders/indicator.gif");
+        background-position: center center;
+        background-repeat: no-repeat; }
+      div.svejo_button div.text .rating span.loader_hidden {
+        display: none; }
+      div.svejo_button div.text .rating span.loader_visible {
+        display: block; }
+    div.svejo_button div.text .action_vote {
+      display: block;
+      float: left;
+      width: 50px;
+      height: 16px;
+      line-height: 16px;
+      border: 1px solid #d1d1d1;
+      border-radius: 3px; }
+      div.svejo_button div.text .action_vote span {
+        position: relative;
+        top: -1px;
+        left: -1px;
+        display: block;
+        width: 49px;
+        height: 18px;
+        background-image: url("/images/design/svejo-button.png");
+        background-repeat: no-repeat; }
