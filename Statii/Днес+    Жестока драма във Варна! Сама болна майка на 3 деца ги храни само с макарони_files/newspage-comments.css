@@ -1,0 +1,48 @@
+﻿div.newspage-comments-title
+{
+    padding: 0.25em 10px;
+    margin: 0 0 0 5px;
+    font-weight: bold;
+    border-bottom:solid 1px #34689A
+}
+dl.newspage-comments
+{
+    width: 403px;/*448px;*/
+    margin:0 auto;
+}
+dl.newspage-comments dt
+{
+    float: left;
+    clear: right;
+    width: 80px;
+    font-size: 1em;
+    color: #333;
+}
+
+dl.newspage-comments dt.separator
+{
+    float:none;
+    clear:both;
+    width:auto;
+    border-bottom:dotted 1px #ccc;
+}
+
+dl.newspage-comments dd
+{
+    float: left;
+    width: 323px;/*368px;*/
+    margin: 0 0 5px 0px;/* top right bottom left */
+    font-weight: normal;
+    
+}
+dl.newspage-comments dd a,
+dl.newspage-comments dd a:active,
+dl.newspage-comments dd a:link,
+dl.newspage-comments dd a:visited
+{
+    color: #000;
+}
+dl.newspage-comments dd a:hover
+{
+    color: #c00;
+}

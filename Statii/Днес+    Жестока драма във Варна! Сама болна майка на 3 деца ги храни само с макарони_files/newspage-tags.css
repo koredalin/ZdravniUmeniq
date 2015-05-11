@@ -1,0 +1,33 @@
+﻿div.newstags-top
+{
+    margin: 0;
+    padding: 0;
+    background: #FFF url(../images/panelback_423x10_top.gif) no-repeat scroll;
+    width: 423px;
+    height: 10px;
+}
+div.newstags-bottom
+{
+    margin: 0;
+    padding: 0;
+    background: #FFF url(../images/panelback_423x10_bottom.gif) no-repeat scroll top;
+    width: 423px;
+    height: 10px;
+}
+div.newstags
+{
+    margin: 0;
+    padding: 0;
+    background: #FFF url(../images/panelback_423x30_middle.gif) repeat-y scroll top;
+    /*height:130px;*/
+    width: 423px;
+    overflow:hidden;
+}
+div.newstags a.newstags-title
+{
+    background: #CCC url(../images/panelback_20x20_title.gif) repeat-x scroll center;
+    display: block;
+    padding: 0.25em 10px;
+    font-weight: bold;
+    margin:0 10px;
+}

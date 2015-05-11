@@ -1,0 +1,289 @@
+﻿/* current timestamp */
+#pagecontainer-header div.timestamp-curren
+{
+    position: absolute;
+    left: 16px;
+    top: 8px;
+    font-weight: bold;
+    font-size: 11px;
+    color: #FFF;
+}
+/* actualization timestamp */
+#pagecontainer-header div.timestamp-actual
+{
+    position: absolute;
+    width: 300px;
+    left: 670px;
+    top: 85px;
+    font-weight: bold;
+    font-size: 11px;
+    text-align: right;
+}
+/* login box */
+#pagecontainer-header div.loginbox
+{
+   position: absolute;
+   width: 300px;
+   left: 670px;
+   top: 16px;
+   font-weight: bold;
+   font-size: 11px;
+   text-align: right;
+   color: #FFF;
+   visibility: hidden;
+}
+#pagecontainer-header div.loginbox a,
+#pagecontainer-header div.loginbox a:hover
+{
+    color: #FFF;
+    text-decoration: none;
+}
+/* search box */
+#pagecontainer-header div.searchbox
+{
+   position: absolute;
+   width: 300px;
+   left: 670px;
+   top: 36px;
+   text-align: right; 
+}
+#pagecontainer-header div.searchbox .searchbox-field
+{
+    width: 185px;    
+    font: normal 10px Arial, Helvetica, Utkal, sans-serif;    
+    background-color: #FFF;    
+    color: #000;    
+    border: 1px solid #284279;    
+}
+#pagecontainer-header div.searchbox .searchbox-button
+{
+    width: 50px;
+    font: normal 10px Arial, Helvetica, Utkal, sans-serif;    
+    background-color: #EFEFEF;    
+    color: #005593;
+    border: 1px solid #284279;
+}
+/* logo */
+#pagecontainer-header div.logo
+{
+    position: absolute;
+    left: 10px;
+    top: 25px;
+    height:55px;
+    width:300px;
+}
+#pagecontainer-header div.logo a
+{
+    display:block;
+    height:55px;
+    width:300px;
+}
+/* current rubric */
+#pagecontainer-header div.currentrubric
+{
+    position: absolute;
+    left: 310px;
+    top: 33px;
+    font-weight: bold;
+    font-size: 24px;
+    color: #FFF; 
+}
+/* brand menu */
+#pagecontainer-header div.brandmenu
+{
+    position: absolute;
+    left: 68px;
+    top: 85px;
+    font-weight: bold;
+    font-size: 11px;
+}
+/* rubric menu */
+#pagecontainer-header div.rubricmenu
+{
+    position: absolute;
+    left: 10px;
+    top: 102px;
+}
+
+/* ================================================================ 
+This copyright notice must be untouched at all times.
+
+The original version of this stylesheet and the associated (x)html
+is available at http://www.cssplay.co.uk/menus/upmenu.html
+Copyright (c) 2005-2009 Stu Nicholls. All rights reserved.
+This stylesheet and the associated (x)html may be modified in any 
+way to fit your requirements.
+=================================================================== */
+
+
+#pagecontainer-header div.rubricmenu ul li a, 
+#pagecontainer-header div.rubricmenu ul li a:visited 
+{
+    display:block; 
+    padding: 0 6px;
+    border-right:1px solid #fff; 
+	background:transparent; 
+	color:#fff; 
+    font-weight: bold; 
+	font-size:11px;
+	line-height:18px; 
+	text-decoration:none; 
+}
+
+#pagecontainer-header div.rubricmenu ul 
+{
+    padding:0; 
+    margin:0; 
+    list-style-type: none; 
+}
+
+#pagecontainer-header div.rubricmenu ul li 
+{
+    float:left; 
+    position:relative;
+}
+
+#pagecontainer-header div.rubricmenu ul li ul 
+{
+    visibility:hidden; 
+    position:absolute; 
+    border-bottom: solid 1px #005695;
+}
+
+#pagecontainer-header div.rubricmenu table {border-collapse:collapse; margin:0; padding:0; font-size:1em; margin:-1px;}
+
+#pagecontainer-header div.rubricmenu ul li:hover a, 
+#pagecontainer-header div.rubricmenu ul li a:hover 
+{
+    color:#EFEFEF; 
+    background:#005695;
+}
+
+#pagecontainer-header div.rubricmenu ul li:hover ul, 
+#pagecontainer-header div.rubricmenu ul li a:hover ul 
+{
+    visibility:visible; 
+    bottom:18px; 
+    left:-1px; 
+}
+/*
+#pagecontainer-header div.rubricmenu ul li:hover ul li a.sub, 
+#pagecontainer-header div.rubricmenu ul li a:hover ul li a.sub {background:#a7c9c9; color:#000;}
+*/
+#pagecontainer-header div.rubricmenu ul li:hover ul li, 
+#pagecontainer-header div.rubricmenu ul li a:hover ul li 
+{
+    display:block;  
+    width:150px; 
+    clear:both;
+}
+/*
+#pagecontainer-header div.rubricmenu ul li:hover ul li:hover a.sub, 
+#pagecontainer-header div.rubricmenu ul li a:hover ul li a:hover.sub 
+{
+    color:#000;
+    background:#dfc184;
+}
+*/
+#pagecontainer-header div.rubricmenu ul li:hover ul li ul, 
+#pagecontainer-header div.rubricmenu ul li a:hover ul li a ul 
+{
+    visibility:hidden; 
+    position:absolute; 
+    border-bottom: solid 1px #005695;
+}
+
+#pagecontainer-header div.rubricmenu ul li:hover ul li a, 
+#pagecontainer-header div.rubricmenu ul li a:hover ul li a 
+{
+    display:block; 
+    padding:0px 6px; 
+    border-left:1px solid #005695; 
+    border-top:1px solid #005695; 
+    border-right:1px solid #005695;
+    
+    color:#005695; 
+    background:#EFEFEF; 
+}
+
+#pagecontainer-header div.rubricmenu ul li:hover ul li a:hover, 
+#pagecontainer-header div.rubricmenu ul li a:hover ul li a:hover 
+{
+    color: #039;/*color:#EFEFEF; */
+    background: #ccc;/*background:#005695;*/
+}
+
+#pagecontainer-header div.rubricmenu ul li:hover ul li:hover ul, 
+#pagecontainer-header div.rubricmenu ul li a:hover ul li a:hover ul 
+{
+    visibility:visible; 
+    left:144px; 
+    bottom:2px;
+    z-index: 10;
+}
+
+#pagecontainer-header div.rubricmenu ul li:hover ul li:hover ul li a, 
+#pagecontainer-header div.rubricmenu ul li a:hover ul li a:hover ul li a 
+{
+    color:#005695; 
+    background:#EFEFEF; 
+}
+
+#pagecontainer-header div.rubricmenu ul li:hover ul li:hover ul li a:hover, 
+#pagecontainer-header div.rubricmenu ul li a:hover ul li a:hover ul li a:hover 
+{
+    color: #039;/*color:#EFEFEF; */
+    background: #ccc;/*background:#005695;*/
+}
+
+/*
+#pagecontainer-header div.rubricmenu ul
+{
+    margin: 0;
+    padding: 0;
+}
+#pagecontainer-header div.rubricmenu ul li
+{
+    list-style-type: none;
+    display: inline;
+}
+#pagecontainer-header div.rubricmenu li a
+{
+    display: block;
+    float: left;
+    padding: 0 6px;
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 11px;
+    border-right: 1px solid #fff;
+}
+#pagecontainer-header div.rubricmenu li a:hover
+{
+    color: #EFEFEF;
+}
+*/
+/* region menu */
+#pagecontainer-header div.regionmenu 
+{
+    position: absolute;
+    left: 810px;
+    top: 103px;
+    width:160px;
+    text-align: right;
+    font-weight: bold;
+    font-size: 11px;
+    color:#fff !important;
+}
+#pagecontainer-header div.regionmenu а, #pagecontainer-header div.regionmenu a:link, #pagecontainer-header div.regionmenu a:visited
+{
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 11px;
+    color:#fff !important;
+}
+#pagecontainer-header div.regionmenu а:hover, #pagecontainer-header div.regionmenu а:active
+{
+    text-decoration: none;
+    color: #EFEFEF !important;
+}

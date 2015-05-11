@@ -1,0 +1,38 @@
+﻿/***************************
+     Banner wrappers
+****************************/
+div.bannerwrapper-250x250
+{
+    width: 250px;
+    height: 250px;
+    margin: 0 auto;
+    overflow:hidden;
+}
+div.bannerwrapper-300x250
+{
+    width: 300px;
+    height: 250px;
+    margin: 0 auto;
+    overflow:hidden;
+}
+div.bannerwrapper-468x60
+{
+    width: 468px;
+    height: 60px;
+    margin: 5px auto;
+    overflow:hidden;
+}
+div.bannerwrapper-728x90
+{
+    width: 728px;
+    height: 90px;
+    margin: 5px auto;
+    overflow:hidden;
+}
+div.bannerwrapper-200x200
+{
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+    overflow:hidden;
+}

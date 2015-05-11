@@ -1,0 +1,31 @@
+﻿div.topvideo-top
+{
+    margin: 0;
+    padding: 0;
+    background:#FFF url(../images/panelback_260x10_top.gif) no-repeat scroll;
+    width:260px;
+    height:10px;
+}
+div.topvideo-bottom
+{
+    margin: 0;
+    padding: 0;
+    background: #FFF url(../images/panelback_260x10_bottom.gif) no-repeat scroll top;
+    width: 260px;
+    height: 10px;
+}
+div.topvideo
+{
+    margin: 0;
+    padding: 0 10px;
+    background: #FFF url(../images/panelback_260x30_middle.gif) repeat-y scroll top;
+    height:155px;
+    overflow:hidden;
+}
+div.topvideo a.topvideo-title
+{
+    background: #CCC url(../images/panelback_20x20_title.gif) repeat-x scroll center;
+    display: block;
+    padding: 0.25em 10px;
+    font-weight: bold;
+}

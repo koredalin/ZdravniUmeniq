@@ -1,0 +1,30 @@
+﻿div.newspage-news
+{
+    padding: 0;
+    border: none;
+}
+div.newspage-news div.newspage-news-photo
+{
+    width: 423px;
+    /*height: 250px;*/
+    background-color: #ccc;
+}
+div.newspage-news h3.newspage-news-title
+{
+    margin: 10px 0 0 0;
+    padding: 0;
+    font-size: 1.3em;
+    color: #34689A;
+}
+div.newspage-news p
+{
+    margin: 2px 0;
+    padding: 0;
+    font-size: 1em;
+}
+div.newspage-news p.newspage-news-date
+{
+    font-size: 0.8em;
+    font-style: italic;
+    margin: 0 0 10px 0;
+}

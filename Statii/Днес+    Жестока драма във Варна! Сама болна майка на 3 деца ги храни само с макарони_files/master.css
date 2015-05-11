@@ -1,0 +1,67 @@
+﻿html, body
+{
+    margin: 0;
+    padding: 0;
+}
+body
+{
+    font: normal 8pt Arial, Helvetica, Utkal, sans-serif;
+    color: #000;
+}
+a, a:link, a:visited
+{
+    text-decoration: none;
+    color: #000;
+}
+a:hover, a:active
+{
+    text-decoration: none;
+    color: #c00;
+}
+/***************************
+Layout
+****************************/
+#pagecontainer
+{
+    margin: 0 auto;
+    width: 992px;
+    background: #fff;
+}
+#pagecontainer-header
+{
+    position: relative;
+    z-index: 1000;
+    background: #34689A url(../images/head.png) no-repeat scroll top;
+    padding: 0;
+    width: 980px;
+    height: 126px;
+    margin:0 auto;
+}
+#pagecontainer-content
+{
+    clear: both;
+    float: none;
+    /*float: left;*/
+    width: 992px;
+    background: #fff;
+}
+#pagecontainer-footer
+{
+    clear: both;
+    float: none;
+    width: 992px;
+    text-align: center;
+}
+#pagecontainer-content-main
+{
+    clear: left;
+    float: left;
+    width: 732px;
+    display: inline;
+}
+#pagecontainer-content-aside
+{
+    float: right;
+    width: 260px;
+    display: inline;
+}

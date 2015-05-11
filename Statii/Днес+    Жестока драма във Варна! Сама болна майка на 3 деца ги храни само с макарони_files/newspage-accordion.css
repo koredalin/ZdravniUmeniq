@@ -1,0 +1,123 @@
+﻿/***************************
+     Lates and Popular Accordion
+    ****************************/
+div.newspage-accordion-top
+{
+    margin: 0;
+    padding: 0;
+    background: #FFF url(../images/panelback_260x10_top.gif) no-repeat scroll top;
+    width: 260px;
+    height: 10px;
+}
+div.newspage-accordion-bottom
+{
+    margin: 0;
+    padding: 0;
+    background: #FFF url(../images/panelback_260x10_bottom.gif) no-repeat scroll top;
+    width: 260px;
+    height: 10px;
+}
+div.newspage-accordion
+{
+    background: #fff url(../images/panelback_260x30_middle.gif) repeat-y scroll top;
+    width: 260px;
+}
+
+div.newspage-accordion-list
+{
+    margin: 0 auto;
+    width: 240px;
+}
+p.newspage-accordion-list-head
+{
+    position: relative;
+    padding: 0.25em 10px;
+    margin: 0;
+    background: #CCC url(../images/panelback_240x20_title_left.gif) no-repeat scroll center;
+    font-weight: bold;
+    cursor: pointer;
+}
+div.newspage-accordion-list-body
+{
+    display: none;
+    width: 240px;
+    height: 266px;
+}
+div.newspage-accordion-list-body a
+{
+    font-weight: normal;
+    color: #000000;
+    text-decoration: none;
+}
+div.newspage-accordion-list-body a:hover
+{
+    color: #C00;
+    text-decoration: none;
+}
+/* tabs */
+div.newspage-accordion-list-body div.newspage-tabs ul
+{
+    float: right;
+    margin: 0;
+    padding: 0;
+}
+div.newspage-accordion-list-body div.newspage-tabs li
+{
+    list-style: none;
+}
+* html div.newspage-accordion-list-body div.newspage-tabs li
+{
+    display: inline; /* ie6 double float margin bug */
+}
+div.newspage-accordion-list-body div.newspage-tabs li, div.newspage-accordion-list-body div.newspage-tabs li a
+{
+    float: left;
+}
+div.newspage-accordion-list-body div.newspage-tabs ul li a
+{
+    text-decoration: none;
+    padding: 2px;
+    color: #000;
+    font-weight: bold;
+}
+div.newspage-accordion-list-body div.newspage-tabs ul li.active
+{
+    color:#c00;
+}
+div.newspage-accordion-list-body div.newspage-tabs ul li.active a
+{
+    color:#c00;
+}
+div.newspage-accordion-list-body div.newspage-tabs div
+{
+    clear: both;
+    width: 240px;
+}
+/*items*/
+div.newspage-accordion-list-body dl
+{
+    margin:0;
+    padding:0;
+}
+div.newspage-accordion-list-body dt
+{
+    float: left;
+    clear: right;
+    width: 48px;
+    color: #C00;
+    font-weight: bold;
+    text-align:center;
+}
+div.newspage-accordion-list-body dt.separator
+{
+    float:none;
+    clear:both;
+    width:auto
+}
+div.newspage-accordion-list-body dd
+{
+    float: left;
+    width: 190px;
+    margin: 0 0 5px 0px;/* top right bottom left */
+    font-weight: normal;
+}
